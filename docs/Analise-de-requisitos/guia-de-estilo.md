@@ -10,34 +10,36 @@ Neste documento buscamos registrar as principais decisões de design tomadas par
 O Guia de Estilo contará com os seguintes elementos analisados:
 
 - Elementos de interface
-  - Disposição espacial e grid
-  - Janelas
-  - Tipografia
-  - Símbolos não tipográficos
-  - Cores
-  - Animações
-
+    - Cores
+    - Icones e Botões
+    - Logotipos
+    - Tipografia
+    - Janelas
+    - Tipos de Tela para Tarefas Comuns
 - Elementos de interação
-  - Estilos de interação
-  - Seleção de um estilo
-  - Aceleradores (teclas de atalho)
-
+    - Estilos de interação
+    - Seleção de um estilo
+    - Aceleradores (Teclas de atalho)
 - Elementos de ação
-  - Preenchimento de campos
-  - Seleção
-  - Ativação
-
+    - Preenchimento de campos
+    - Seleção
+    - Ativação
+- Vocabulário e Terminologia
+    - Terminologia
+    - Consistência
+    - Sequências de Diálogos
+  
 ## Público-alvo do guia de estilo
 
 O Públlico-alvo consiste na equipe de desenvolvedores do Cinemark como também seus designs e partes interessadas. Ademais pode ajudar outros alunos futuros da disciplina em entender os conceitos trabalhados na matéria Interação Humano-Computador e também para embasar decisões em seus projetos.
 
-## Como utilizar o guia 
+## Como utilizar o guia
 
-Para cumprir o objetivo deste guia é importante utilizá-lo como fonte de referência para as decisões de design e observação dos princípios e diretrizes do site. A utilização deste artefato é fundamental para orientar a equipe na jornada de construção e garantia de qualidade da interface de usuário. 
+Para cumprir o objetivo deste guia é importante utilizá-lo como fonte de referência para as decisões de design e observação dos princípios e diretrizes do site. A utilização deste artefato é fundamental para orientar a equipe na jornada de construção e garantia de qualidade da interface de usuário.
 
 ## Como manter o guia
 
-A fim de manter o guia coerente e padronizado a equipe deve constantemente observar possíveis atualizações no decorrer das fases do ciclo de Mayhew. Assim, poderemos garantir a melhor 
+A fim de manter o guia coerente e padronizado a equipe deve constantemente observar possíveis atualizações no decorrer das fases do ciclo de Mayhew. Assim, poderemos garantir a melhor
 Dessa forma, é possível manter a consistência visual e de interação em todo o sistema, garantindo a melhor experiência do usuário e evitando possíveis problemas de usabilidade e acessibilidade.
 
 # Resultados de análise
@@ -54,46 +56,57 @@ Entretanto, para maximizar a responsividade e garantir acessibilidade em todos o
 
 # Elementos de interface
 
-
 Figura 1 - Elementos da Interface.
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/hnxmvpQmoIAzoTtgOHXHTd/Elementos-da-Interface---Grupo-4?node-id=0-1&embed-host=share" allowfullscreen></iframe>
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR), 2024.
 
-# Elementos de Interação
-
-O site da Cinemark oferece uma experiência rica em elementos de interação e ação, tanto para a navegação quanto para a compra de ingressos e uso de serviços adicionais. 
-
-## Estilos de interação:
-O site utiliza menus de navegação, botões e caixas de pesquisa que são intuitivos e responsivos. Por exemplo, o menu principal permite acessar a programação de filmes, promoções e serviços como o Cinemark Club.
-
-## Seleção de um estilo: 
-A interface prioriza uma navegação direta, com design claro e elementos visuais minimalistas, o que facilita a localização de informações rapidamente, como horários de sessões ou compra de ingressos.
-## Aceleradores (teclas de atalho): 
-Apesar de não estarem explicitamente indicados, o site é compatível com atalhos de teclado comuns para navegação web, como "Tab" para alternar entre campos e "Enter" para confirmar ações.
-
-# Elementos de Ação
-
-## Preenchimento de campos: 
-Durante a compra de ingressos, os formulários são otimizados para entrada rápida de dados. Campos como seleção de assentos e inserção de informações pessoais são bem organizados e visualmente claros.
-## Seleção:
-A seleção de filmes e horários é feita por meio de botões com labels claras, como "Comprar Ingresso". Para opções adicionais, como escolher uma sala XD ou poltronas D-BOX, o processo é dinâmico e visualmente destacado.
-## Ativação:
-O site permite ativar ações rapidamente, como finalizar compras ou inscrever-se no Cinemark Club, com feedback visual imediato, como mudanças de cor ou mensagens de confirmação.
-
-# Vocabulário e Terminologia
-## Terminologia: 
-O site utiliza um vocabulário acessível e familiar ao público geral, como "Ingressos", "Horários", "Salas 3D", "XD", e "Snack Bar". Termos específicos, como "D-BOX" ou "Cinemark Club", são acompanhados de descrições breves para ajudar o usuário a entender suas funções​.
-
-## Consistência: 
-As palavras-chave são consistentes em toda a navegação, garantindo que o usuário reconheça facilmente seções ou ações, como "Comprar Ingresso" e "Assine Agora".
-
 ## Tipos de Tela para Tarefas Comuns
 
 - Compra de Ingressos: O fluxo de compra é baseado em uma série de telas consecutivas: seleção de filme, escolha do horário, seleção de assentos, e finalização de pagamento. Cada tela apresenta informações claras e botões de ação bem destacados.
 - Consulta de Programação: O layout apresenta uma grade de filmes com horários, permitindo ao usuário filtrar por localização, idioma ou formato (e.g., legendado, 3D).
 - Inscrição em Programas: Telas dedicadas ao Cinemark Club incluem explicações dos benefícios e um formulário direto para cadastro​
+
+# Elementos de Interação
+
+O site da Cinemark oferece uma experiência rica em elementos de interação e ação, tanto para a navegação quanto para a compra de ingressos e uso de serviços adicionais. 
+
+## Estilos de interação
+
+O site utiliza menus de navegação, botões e caixas de pesquisa que são intuitivos e responsivos. Por exemplo, o menu principal permite acessar a programação de filmes, promoções e serviços como o Cinemark Club.
+
+## Seleção de um estilo
+
+A interface prioriza uma navegação direta, com design claro e elementos visuais minimalistas, o que facilita a localização de informações rapidamente, como horários de sessões ou compra de ingressos.
+
+## Aceleradores (teclas de atalho)
+
+Apesar de não estarem explicitamente indicados, o site é compatível com atalhos de teclado comuns para navegação web, como "Tab" para alternar entre campos e "Enter" para confirmar ações.
+
+# Elementos de Ação
+
+## Preenchimento de campos
+
+Durante a compra de ingressos, os formulários são otimizados para entrada rápida de dados. Campos como seleção de assentos e inserção de informações pessoais são bem organizados e visualmente claros.
+
+## Seleção
+
+A seleção de filmes e horários é feita por meio de botões com labels claras, como "Comprar Ingresso". Para opções adicionais, como escolher uma sala XD ou poltronas D-BOX, o processo é dinâmico e visualmente destacado.
+
+## Ativação
+
+O site permite ativar ações rapidamente, como finalizar compras ou inscrever-se no Cinemark Club, com feedback visual imediato, como mudanças de cor ou mensagens de confirmação.
+
+# Vocabulário e Terminologia
+
+## Terminologia
+
+O site utiliza um vocabulário acessível e familiar ao público geral, como "Ingressos", "Horários", "Salas 3D", "XD", e "Snack Bar". Termos específicos, como "D-BOX" ou "Cinemark Club", são acompanhados de descrições breves para ajudar o usuário a entender suas funções​.
+
+## Consistência
+
+As palavras-chave são consistentes em toda a navegação, garantindo que o usuário reconheça facilmente seções ou ações, como "Comprar Ingresso" e "Assine Agora".
 
 ## Sequências de Diálogos
 
@@ -106,10 +119,10 @@ As palavras-chave são consistentes em toda a navegação, garantindo que o usu�
 CINEMARK BRASIL. Site oficial Cinemark Brasil. Disponível em: https://www.cinemark.com.br. Acesso em: 3 dez. 2024.
 SAC CINEMARK BRASIL. Central de Atendimento Cinemark. Disponível em: https://sac.cinemark.com.br/hc/pt-br. Acesso em: 3 dez. 2024.
 
-
 ## Histórico de versões
 
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
 |  2.0   | Adição da estrutura do Guia de Estilo | [Pedro Miguel](https://github.com/pedroMADBR) | 03/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 |
+|  2.1   | Correção do sumário | [Pedro Miguel](https://github.com/pedroMADBR) | 03/01/2025 |  |  |
