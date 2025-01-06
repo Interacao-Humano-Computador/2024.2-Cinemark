@@ -1,5 +1,5 @@
 # Cinemark
-<img src="https://interacao-humano-computador.github.io/2024.2-Grupo04/img/Cinemark.png" alt="Logo Cinemark" style="display: block; margin: 0 auto; width: 200px;"/>
+<img src="https://interacao-humano-computador.github.io/2024.2-Cinemark/img/Cinemark.png" alt="Logo Cinemark" style="display: block; margin: 0 auto; width: 200px;"/>
 
 *Fonte: [Cinemark Brasil](https://www.cinemark.com.br)*
 

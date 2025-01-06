@@ -30,19 +30,11 @@ A avaliação será conduzida por meio de entrevistas semiestruturadas e observa
 
 | Entrevistador | Entrevistado | Data       | Horário      | Local            |
 |:-------------:|:------------:|:----------:|:------------:|:----------------:|
-| Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
-| Pedro Miguel  | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
+| Ana Joyce     | Usuário 1    | 02/04/2025 | 17:00 - 17:30| Google Meet      |
+| Anne          | Usuário 2    | 02/04/2025 | 19:00 - 19:30| Google Meet      |
 
 Autor: [Ana Joyce](https://github.com/anajoyceamorim)
 
-#### Tabela 2: Cronograma executado
-
-| Entrevistador | Entrevistado | Data       | Horário      | Local            |
-|:-------------:|:------------:|:----------:|:------------:|:----------------:|
-| Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
-| Anne          | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
-
-Autor: [Ana Joyce](https://github.com/anajoyceamorim)
 
 ### Seleção dos participantes
 

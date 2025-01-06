@@ -35,9 +35,13 @@ A compra de ingressos é uma das principais tarefas realizadas pelos usuários d
 | 4. Finalizar pagamento | | Plano: inserir dados do cartão de crédito, Pix ou cupom de desconto | 
 | Feedback: receber confirmação de compra |||
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
 ![Diagrma HTA - Compra Ingresso](../assets/ferramentas/htacompraingresso.png)
 
-
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 **Análise HTA 2: Comprar alimentos e bebidas**
 
@@ -52,8 +56,13 @@ A funcionalidade de compra antecipada de alimentos permite maior conveniência a
 | 3. Realizar o pagamento| | Plano: incluir alimentos ou upgrade para sala premium | 
 | 4. Finalizar pagamento | | Plano: escolher método de pagamento e confirmar a retirada no cinema escolhido | 
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
 ![Diagrma HTA - Compra Alimento](../assets/ferramentas/htacompraalimento.png)
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 **Análise de Tarefas HTA 3: Reserva de Salas**
 
@@ -70,7 +79,13 @@ O Cinemark disponibiliza a funcionalidade de reserva de salas para eventos parti
 | 4. Preencher dados pessoais | | 	Plano: Inserir informações de contato e detalhes adicionais do evento | 
 | 5. Confirmar e efetuar reserva | | 	Plano: Realizar pagamento ou solicitar orçamento | 
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
 ![Diagrma HTA - Reserva sala](../assets/ferramentas/htareservasala.png)
+
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 **Análise de Tarefas HTA 4: Cinemark Club**
 
@@ -84,7 +99,13 @@ O Cinemark Club é o programa de assinatura que oferece descontos em ingressos e
 | 3. Preencher dados pessoais | | Plano: Informar nome, CPF, e-mail e dados de pagamento  |
 | 4. Confirmar adesão | | 	Plano: Aceitar os termos e confirmar o pagamento  | 
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
 ![Diagrma HTA - Cinemark Club](../assets/ferramentas/htacinemarkclub.png)
+
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 **Análise de Tarefas HTA 5: Voucher Corporativo**
 
@@ -97,7 +118,13 @@ O Voucher Corporativo é uma funcionalidade voltada para empresas que desejam ad
 | 2. Informar dados da empresa |  |  Plano: Preencher informações da empresa, como CNPJ e endereço de faturamento |
 | 3. Confirmar pagamento | |Plano: Escolher forma de pagamento e concluir a transação  |
 
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
 ![Diagrma HTA - Voucher Corporativo](../assets/ferramentas/htavoucher.png)
+
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 ### **Árvore de Tarefas Concorrentes (CTT) - Cinemark**
 **Motivo da Escolha**

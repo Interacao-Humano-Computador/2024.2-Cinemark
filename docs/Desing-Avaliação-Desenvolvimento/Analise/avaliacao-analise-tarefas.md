@@ -85,8 +85,8 @@ Um cronograma será seguido para organizar entrevistas e análises:
 
 | Entrevistador | Entrevistado | Data       | Horário      | Local            |
 |:-------------:|:------------:|:----------:|:------------:|:----------------:|
-| Ana Joyce     | Usuário 1    | 10/12/2024 | 17:00 - 17:30| Google Meet      |
-| Anne          | Usuário 2    | 10/12/2024 | 19:00 - 19:30| Google Meet      |
+| Ana Joyce     | Usuário 1    | 02/04/2025 | 17:00 - 17:30| Google Meet      |
+| Anne          | Usuário 2    | 02/04/2025 | 19:00 - 19:30| Google Meet      |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
@@ -160,7 +160,7 @@ O objetivo do teste piloto é avaliar o planejamento da avaliação, verificando
 
 ### Data e Participantes
 
-- **Data do Teste Piloto**: 10/12/2024
+- **Data do Teste Piloto**: 10/12/2025
 - **Horário**: 18:30
 - **Participantes**:
   - **Ana Joyce** (Entrevistadora)
