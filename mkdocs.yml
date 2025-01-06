@@ -20,6 +20,9 @@ nav:
     - "Entrega 4":
       - "Lista de verificação": avaliacoes/entrega4/avaliacao.md
       - "Lista de verificação grupo 5": avaliacoes/entrega4/avaliacao+1.md
+    - "Entrega 5":
+      - "Lista de verificação": avaliacoes/entrega5/avaliacao.md
+      - "Lista de verificação grupo 5": avaliacoes/entrega5/avaliacao+1.md
 
   - Atas:
     - "Ata 1": Atas/ata1.md
@@ -57,6 +60,8 @@ nav:
         - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
         - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
         - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
+      - " Protótipo de papel":
+        - "Planejamento da Avaliação do Protótipo de Papel":  Desing-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
         
 theme:
   name: material
