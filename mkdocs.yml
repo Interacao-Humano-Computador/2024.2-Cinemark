@@ -55,6 +55,7 @@ nav:
       - " Storyboard ": 
         - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
         - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
+        - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
         
 theme:
   name: material
