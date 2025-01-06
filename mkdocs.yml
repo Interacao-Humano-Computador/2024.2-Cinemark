@@ -59,8 +59,9 @@ nav:
       - " Storyboard ": 
         - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
         - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
+        - " Relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/relatos-resultados-storyboard.md
         - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
-      - " Protótipo de papel":
+      - "Protótipo de papel":
         - "Planejamento da Avaliação do Protótipo de Papel":  Desing-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
         
 theme:
