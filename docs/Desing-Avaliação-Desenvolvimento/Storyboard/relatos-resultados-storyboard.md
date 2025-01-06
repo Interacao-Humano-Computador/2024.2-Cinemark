@@ -237,4 +237,4 @@ Com base nos achados listados, propomos um reprojeto pontual, corrigindo problem
 ## histórico de Versão
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação da página | [José Oliveira](https://github.com/José 1277) | 06/01/2025 | [](https://github.com/) |  06/01/2025   |
+|  1.0   | Criação da página | [José Oliveira](https://github.com/José 1277) | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |  06/01/2025   |
