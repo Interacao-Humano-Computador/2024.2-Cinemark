@@ -5,8 +5,8 @@ A verificação da entrega é necessária porque garante que o projeto atenda ao
 ## Apresentação 5: Resultado da Avaliação do Storyboard e Análise de Tarefas e Planejamento da Avalaiação do protótipo de papel
 | Itens do Desenvolvimento do Projeto                                                                 | Status        | Versão e Data               |
 | ---------------------------------------------------------------------------------------------------- | ------------- | --------------------------- |
-| 1 - O histórico de versão padronizado?                                                              | Sim/não/incompleto        |    |
-| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                           |        |     |
+| 1 - O histórico de versão padronizado?                                                              |  incompleto    |  1.0 06/01/2025  |
+| 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                           |      in  |     |
 | 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos?                            |  |   |
 | 4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro do texto?                  |  |    |
 | 5 - Um texto fazendo uma introdução dos artefatos?                                                 | |     |
