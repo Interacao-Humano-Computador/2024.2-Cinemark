@@ -85,20 +85,40 @@ Temos como objetivo o custo mínimo em nossas avaliações e para tal iremos bus
 
 ### Prazos
 
+Planeja-se realizar as entrevistas em método observador de acordo com as seguintes datas:
 
+#### Tabela 2 - Cronograma esperado
+
+| Entrevistadores | Entrevistado | Data       | Duração | Tarefa | Local              |
+| ------------- | ------- | ---------- | ----------- | --------- |------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim) | Maria Eduarda | 06/01/2025 | -- | -- | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Ester Araújo | 06/01/2025 | -- | -- | Faculdade UnB Gama |
+| [José Oliveira](https://github.com/Jose1277) | Sofia Victória | 07/01/2025 | -- | -- | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR) | Bruno Klisman | 08/01/2025 | -- | -- | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR) | Pedro Martins | 08/01/2025 | -- | -- | Faculdade UnB Gama |
+
+Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
 ### Roteiro de perguntas
-### Execução do Roteiro
+
+As perguntas serão trabalhadas a partir da seção [Explorar perguntas](#explorar-perguntas-a-serem-respondidas-com-a-avaliação) que se baseiam nos [objetivos](#determinar-os-objetivos-da-avaliação) selecionados para essa avaliação.
 
 ---
 
 ## Decidir como lidar com as questões éticas
 
+- Será obtido consentimento dos participantes antes da entrevista.
+- Garantia de anonimato e confidencialidade das respostas coletadas.
+
 ---
 
 ## Avaliar, interpretar e apresentar os dados
 
+Com os dados das entrevistas devidamente documentados e organizados nos materiais do grupo de trabalho será possível interpretá-los com base no contexto apresentado para o entrevistado e os fatores da entrevista, como artíficio de comparação utilizaremos a gravação também. Dessa forma poderemos avaliar as questões apresentadas e anotar as melhorias observadas, os novos caminhos levantados e correções para as próximas etapas.
+
 ---
+
+<!-- ## Teste Piloto -->
 
 ## Referências Bibliográficas
 
