@@ -10,7 +10,7 @@ A fim de garantir o bom andamento e a qualidade do projeto serão utilizados os 
 
 A metodologia segue o framework **DECIDE**, onde cada etapa é detalhada a seguir:
 
-#### Tabela 1 - Framework DECIDE
+### Tabela 1 - Framework DECIDE
 
 | Letra |                          Definição                           |
 | :---: | :----------------------------------------------------------: |
@@ -122,7 +122,8 @@ Com os dados das entrevistas devidamente documentados e organizados nos materiai
 
 ## Referências Bibliográficas
 
-> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
+> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+---
 > Nielsen, J. e Molich, R. “Heuristic evaluation of user interfaces”. Proceedings of ACM CHI’90, pp. 249–256, 1990.
 
 ---
