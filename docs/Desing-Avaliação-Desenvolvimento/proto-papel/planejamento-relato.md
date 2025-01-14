@@ -61,4 +61,4 @@ O documento concluirá com um sumário das informações mais relevantes, destac
 
 | Versão |            Descrição             |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |             |   14/01/2025    |
+|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
