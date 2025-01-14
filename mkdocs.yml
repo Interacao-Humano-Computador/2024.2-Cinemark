@@ -23,27 +23,12 @@ nav:
       - "Entrega 5":
           - "Lista de verificação": avaliacoes/entrega5/avaliacao.md
           - "Lista de verificação grupo 5": avaliacoes/entrega5/avaliacao+1.md
-    - "Entrega 1":
-      - "Lista de verificação": avaliacoes/entrega1/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega1/avaliacao+1.md
-    - "Entrega 2":
-      - "Lista de verificação": avaliacoes/entrega2/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega2/avaliacao+1.md
-    - "Entrega 3":
-      - "Lista de verificação": avaliacoes/entrega3/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega3/avaliacao+1.md
-    - "Entrega 4":
-      - "Lista de verificação": avaliacoes/entrega4/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega4/avaliacao+1.md
-    - "Entrega 5":
-      - "Lista de verificação": avaliacoes/entrega5/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega5/avaliacao+1.md
-    - "Entrega 6":
-      - "Lista de verificação": avaliacoes/entrega6/avaliacao.md
-      - "Lista de verificação grupo 5": avaliacoes/entrega6/avaliacao+1.md
+      - "Entrega 6":
+          - "Lista de verificação": avaliacoes/entrega6/avaliacao.md
+          - "Lista de verificação grupo 5": avaliacoes/entrega6/avaliacao+1.md
 
   - Atas:
-      - "Ata 1": Atas/ata1.md
+      - "Atas": Atas/ata1.md
 
   - Apresentações:
       - "Entrega 2 e 3": apresentacoes/entrega2.md
@@ -78,9 +63,16 @@ nav:
               - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
               - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
               - " Relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/relatos-resultados-storyboard.md
-              - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
+              - " Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
+      - "Nível 2":
           - "Protótipo de papel":
               - "Planejamento da Avaliação do Protótipo de Papel": Desing-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
+              - "Planejamento da Avaliação do Relato dos resultados": Desing-Avaliação-Desenvolvimento/proto-papel/planejamento-relato.md
+              - "Relato dos resultados": Desing-Avaliação-Desenvolvimento/proto-papel/relatos.md
+      - "Nível 3":
+          - "Protótipo de Alta fidelidade":
+              - "Planejamento da Avaliação do Protótipo de Alta Fidelidade": Desing-Avaliação-Desenvolvimento/proto-alta/planejamento-avaliacao.md
+              - "Planejamento do Resultado da Avaliação do Protótipo de Alta Fidelidade": Desing-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
 
 theme:
   name: material
