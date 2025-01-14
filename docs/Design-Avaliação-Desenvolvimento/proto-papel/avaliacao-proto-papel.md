@@ -19,7 +19,7 @@ A metodologia segue o framework **DECIDE**, onde cada etapa é detalhada a segui
 |   C   |     Escolher os métodos de avaliação a serem utilizados.     |
 |   I   | Identificar e administrar as questões práticas da avaliação. |
 |   D   |          Decidir como lidar com as questões éticas.          |
-|   E   |          Avaliar, interpretar e apresentar os dados.         |
+|   E   |         Avaliar, interpretar e apresentar os dados.          |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
@@ -77,10 +77,10 @@ Devemos destacar que de acordo com Nielsen (1990) é viável realizar uma avalia
 
 Para a avaliação do prótotipo de papel foram escolhidas as seguintes tarefas:
 
-- Compra de Vouchers Corporativos.
-- Reserva de Salas.
-- Compra de Ingressos e Combos.
-- Cadastro no Cinemark Club.
+- **Cinemark Club**: Inscrição e consulta de benefícios.
+- **Compra de ingressos e snacks**: Seleção de filmes, sessões, e compra de snacks.
+- **Reserva de salas**: Agendamento e confirmação de reservas.
+- **Voucher corporativo**: Gerenciamento e utilização de vouchers corporativos.
 
 Tais tarefas serão desenvolvidas em protótipos de papel para que tais materiais sejam utilizados durante a avaliação.
 
@@ -94,13 +94,13 @@ Planeja-se realizar as entrevistas em método observador de acordo com as seguin
 
 #### Tabela 3 - Cronograma esperado
 
-| Entrevistadores | Entrevistado | Data       | Duração | Tarefa | Local              |
-| ------------- | ------- | ---------- | ----------- | --------- |------------------ |
-| [Ana Joyce](https://github.com/anajoyceamorim) | Usuário 1 | 08/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Anne de Capdeville](https://github.com/nanecapde) | Usuário 2 | 15/01/2025 | -- | -- | Faculdade UnB Gama |
-| [José Oliveira](https://github.com/Jose1277) | Usuário 3 | 15/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Usuário 4 | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Usuário 5 | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
+| Entrevistadores                                    | Entrevistado  | Data       | Duração | Tarefa           | Local              |
+| -------------------------------------------------- | ------------- | ---------- | ------- | ---------------- | ------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)     | Maria Eduarda | 06/01/2025 | --      | --               | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Solange       | 06/01/2025 | --      | Reserva de Salas | Faculdade UnB Gama |
+| [José Oliveira](https://github.com/Jose1277)       | Sofia         | 07/01/2025 | --      | --               | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Bruno         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Pedro         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
@@ -123,7 +123,40 @@ Com os dados das entrevistas devidamente documentados e organizados nos materiai
 
 ---
 
-<!-- ## Teste Piloto -->
+## Teste Piloto
+
+O objetivo do teste piloto serve como uma etapa preliminar para garantir que o teste de usabilidade principal seja bem-sucedido. Ele tem vários objetivos fundamentais:
+
+- Verificação do Processo:
+  O teste piloto permite validar todo o procedimento do teste, incluindo a configuração do ambiente, a clareza das instruções e a execução das tarefas. Isso assegura que tudo esteja funcionando como planejado.
+
+- Detecção de Problemas Técnicos:
+  Essa fase ajuda a identificar falhas técnicas, como erros no software ou problemas com equipamentos, que podem ser corrigidos antes do teste principal.
+
+- Avaliação das Tarefas:
+  O piloto verifica se as tarefas são adequadas e compreensíveis para os participantes. Se as tarefas forem muito complexas ou simples, ajustes podem ser feitos para melhorar a eficácia do teste.
+
+- Ajuste de Ferramentas e Questionários:
+  Questionários ou outras ferramentas de coleta de dados também são testados para garantir que as perguntas sejam claras e relevantes, possibilitando ajustes antes do teste definitivo.
+
+- Preparação da Equipe:
+  O teste piloto permite que a equipe responsável pelo teste se familiarize com o processo e resolva quaisquer dúvidas ou problemas, garantindo que estejam prontos para o teste principal.
+
+- Economia de Tempo e Recursos:
+  Ao identificar e resolver problemas durante o piloto, a equipe evita retrabalho e economiza tempo e recursos durante o teste completo.
+
+- Coleta de Dados Iniciais:
+  Essa etapa inicial também fornece uma amostra dos dados que serão coletados, permitindo ajustes na metodologia para garantir resultados mais precisos e úteis.
+
+Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade seja eficiente, identificando e corrigindo potenciais problemas antes da execução final.
+
+## Resultado do Teste Piloto - Reserva de Salas
+
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+
+<p style="text-align: center"><a href="https://youtu.be/shp9NlqMNw" target="blanket">Clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
 
 ## Referências Bibliográficas
 
@@ -135,6 +168,8 @@ Com os dados das entrevistas devidamente documentados e organizados nos materiai
 
 ## Histórico de versões
 
-| Versão |     Descrição      |         Autor(es)         |    Data    |         Revisor(es)         | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação do documento | [Pedro Miguel](https://github.com/pedroMADBR) | 06/01/2024 | [](https://github.com/) |      |
+| Versão |      Descrição       |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   | Criação do documento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
+|  1.1   |      Correções       | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |    [Pedro Miguel](https://github.com/pedroMADBR)   |   14/01/2025    |
+|  1.2   | Alteração dos objetivos e correção do cronograma |  [Pedro Miguel](https://github.com/pedroMADBR) | 14/01/2025 |    [nome](https://github.com/nome)   |   xx/01/2025    |

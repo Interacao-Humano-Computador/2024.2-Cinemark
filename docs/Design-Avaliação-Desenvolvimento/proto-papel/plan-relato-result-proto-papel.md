@@ -32,15 +32,15 @@ O mesmo pode ser consultado no tópido do framework DECIDE em [Escolher os méto
 
 Para a escolha dos entrevistados tivemos como base o [Perfil de Usuário](../../Analise-de-requisitos/perfil-de-usuario.md) assim como aponta (Barbosa e Silva, 2021) e portanto procuramos pessoas em nosso círculo que se aproximassem desse perfil para realizar as avaliações. Devemos destacar que de acordo com Nielsen (1990) é viável realizar uma avaliação somente com cinco pessoas tendo menos gastos de tempo e outros recursos e estatisticamente garantido o resultado semelhante ao de uma pesquisa com um grupo grande de pessoas.
 
-### Tabela 1 - Cronograma esperado
+### Tabela 1 - Cronograma Realizado
 
 | Entrevistadores | Entrevistado | Data       | Duração | Tarefa | Local              |
 | ------------- | ------- | ---------- | ----------- | --------- |------------------ |
 | [Ana Joyce](https://github.com/anajoyceamorim) | Usuário 1 | 08/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Anne de Capdeville](https://github.com/nanecapde) | Usuário 2 | 15/01/2025 | -- | -- | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Solange | 13/01/2025 | 19:00-19:15 | Reserva de Salas | Faculdade UnB Gama |
 | [José Oliveira](https://github.com/Jose1277) | Usuário 3 | 15/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Usuário 4 | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Usuário 5 | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
+| [Pedro Miguel](https://github.com/pedroMADBR) | Pedro | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
+| [Pedro Miguel](https://github.com/pedroMADBR) | Bruno | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
@@ -84,3 +84,4 @@ Com base principalmente nos problemas encontrados, dados coletados, observaçõe
 | Versão |     Descrição      |         Autor(es)         |    Data    |         Revisor(es)         | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da estrutura do planejamento | [Pedro Miguel](https://github.com/pedroMADBR) | 09/01/2024 | [](https://github.com/) |  - - |
+|  1.1   | Adição de informações | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
