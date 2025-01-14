@@ -2,7 +2,8 @@
 
 A verificação da entrega é necessária porque garante que o projeto atenda aos requisitos descritos no plano de ensino da disciplina.
 
-## Apresentação 5: Resultado da Avaliação do Storyboard e Análise de Tarefas e Planejamento da Avalaiação do protótipo de papel
+## Apresentação 6: Resultado da Avaliação do Protótipo de Papel e Planejamento da Avaliação e do Relato dos Resultados do Protótipo de Alta Fidelidade
+
 | Itens do Desenvolvimento do Projeto                                                                  | Status        | Versão e Data               |
 | ---------------------------------------------------------------------------------------------------- | ------------- | --------------------------- |
 | 1 - O histórico de versão padronizado?                                                               |               |                             |
@@ -33,4 +34,4 @@ A verificação da entrega é necessária porque garante que o projeto atenda ao
 
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   |            subindo a tabela           | [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2024 | [Nome](https://github.com/nome) |  xx/xx/2024    |
+|  1.0   |            subindo a tabela           | [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |  14/01/2024  |
