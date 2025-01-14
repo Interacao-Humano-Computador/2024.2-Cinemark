@@ -66,4 +66,4 @@ Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [An
 
 | Versão |            Descrição             |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |             |                 |
+|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) | 14/01/2025 |
