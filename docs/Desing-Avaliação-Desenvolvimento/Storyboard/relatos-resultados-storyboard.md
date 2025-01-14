@@ -351,4 +351,4 @@ Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Jo
 | Versão |      Descrição      |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
 | :----: | :-----------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
 |  1.0   |  Criação da página  |    [José Oliveira](https://github.com/José1277)    | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   06/01/2025    |
-|  1.1   | Correções da página | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |                                               |   14/01/2025    |
+|  1.1   | Correções da página | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
