@@ -53,16 +53,17 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - "Nível 1":
       - " Análise de tarefas": 
-        - " Planejamento da avaliação da Análise de Tarefas": Desing-Avaliação-Desenvolvimento/Analise/avaliacao-analise-tarefas.md
-        - " Planejamento do relato dos resultados da avaliação da Análise de Tarefas": Desing-Avaliação-Desenvolvimento/Analise/resultado-analise-tarefas.md
-        - " Relato dos resultados da avaliação da Análise de Tarefas": Desing-Avaliação-Desenvolvimento/Analise/relato-dos-resultados-analise-tarefas
+        - " Planejamento da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/avaliacao-analise-tarefas.md
+        - " Planejamento do relato dos resultados da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/resultado-analise-tarefas.md
+        - " Relato dos resultados da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/relato-dos-resultados-analise-tarefas
       - " Storyboard ": 
-        - " Planejamento da Avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
-        - " Planejamento do relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
-        - " Relato dos resultados da avaliação do Storyboard": Desing-Avaliação-Desenvolvimento/Storyboard/relatos-resultados-storyboard.md
-        - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
+        - " Planejamento da Avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
+        - " Planejamento do relato dos resultados da avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
+        - " Relato dos resultados da avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/relatos-resultados-storyboard.md
+        - "Storyboards": Design-Avaliação-Desenvolvimento/Storyboard/storyboards.md
       - "Protótipo de papel":
-        - "Planejamento da Avaliação do Protótipo de Papel":  Desing-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
+        - "Planejamento da Avaliação do Protótipo de Papel":  Design-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
+        - "Planejamento do Relato dos Resultado do Protótipo de Papel": Design-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
         
 theme:
   name: material
