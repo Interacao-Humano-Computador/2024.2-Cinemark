@@ -66,6 +66,10 @@ nav:
         - "Storyboards": Desing-Avaliação-Desenvolvimento/Storyboard/storyboards.md
       - "Protótipo de papel":
         - "Planejamento da Avaliação do Protótipo de Papel":  Desing-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
+        - "Relato dos resultados do Protótipo de Papel":  Desing-Avaliação-Desenvolvimento/proto-papel/relatos.md
+      - "Protótipo de Alta":
+        - "Planejamento da Avaliação do Protótipo de Alta":  Desing-Avaliação-Desenvolvimento/proto-alta/planejamento-avaliacao.md
+        - "Planejamento da Avaliação do Protótipo de Alta":  Desing-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
         
 theme:
   name: material
