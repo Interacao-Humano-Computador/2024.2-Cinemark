@@ -63,7 +63,7 @@ nav:
         - "Storyboards": Design-Avaliação-Desenvolvimento/Storyboard/storyboards.md
       - "Protótipo de papel":
         - "Planejamento da Avaliação do Protótipo de Papel":  Design-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
-        - "Planejamento do Relato dos Resultado do Protótipo de Papel": Design-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
+        - "Planejamento do Relato dos Resultado do Protótipo de Papel": Design-Avaliação-Desenvolvimento/proto-papel/relato-resultados-proto-papel.md
         
 theme:
   name: material
