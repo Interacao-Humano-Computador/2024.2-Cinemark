@@ -114,7 +114,7 @@ As perguntas serão trabalhadas a partir da seção [Explorar perguntas](#explor
 
 - Será obtido consentimento dos participantes antes da entrevista.
 - Garantia de anonimato e confidencialidade das respostas coletadas.
-
+<!-- ADICIONAR TERMO DE CONSENTIMENTO -->
 ---
 
 ## Avaliar, interpretar e apresentar os dados

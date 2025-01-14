@@ -44,7 +44,6 @@ Para a escolha dos entrevistados tivemos como base o [Perfil de Usuário](../../
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
-
 ## Um Sumário dos Dados Coletados, incluindo Tabelas e/ou Gráficos
 
 No sumário dos dados é importante realizar um resumo do que foi coletado durante o processo a fim de fazer um resumo breve para posterior análise e consideração. A Tabela montada abaixo deve ser respondida por cada avaliador após e/ou durante a avaliação com base em suas observações, observações do entrevistado e reflexões posteriores com base na gravação de aúdio e video produzida.
