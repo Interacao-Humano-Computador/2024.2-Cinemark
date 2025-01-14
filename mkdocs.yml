@@ -23,32 +23,35 @@ nav:
     - "Entrega 5":
       - "Lista de verificação": avaliacoes/entrega5/avaliacao.md
       - "Lista de verificação grupo 5": avaliacoes/entrega5/avaliacao+1.md
+    - "Entrega 6":
+      - "Lista de verificação": avaliacoes/entrega6/avaliacao.md
+      - "Lista de verificação grupo 5": avaliacoes/entrega6/avaliacao+1.md
 
   - Atas:
-    - "Ata 1": Atas/ata1.md
+      - "Ata 1": Atas/ata1.md
 
   - Apresentações:
-    - "Entrega 2 e 3": apresentacoes/entrega2.md
-    - "Entrega 4": apresentacoes/entrega4.md
+      - "Entrega 2 e 3": apresentacoes/entrega2.md
+      - "Entrega 4": apresentacoes/entrega4.md
 
   - Planejamento:
-    - "Cronograma": planejamento/cronograma.md
-    - "Sites Avaliados": planejamento/sites-avaliados.md
-    - "Site Escolhido" : planejamento/site-escolhido.md
-    - "Processo de design" : planejamento/Processo de design.md
-    - "Ferramentas": planejamento/ferramentas.md
-    - "Mapa de Energia": planejamento/mapa-de-energia.md
-  
+      - "Cronograma": planejamento/cronograma.md
+      - "Sites Avaliados": planejamento/sites-avaliados.md
+      - "Site Escolhido": planejamento/site-escolhido.md
+      - "Processo de design": planejamento/Processo de design.md
+      - "Ferramentas": planejamento/ferramentas.md
+      - "Mapa de Energia": planejamento/mapa-de-energia.md
+
   - Análise de requisitos:
-    - "Aspectos éticos": Analise-de-requisitos/aspectos-eticos.md
-    - "Perfil de usuário": Analise-de-requisitos/perfil-de-usuario.md
-    - "Cenários": Analise-de-requisitos/cenarios.md
-    - "Personas": Analise-de-requisitos/personas.md
-    - "Análise de tarefas": Analise-de-requisitos/analise-de-tarefas.md
-    - "Princípios gerais de projeto": Analise-de-requisitos/principios-gerais-de-projeto.md
-    - "Metas de usabilidade": Analise-de-requisitos/metas-de-usabilidade.md
-    - "Guia de estilo": Analise-de-requisitos/guia-de-estilo.md
-    - "Características da plataforma": Analise-de-requisitos/caracteristicas-da-plataforma.md
+      - "Aspectos éticos": Analise-de-requisitos/aspectos-eticos.md
+      - "Perfil de usuário": Analise-de-requisitos/perfil-de-usuario.md
+      - "Cenários": Analise-de-requisitos/cenarios.md
+      - "Personas": Analise-de-requisitos/personas.md
+      - "Análise de tarefas": Analise-de-requisitos/analise-de-tarefas.md
+      - "Princípios gerais de projeto": Analise-de-requisitos/principios-gerais-de-projeto.md
+      - "Metas de usabilidade": Analise-de-requisitos/metas-de-usabilidade.md
+      - "Guia de estilo": Analise-de-requisitos/guia-de-estilo.md
+      - "Características da plataforma": Analise-de-requisitos/caracteristicas-da-plataforma.md
 
   - Design, Avaliação e Desenvolvimento:
     - "Nível 1":
@@ -77,10 +80,10 @@ theme:
 
   disable_nav_previous_next: true
 
-  palette: 
+  palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Trocar para modo escuro
 
     - scheme: slate
@@ -90,12 +93,10 @@ theme:
 
   favicon: assets/favicon.ico
   logo: assets/favicon.ico
-  
 
 markdown_extensions:
   - tables
   - attr_list
   - md_in_html
-
 
 extra_css: [stylesheets/extra.css]
