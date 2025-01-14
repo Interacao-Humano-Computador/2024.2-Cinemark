@@ -219,4 +219,4 @@ Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/n
 |  1.1   |     Adição do DECIDE      |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   10/12/2024    |
 |  1.2   | Adição video teste piloto |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
 |  1.3   |   Corrigindo os papéis    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
-|  1.4   |    Correção da página     | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |                                                    |   14/01/2025    |
+|  1.4   |    Correção da página     | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |  [Pedro Miguel](https://github.com/pedroMADBR)     |   14/01/2025    |
