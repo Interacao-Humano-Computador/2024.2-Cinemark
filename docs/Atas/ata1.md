@@ -21,5 +21,5 @@ Realizada a divisão do trabalho, documentação no git pages e desenvolvimento 
 
 | Versão | Data       | Descrição                | Autor(es)                                          | Revisor(es) |
 | ------ | ---------- | ------------------------ | -------------------------------------------------- | ----------- |
-| 1.0    | 14/11/2024 | Planejamento do trabalho | [Anne de Capdeville](https://github.com/nanecapde) | - -         |
-| 1.1    | 14/01/2025 | Atualizações             | [Anne de Capdeville](https://github.com/nanecapde) | - -         |
+| 1.0    | 14/11/2024 | Planejamento do trabalho | [Anne de Capdeville](https://github.com/nanecapde) | [Pedro Miguel](https://github.com/pedroMADBR) |
+| 1.1    | 14/01/2025 | Atualizações             | [Anne de Capdeville](https://github.com/nanecapde) | [Pedro Miguel](https://github.com/pedroMADBR) |
