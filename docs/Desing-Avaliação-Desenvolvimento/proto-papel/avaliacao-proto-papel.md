@@ -165,4 +165,4 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.
 | Versão |      Descrição       |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   | Criação do documento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
-|  1.1   |      Correções       | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |                                                    |                 |
+|  1.1   |      Correções       | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |    [Pedro Miguel](https://github.com/pedroMADBR)   |   14/01/2025    |
