@@ -23,16 +23,6 @@ Os dados foram coletados por meio de entrevistas presenciais. Antes de iniciar, 
 
 Cinco participantes foram selecionados, representando o público-alvo do Cinemark. A seleção visou garantir que os participantes tivessem experiência relevante com as funcionalidades avaliadas.
 
-## Sugestões de Melhoria
-
-### Feedback dos Usuários
-
-#### Entrevista 1
-
-Na primeira entrevista, a usuária Solange sugeriu:
-
--
-
 ## Análise e Interpretação dos Dados
 
 - **O protótipo de papel permitiu explorar conceitos de design eficazes?**
@@ -54,16 +44,44 @@ As seguintes melhorias foram propostas:
 - Implementar um atalho para "Histórico de Compras" na página inicial.
 - Reavaliar o layout para melhorar a clareza e a acessibilidade das funcionalidades principais.
 
+#### Entrevista 1
+
+## Sugestões de Melhoria
+
+Na primeira entrevista, a usuária Solange sugeriu:
+
+- Não precisar realizar o cadastro ao comprar ingresso.
+
+## Entrevista Protótipo de Papel - **Compra de Ingresso e Snack**
+
+Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Anne](https://github.com/nanecapde).
+
+<p style="text-align: center"><a href="https://youtu.be/0uB2-bognZA" target="blanket">Clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+
+#### Entrevista 2
+
+## Sugestões de Melhoria
+
+O usuário, Nicholas sugeriu:
+
+- Opção Reserva de salas mais clara e aparente na página inicial.;
+
+### Feedback dos Usuários
+
+- A área direcionada para Reserva de Salas não é intuitiva, gerando confusão para realizar essa ação.
+
 ## Entrevista Protótipo de Papel - **Reserva de Salas**
 
 Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Anne](https://github.com/nanecapde).
 
-<p style="text-align: center"><a href="https://youtu.be/7CIUqc0rRQ" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/Yr4moztx8_U" target="blanket">Clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
 
 ## Histórico de versões
 
-| Versão |            Descrição             |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
-| :----: | :------------------------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) | 14/01/2025 |
+| Versão |            Descrição             |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
+| :----: | :------------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
+|  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
