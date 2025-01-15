@@ -72,9 +72,11 @@ nav:
 
       - "Nível 3":
           - "Protótipo de Alta Fidelidade":
+              - "Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/prototipo-alta.md
               - "Planejamento da Avaliação do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-avaliacao.md
               - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
               - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/resultados.md
+              
 
 theme:
   name: material
