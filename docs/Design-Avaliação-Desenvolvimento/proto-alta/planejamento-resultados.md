@@ -86,4 +86,4 @@ Por fim, como o objetivo dessa atividade está geralmente relacionado à valida�
 
 | Versão | Data       | Descrição             | Autor(es)                                        | Revisor(es)                                  |
 | ------ | ---------- | --------------------- | ------------------------------------------------ | -------------------------------------------- |
-| `1.0`  | 14/01/2024 | Planejamento          | [Ana Joyce](https://github.com/anajoyceamorim)   | [Nome](https://github.com/nome) |
+| `1.0`  | 14/01/2025 | Planejamento          | [Ana Joyce](https://github.com/anajoyceamorim)   | [José Oliveira](https://github.com/Jose1277) |

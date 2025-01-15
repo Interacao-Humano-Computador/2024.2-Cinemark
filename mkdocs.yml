@@ -75,6 +75,9 @@ nav:
               - "Planejamento da Avaliação do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-avaliacao.md
               - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
               - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/resultados.md
+              - "Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/prototipo-alta.md
+
+              
 
 theme:
   name: material
