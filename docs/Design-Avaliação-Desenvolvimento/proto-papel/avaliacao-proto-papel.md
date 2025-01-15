@@ -41,13 +41,13 @@ Com base nos objetivos levantadados anteriormente visa explorar as questões aba
 
 ### Tabela 2 - Perguntas da avaliação
 
-| Objetivo a ser respondido |              Pergunta              |
-|:-------------------------:|:----------------------------------:|
-| Comparar ideias e alternativas de design | Qual das alternativas é a mais eficiente? Mais fácil de aprender? |
-| Comparar ideias e alternativas de design | Qual delas os usuários preferem? Por quê? |
+|           Objetivo a ser respondido            |                                                              Pergunta                                                               |
+| :--------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: |
+|    Comparar ideias e alternativas de design    |                                  Qual das alternativas é a mais eficiente? Mais fácil de aprender?                                  |
+|    Comparar ideias e alternativas de design    |                                              Qual delas os usuários preferem? Por quê?                                              |
 | Identificar problemas na interação e interface | O usuário consegue operar o sistema? / Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |
-| Identificar problemas na interação e interface | O usuário consegue operar o sistema? |
-| Identificar problemas na interação e interface | Que parte da interface e da interação o deixa insatisfeito? |
+| Identificar problemas na interação e interface |                                                O usuário consegue operar o sistema?                                                 |
+| Identificar problemas na interação e interface |                                     Que parte da interface e da interação o deixa insatisfeito?                                     |
 
 Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
@@ -94,11 +94,11 @@ Planeja-se realizar as entrevistas em método observador de acordo com as seguin
 
 #### Tabela 3 - Cronograma esperado
 
-| Entrevistadores                                    | Entrevistado  | Data       | Duração | Tarefa           | Local              |
-| -------------------------------------------------- | ------------- | ---------- | ------- | ---------------- | ------------------ |
-| [Ana Joyce](https://github.com/anajoyceamorim)     | Maria Eduarda | 06/01/2025 | --      | --               | Faculdade UnB Gama |
-| [Anne de Capdeville](https://github.com/nanecapde) | Solange       | 06/01/2025 | --      | Reserva de Salas | Faculdade UnB Gama |
-| [José Oliveira](https://github.com/Jose1277)       | Sofia         | 07/01/2025 | --      | --               | Faculdade UnB Gama |
+| Entrevistadores                                    | Entrevistado  | Data       | Duração | Tarefa                    | Local              |
+| -------------------------------------------------- | ------------- | ---------- | ------- | ------------------------- | ------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)     | Maria Eduarda | 06/01/2025 | --      | --                        | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Solange       | 06/01/2025 | --      | Reserva de Salas          | Faculdade UnB Gama |
+| [José Oliveira](https://github.com/Jose1277)       | Sofia         | 07/01/2025 | --      | --                        | Faculdade UnB Gama |
 | [Pedro Miguel](https://github.com/pedroMADBR)      | Bruno         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
 | [Pedro Miguel](https://github.com/pedroMADBR)      | Pedro         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
 
@@ -115,6 +115,7 @@ As perguntas serão trabalhadas a partir da seção [Explorar perguntas](#explor
 - Será obtido consentimento dos participantes antes da entrevista.
 - Garantia de anonimato e confidencialidade das respostas coletadas.
 <!-- ADICIONAR TERMO DE CONSENTIMENTO -->
+
 ---
 
 ## Avaliar, interpretar e apresentar os dados
@@ -161,15 +162,17 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.
 ## Referências Bibliográficas
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ---
+
 > Nielsen, J. e Molich, R. “Heuristic evaluation of user interfaces”. Proceedings of ACM CHI’90, pp. 249–256, 1990.
 
 ---
 
 ## Histórico de versões
 
-| Versão |      Descrição       |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
-| :----: | :------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
-|  1.0   | Criação do documento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
-|  1.1   |      Correções       | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |    [Pedro Miguel](https://github.com/pedroMADBR)   |   14/01/2025    |
-|  1.2   | Alteração dos objetivos e correção do cronograma |  [Pedro Miguel](https://github.com/pedroMADBR) | 14/01/2025 |    [nome](https://github.com/nome)   |   xx/01/2025    |
+| Versão |                    Descrição                     |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :----------------------------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
+|  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
+|  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |

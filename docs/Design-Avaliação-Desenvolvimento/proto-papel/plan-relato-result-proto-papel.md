@@ -34,13 +34,13 @@ Para a escolha dos entrevistados tivemos como base o [Perfil de Usuário](../../
 
 ### Tabela 1 - Cronograma Realizado
 
-| Entrevistadores | Entrevistado | Data       | Duração | Tarefa | Local              |
-| ------------- | ------- | ---------- | ----------- | --------- |------------------ |
-| [Ana Joyce](https://github.com/anajoyceamorim) | Usuário 1 | 08/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Anne de Capdeville](https://github.com/nanecapde) | Solange | 13/01/2025 | 19:00-19:15 | Reserva de Salas | Faculdade UnB Gama |
-| [José Oliveira](https://github.com/Jose1277) | Usuário 3 | 15/01/2025 | -- | -- | Faculdade UnB Gama |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Pedro | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
-| [Pedro Miguel](https://github.com/pedroMADBR) | Bruno | 10/01/2025 | -- | Cadastro no Cinemark Club | Sala particular |
+| Entrevistadores                                    | Entrevistado | Data       | Duração     | Tarefa                      | Local              |
+| -------------------------------------------------- | ------------ | ---------- | ----------- | --------------------------- | ------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)     | Usuário 1    | 08/01/2025 | --          | --                          | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Nicholas     | 13/01/2025 | 19:00-19:15 | Reserva de Salas            | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Solange      | 13/01/2025 | 20:00-20:15 | Compra de Ingressos e Snack | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Pedro        | 10/01/2025 | --          | Cadastro no Cinemark Club   | Sala particular    |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Bruno        | 10/01/2025 | --          | Cadastro no Cinemark Club   | Sala particular    |
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
@@ -50,13 +50,13 @@ No sumário dos dados é importante realizar um resumo do que foi coletado duran
 
 ### Tabela 2 - Sumário dos dados
 
-| Objetivo a ser respondido |              Pergunta              |       Resposta       |
-|:-------------------------:|:----------------------------------:|:--------------------:|
-| Comparar ideias e alternativas de design | Qual das alternativas é a mais eficiente? Mais fácil de aprender? | - - |
-| Comparar ideias e alternativas de design | Qual delas os usuários preferem? Por quê? | - - |
-| Identificar problemas na interação e interface | O usuário consegue operar o sistema? / Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? | - - |
-| Identificar problemas na interação e interface | O usuário consegue operar o sistema? | - - |
-| Identificar problemas na interação e interface | Que parte da interface e da interação o deixa insatisfeito? | - - |
+|           Objetivo a ser respondido            |                                                              Pergunta                                                               | Resposta |
+| :--------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :------: |
+|    Comparar ideias e alternativas de design    |                                  Qual das alternativas é a mais eficiente? Mais fácil de aprender?                                  |   - -    |
+|    Comparar ideias e alternativas de design    |                                              Qual delas os usuários preferem? Por quê?                                              |   - -    |
+| Identificar problemas na interação e interface | O usuário consegue operar o sistema? / Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? |   - -    |
+| Identificar problemas na interação e interface |                                                O usuário consegue operar o sistema?                                                 |   - -    |
+| Identificar problemas na interação e interface |                                     Que parte da interface e da interação o deixa insatisfeito?                                     |   - -    |
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR) e [Tabela de perguntas da Avaliação](avaliacao-proto-papel.md/#tabela-2---perguntas-da-avaliação).
 
@@ -75,13 +75,16 @@ Com base principalmente nos problemas encontrados, dados coletados, observaçõe
 ## Referências
 
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2021.
+
 ---
+
 > Nielsen, J. e Molich, R. “Heuristic evaluation of user interfaces”. Proceedings of ACM CHI’90, pp. 249–256, 1990.
+
 ---
 
 ## Histórico de versão
 
-| Versão |     Descrição      |         Autor(es)         |    Data    |         Revisor(es)         | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação da estrutura do planejamento | [Pedro Miguel](https://github.com/pedroMADBR) | 09/01/2024 | [](https://github.com/) |  - - |
-|  1.1   | Adição de informações | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+| Versão |              Descrição               |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
+| :----: | :----------------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
+|  1.0   | Criação da estrutura do planejamento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 09/01/2024 |            [](https://github.com/)            |       - -       |
+|  1.1   |        Adição de informações         | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
