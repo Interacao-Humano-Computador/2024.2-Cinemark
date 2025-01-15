@@ -64,9 +64,14 @@ nav:
         - " Planejamento do relato dos resultados da avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
         - " Relato dos resultados da avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/relatos-resultados-storyboard.md
         - "Storyboards": Design-Avaliação-Desenvolvimento/Storyboard/storyboards.md
+    - "Nível 2":
       - "Protótipo de papel":
         - "Planejamento da Avaliação do Protótipo de Papel":  Design-Avaliação-Desenvolvimento/proto-papel/avaliacao-proto-papel.md
         - "Planejamento do Relato dos Resultado do Protótipo de Papel": Design-Avaliação-Desenvolvimento/proto-papel/relato-resultados-proto-papel.md
+    - "Nível 3":
+      - "Protótipo de alta fidelidade":
+        - "Planejamento da Avaliação do Protótipo de Alta Fidelidade":  Design-Avaliação-Desenvolvimento/proto-alta/planejamento-avaliacao.md
+        - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
         
 theme:
   name: material
