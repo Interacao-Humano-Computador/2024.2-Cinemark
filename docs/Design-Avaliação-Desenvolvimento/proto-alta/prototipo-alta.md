@@ -7,8 +7,8 @@ O software Figma foi utilizado para o desenvolvimento das telas do protótipo de
 
 |Tarefas | Desenvolvedor | Revisor |
 |:------:|:-------------:|:-------:|
-| Compra de ingressos| [José Oliveira](https://github.com/Jose1277)|  [nome](https://github.com/nome)|
-| Reserva de salas| [José Oliveira](https://github.com/Jose1277)|  [nome](https://github.com/nome)|
+| Compra de ingressos| [José Oliveira](https://github.com/Jose1277)|  [Ana Joyce](https://github.com/anajoyceamorim)|
+| Reserva de salas| [José Oliveira](https://github.com/Jose1277)|  [Ana Joyce](https://github.com/anajoyceamorim)|
 
 ## Prototipação
 
