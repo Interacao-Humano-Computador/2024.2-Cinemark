@@ -126,4 +126,4 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 | Versão |         Descrição         |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :-----------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
-|  1.0   |     Adição do planejamento| [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2024 |    [Nome](https://github.com/nome)                 |   xx/xx/2024    |
+|  1.0   |     Adição do planejamento| [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2025 |    [José Oliveira](https://github.com/Jose1277)                 |   15/01/2025    |
