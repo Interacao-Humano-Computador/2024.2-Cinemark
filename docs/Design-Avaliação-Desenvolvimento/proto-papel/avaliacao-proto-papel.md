@@ -155,7 +155,15 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
 
-<p style="text-align: center"><a href="https://youtu.be/shp9NlqMNw" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://youtu.be/1JQUwigF2FA" target="blanket">Clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+
+## Resultado do Teste Piloto - Compra de Ingressos e Snacks
+
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+
+<p style="text-align: center"><a href="https://youtu.be/YCz3asrbRp4" target="blanket">Clique aqui</a></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
 
