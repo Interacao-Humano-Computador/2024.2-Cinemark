@@ -58,7 +58,7 @@ Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [An
 
 <p style="text-align: center"><a href="https://youtu.be/0uB2-bognZA" target="blanket">Clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
 
 #### Entrevista 2
 
