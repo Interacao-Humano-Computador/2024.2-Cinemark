@@ -165,7 +165,7 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.
 
 <p style="text-align: center"><a href="https://youtu.be/YCz3asrbRp4" target="blanket">Clique aqui</a></p>
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
 
 ## Referências Bibliográficas
 
@@ -184,3 +184,4 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.
 |  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
 |  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
+|  1.1   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |                                                    |   16/01/2025    |
