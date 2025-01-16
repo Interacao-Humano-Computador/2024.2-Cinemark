@@ -39,4 +39,4 @@ O software Figma foi utilizado para o desenvolvimento das telas do protótipo de
 | Versão |            Descrição             |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página e documentação |    [José Oliveira](https://github.com/Jose1277)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
-|  1.1   |       Alteração das fontes       | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |                                                    |   16/01/2025    |
+|  1.1   |       Alteração das fontes       | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 | [José Oliveira](https://github.com/nanecapde)      |   16/01/2025                                             
