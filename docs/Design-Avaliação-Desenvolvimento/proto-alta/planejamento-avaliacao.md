@@ -1,6 +1,7 @@
 # Planejamento da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução
+
 A avaliação é uma etapa fundamental para garantir que o processo de desenvolvimento resulte em um sistema de alta qualidade. Com isso em mente, o artefato apresentado tem como objetivo planejar a avaliação do protótipo de alta fidelidade. Para isso, serão conduzidas entrevistas com usuários reais do produto, utilizando como referência o perfil de usuário, o que permitirá uma análise dinâmica de suas perspectivas.
 
 ## Metodologia
@@ -27,13 +28,15 @@ Na fase de protótipo de alta fidelidade, o objetivo é avaliar a usabilidade e 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 
 Identificar quais questões do estudo foram respondidas durante os testes com o protótipo de alta fidelidade, avaliando se os resultados obtidos oferecem insights relevantes para validar ou ajustar o design. Baseando-se nos princípios de Barbosa e Silva (2011), essa fase deve focar em analisar como os dados coletados esclarecem aspectos como a facilidade de uso, eficiência, e satisfação do usuário, além de apontar lacunas que possam requerer investigações adicionais ou refinamentos no protótipo.  
-Perguntas escolhidas:  
-1. Há elementos na interface que causam confusão ou dificultam a interação?  
-2. O layout das telas é intuitivo e facilita a navegação?  
-3. Existe algum recurso ou funcionalidade que poderia ser simplificado para aumentar a eficiência?  
-4. Quais são os principais pontos onde os usuários perdem tempo?  
-6. A experiência geral de uso atende às expectativas dos usuários?  
-7. Os usuários cometem erros durante as interações? Se sim, quais?  
+Perguntas escolhidas:
+
+1. Há elementos na interface que causam confusão ou dificultam a interação?
+2. O layout das telas é intuitivo e facilita a navegação?
+3. Existe algum recurso ou funcionalidade que poderia ser simplificado para aumentar a eficiência?
+4. Quais são os principais pontos onde os usuários perdem tempo?
+5. A experiência geral de uso atende às expectativas dos usuários?
+6. Os usuários cometem erros durante as interações? Se sim, quais?
+
 ---
 
 ### **C - Escolher os Métodos de Avaliação**
@@ -64,7 +67,7 @@ Um cronograma será seguido para organizar entrevistas e análises:
 | Entrevistador | Entrevistado |    Data    |    Horário    |   Local    |
 | :-----------: | :----------: | :--------: | :-----------: | :--------: |
 |     Anne      |  Usuário 1   | 19/01/2025 | 13:00 - 14:00 | Presencial |
-|     Ana       |  Usuário 2   | 20/01/2025 | 13:00 - 14:00 | Presencial |
+|      Ana      |  Usuário 2   | 20/01/2025 | 13:00 - 14:00 | Presencial |
 |     José      |  Usuário 3   | 19/01/2025 | 13:00 - 14:00 | Presencial |
 |     Pedro     |  Usuário 4   | 20/01/2025 | 13:00 - 14:00 | Presencial |
 
@@ -77,9 +80,9 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 
-Após a avaliação, os dados serão registrados e analisados, considerando o contexto em que foram gerados, para determinar seu nível de confiabilidade e a possibilidade de generalizá-los como representativos da população de usuários do site.  
+Após a avaliação, os dados serão registrados e analisados, considerando o contexto em que foram gerados, para determinar seu nível de confiabilidade e a possibilidade de generalizá-los como representativos da população de usuários do site.
 
-O processo incluirá o registro de problemas e dificuldades observados durante a interação, abrangendo questões relacionadas à usabilidade, funcionalidades ausentes e desempenho do sistema. Serão documentadas descrições detalhadas dos problemas, sua classificação, sugestões de melhorias, o feedback dos usuários, e, ao final das entrevistas, serão feitas anotações gerais sobre as observações coletadas.  
+O processo incluirá o registro de problemas e dificuldades observados durante a interação, abrangendo questões relacionadas à usabilidade, funcionalidades ausentes e desempenho do sistema. Serão documentadas descrições detalhadas dos problemas, sua classificação, sugestões de melhorias, o feedback dos usuários, e, ao final das entrevistas, serão feitas anotações gerais sobre as observações coletadas.
 
 Concluída essa etapa, os dados serão compartilhados com a equipe de desenvolvimento, visando fornecer informações relevantes que contribuam para o aprimoramento do projeto.
 
@@ -110,6 +113,14 @@ O objetivo do teste piloto serve como uma etapa preliminar para garantir que o t
 
 Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade seja eficiente, identificando e corrigindo potenciais problemas antes da execução final.
 
+## Resultado do Teste Piloto - Reserva de Salas
+
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+
+<p style="text-align: center"><a href="https://youtu.be/lHj4AXe8Atw" target="blanket">Clique aqui</a></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Anne de Capdeville](https://github.com/nanecapde).</p></font>
+
 ## Referências Bibliográficas
 
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
@@ -124,6 +135,7 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 ## Histórico de Versões
 
-| Versão |         Descrição         |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
-| :----: | :-----------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
-|  1.0   |     Adição do planejamento| [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2025 |    [José Oliveira](https://github.com/Jose1277)                 |   15/01/2025    |
+| Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
+| :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
+|  1.0   | Adição do planejamento |   [Ana Joyce](https://github.com/anajoyceamorim)   | 14/01/2025 | [José Oliveira](https://github.com/Jose1277) |   15/01/2025    |
+|  1.1   | Adição do teste piloto | [Anne de Capdeville](https://github.com/nanecapde) | 21/01/2025 |                                              |                 |
