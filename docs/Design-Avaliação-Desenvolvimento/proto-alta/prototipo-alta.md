@@ -36,7 +36,14 @@ O software Figma foi utilizado para o desenvolvimento das telas do protótipo de
 
 #### Autor: Oliveira, José e Capdeville, Anne. 2025.
 
+#### Figma 4: Fluxo de Compra de Vouchers Corporativos
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/JTYqRF3ljXLYvKQkTd5yCf/Cinemark?node-id=2-2&starting-point-node-id=2%3A2&embed-host=share" allowfullscreen></iframe>
+
+#### Autor: Ana Joyce
+
 | Versão |            Descrição             |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página e documentação |    [José Oliveira](https://github.com/Jose1277)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
 |  1.1   |       Alteração das fontes       | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 | [José Oliveira](https://github.com/nanecapde)      |   16/01/2025                                             
+|  1.2   |       Add figma compra de voucher corporativos       | [Ana Joyce](https://github.com/anajoyceamorim) | 26/01/2025 | [Nome](https://github.com/nome)      |   xx/xx/2025                                             
