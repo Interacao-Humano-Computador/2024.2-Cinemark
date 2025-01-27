@@ -30,7 +30,7 @@ A Tabela 1 apresenta o cronograma do teste de usabilidade, contendo informaçõe
 | [Ana Joyce](https://github.com/anajoyceamorim) | <span style = "color: green">Mateus</span> | 25/01/2025 | 12:00-12:10 | FGA - Sala S9        |
 | [Anne](https://github.com/nanecapde)           | <span style = "color: green">Pablo</span>  | 25/01/2025 | 18:30-19:00 | Casa do entrevistado |
 
-Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde)
 
 </center>
 
@@ -66,7 +66,7 @@ Antes de se iniciar os testes o participante foi orientado a respeito da funcion
 | Compra de Voucher Corporativo | Apertar o botão de comprar, cliclar em novo cadastro, cliclar em enviar.                                                                                                                                        | [Ana Joyce](https://github.com/anajoyceamorim) |
 | Reserva de sala               | Apertar o botão de para empresas, seguido de apertar o botão de reserva de sala, solicitar orçamento, seleção da cidade, cinema e tipo de sala, adicionar detalhes do evento, solicitar orçamento e finalizar . | [Anne](https://github.com/nanecapde)           |
 
-Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde)
 
 </center>
 
@@ -87,7 +87,7 @@ A Tabela 3 apresenta os participantes da avaliação e suas respectivas funçõe
 | [Anne](https://github.com/nanecapde)           | Cinegrafista/entrevistador |
 | <span style = "color: Green">Pablo</span>      | Participante (Usuário 2)   |
 
-_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
+_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://github.com/nanecapde), 2025._
 
 ## Problemas e Dificuldades Encontradas
 
@@ -111,7 +111,7 @@ Vídeo 1 - Teste 1: Compra de Voucher Corporativo
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/p3ypbfW7JsM" title="Protótipo de Alta (Compra de Vouchers Corporativos)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_<font size="3">Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025.</p></font>_
+_<font size="3">Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://github.com/nanecapde), 2025.</p></font>_
 
 </center>
 
@@ -134,7 +134,7 @@ _<font size="3">Fonte: [Anne](https://github.com/nanecapde), 2025.</p></font>_
 | 30/01/2025       | Ajustar disposição dos itens na tela login, e mudar cor icon de check (Compra de Voucher Corporativo) | [Ana Joyce](https://github.com/anajoyceamorim) |      [Anne](https://github.com/nanecapde)      |        |
 | 30/01/2025       | Ajustar a disponibilidade da opção reserva de sala fora da área de para empresas                      |      [Anne](https://github.com/nanecapde)      | [Ana Joyce](https://github.com/anajoyceamorim) |        |
 
-_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
+_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://github.com/nanecapde), 2025._
 
 ## Referências Bibliográficas
 
