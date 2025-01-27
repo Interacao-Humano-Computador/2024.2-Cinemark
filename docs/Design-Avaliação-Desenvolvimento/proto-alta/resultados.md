@@ -147,4 +147,4 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://g
 | Versão |                         Descrição                         |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :-------------------------------------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   | Documentação e adição da funcionalidade Compra de Voucher |   [Ana Joyce](https://github.com/anajoyceamorim)   | 26/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   26/01/2025    |
-|  1.0   |              Funcionalidade Reserva de Sala               | [Anne de Capdeville](https://github.com/nanecapde) | 26/01/2025 |                                                    |   26/01/2025    |
+|  1.0   |              Funcionalidade Reserva de Sala               | [Anne de Capdeville](https://github.com/nanecapde) | 26/01/2025 |     [Ana Joyce](https://github.com/anajoyceamorim)     |   26/01/2025    |
