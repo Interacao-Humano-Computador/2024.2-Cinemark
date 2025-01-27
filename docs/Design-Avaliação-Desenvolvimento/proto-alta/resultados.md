@@ -25,9 +25,10 @@ A Tabela 1 apresenta o cronograma do teste de usabilidade, contendo informaçõe
 
 **Tabela 1** - Cronograma Executado.
 
-| Avaliador                                      | Usuário                                    | Data       | Início-Fim  | Local         |
-| ---------------------------------------------- | ------------------------------------------ | ---------- | ----------- | ------------- |
-| [Ana Joyce](https://github.com/anajoyceamorim) | <span style = "color: green">Mateus</span> | 25/01/2025 | 12:00-12:10 | FGA - Sala S9 |
+| Avaliador                                      | Usuário                                    | Data       | Início-Fim  | Local                |
+| ---------------------------------------------- | ------------------------------------------ | ---------- | ----------- | -------------------- |
+| [Ana Joyce](https://github.com/anajoyceamorim) | <span style = "color: green">Mateus</span> | 25/01/2025 | 12:00-12:10 | FGA - Sala S9        |
+| [Anne](https://github.com/nanecapde)           | <span style = "color: green">Pablo</span>  | 25/01/2025 | 18:30-19:00 | Casa do entrevistado |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 
@@ -35,7 +36,7 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 
 ### Local
 
-Os testes ocorreram de forma presencial na sala S9 do campus FCTE da Universidade de Brasília (UnB). O ambiente foi controlado, sendo permitidos estarem em sala somente os integrantes do grupo responsável por alguma atividade técnica e o usuário que realizaria o teste/entrevista.
+Os testes ocorreram de forma presencial na sala S9 do campus FCTE da Universidade de Brasília (UnB) e na casa do entrevistado 2. O ambiente foi controlado, sendo permitidos estarem em sala somente os integrantes do grupo responsável por alguma atividade técnica e o usuário que realizaria o teste/entrevista.
 
 ### Ferramentas
 
@@ -50,6 +51,7 @@ As ferramentas utilizadas foram as seguintes:
 As tarefas realizadas pelos os usuarios foram as seguintes:
 
 - Realizar cadastro para compra de Voucher Corporativo;
+- Realizar reserva de sala;
 
 ### Descrição dos Testes
 
@@ -59,9 +61,10 @@ Antes de se iniciar os testes o participante foi orientado a respeito da funcion
 
 **Tabela 2** - Script das funcionalidades testadas.
 
-| Funcionalidade                | Script                                                                   | Fonte                                          |
-| ----------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------- |
-| Compra de Voucher Corporativo | Apertar o botão de comprar, cliclar em novo cadastro, cliclar em enviar. | [Ana Joyce](https://github.com/anajoyceamorim) |
+| Funcionalidade                | Script                                                                                                                                                                                                          | Fonte                                          |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Compra de Voucher Corporativo | Apertar o botão de comprar, cliclar em novo cadastro, cliclar em enviar.                                                                                                                                        | [Ana Joyce](https://github.com/anajoyceamorim) |
+| Reserva de sala               | Apertar o botão de para empresas, seguido de apertar o botão de reserva de sala, solicitar orçamento, seleção da cidade, cinema e tipo de sala, adicionar detalhes do evento, solicitar orçamento e finalizar . | [Anne](https://github.com/nanecapde)           |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 
@@ -81,6 +84,8 @@ A Tabela 3 apresenta os participantes da avaliação e suas respectivas funçõe
 | ---------------------------------------------- | -------------------------- |
 | [Ana Joyce](https://github.com/anajoyceamorim) | Cinegrafista/entrevistador |
 | <span style = "color: Green">Mateus</span>     | Participante (Usuário 1)   |
+| [Anne](https://github.com/nanecapde)           | Cinegrafista/entrevistador |
+| <span style = "color: Green">Pablo</span>      | Participante (Usuário 2)   |
 
 _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 
@@ -106,89 +111,6 @@ _<font size="3">Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025.</p>
 
 </center>
 
-## Cronograma de Reprojeto
-
-**Tabela 4** - Cronograma de Reprojeto.
-
-| Data de Correção | Descrição                                                                                             |                Responsável(eis)                |             Revisor(es)              | Status |
-| ---------------- | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------: | :----------------------------------: | :----: |
-| 30/01/2025       | Ajustar disposição dos itens na tela login, e mudar cor icon de check (Compra de Voucher Corporativo) | [Ana Joyce](https://github.com/anajoyceamorim) | [Anne](https://github.com/nanecapde) |        |
-
-_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
-
-## Teste 2
-
-A Tabela 5 apresenta o cronograma do teste de usabilidade, contendo informações como o avaliador mediador, o participante, a data, o horário de início e término, e o local. É importante destacar que todos os integrantes do grupo estiveram envolvidos na condução do teste de usabilidade.
-
-<center>
-
-**Tabela 5** - Cronograma Executado.
-
-| Avaliador                            | Usuário                                   | Data       | Início-Fim  | Local                |
-| ------------------------------------ | ----------------------------------------- | ---------- | ----------- | -------------------- |
-| [Anne](https://github.com/nanecapde) | <span style = "color: green">Pablo</span> | 25/01/2025 | 18:30-19:00 | Casa do entrevistado |
-
-Fonte: [Anne](https://github.com/nanecapde)
-
-</center>
-
-### Local
-
-Os testes ocorreram de forma presencial na casa do entrevistado. O ambiente foi controlado, sendo permitidos estarem em sala somente os integrantes do grupo responsável por alguma atividade técnica e o usuário que realizaria o teste/entrevista.
-
-### Ferramentas
-
-As ferramentas utilizadas foram as seguintes:
-
-- Um notebook com webcam e microfone;
-- Um smartphone utilizado para gravação em vídeo dos testes;
-- Um papel contem o script a ser seguido pelos usuarios;
-
-### Tarefas
-
-As tarefas realizadas pelos os usuarios foram as seguintes:
-
-- Realizar reserva de sala;
-
-### Descrição dos Testes
-
-Antes de se iniciar os testes o participante foi orientado a respeito da funcionalidade que seria testada. O entrevistado também foi orientado a reproduzir as ações que estava executando em voz alta. A Tabela 6 apresenta o _script_ seguido pelos usuários.
-
-<center>
-
-**Tabela 6** - Script das funcionalidades testadas.
-
-| Funcionalidade  | Script                                                                                                                                                                                                          | Fonte                                |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| Reserva de sala | Apertar o botão de para empresas, seguido de apertar o botão de reserva de sala, solicitar orçamento, seleção da cidade, cinema e tipo de sala, adicionar detalhes do evento, solicitar orçamento e finalizar . | [Anne](https://github.com/nanecapde) |
-
-Fonte: [Anne](https://github.com/nanecapde)
-
-</center>
-
-## Seleção dos Participantes
-
-O teste contou com 2 participantes: um avaliador/coordenador/cinegrafista e um usuário. O número de usuários foi definido com base na recomendação de Krug (2010, p. 157)<a id="anchor1" href="#REF1"><sup>1</sup></a> para testes de usabilidade.
-
-Os usuários foram selecionados considerando as características descritas no [perfil de usuário](https://interacao-humano-computador.github.io/2024.2-Cinemark/Analise-de-requisitos/perfil-de-usuario/). O perfil definido inclui pessoas de 20 anos de idade, com experiência e afinidade com tecnologia, além de realizar tarefas primárias relacionadas à compra e consulta.
-
-A Tabela 7 apresenta os participantes da avaliação e suas respectivas funções.
-
-**Tabela 7** - Participantes da Avaliação e Suas Funções.
-
-| Participantes                             | Função                     |
-| ----------------------------------------- | -------------------------- |
-| [Anne](https://github.com/nanecapde)      | Cinegrafista/entrevistador |
-| <span style = "color: Green">Pablo</span> | Participante (Usuário 1)   |
-
-_Fonte: [Anne](https://github.com/nanecapde), 2025._
-
-## Problemas e Dificuldades Encontradas
-
-Os testes seguiram sem problemas relevantes.
-
-## Feedback dos Usuários
-
 ### Teste 2 - Pablo (Reserva de salas)
 
 O usuário não apresentou sofrer nenhuma dificuldade ao passar pelo fluxo de usabilidade. Entretato, algumas melhorias foram sugeridas, como a possibilidade de acesso a área de reserva de salas sem ter que procurar em para empresas.
@@ -209,11 +131,12 @@ _<font size="3">Fonte: [Anne](https://github.com/nanecapde), 2025.</p></font>_
 
 **Tabela 4** - Cronograma de Reprojeto.
 
-| Data de Correção | Descrição                                                                        |           Responsável(eis)           |                  Revisor(es)                   | Status |
-| ---------------- | :------------------------------------------------------------------------------- | :----------------------------------: | :--------------------------------------------: | :----: |
-| 30/01/2025       | Ajustar a disponibilidade da opção reserva de sala fora da área de para empresas | [Anne](https://github.com/nanecapde) | [Ana Joyce](https://github.com/anajoyceamorim) |        |
+| Data de Correção | Descrição                                                                                             |                Responsável(eis)                |                  Revisor(es)                   | Status |
+| ---------------- | :---------------------------------------------------------------------------------------------------- | :--------------------------------------------: | :--------------------------------------------: | :----: |
+| 30/01/2025       | Ajustar disposição dos itens na tela login, e mudar cor icon de check (Compra de Voucher Corporativo) | [Ana Joyce](https://github.com/anajoyceamorim) |      [Anne](https://github.com/nanecapde)      |        |
+| 30/01/2025       | Ajustar a disponibilidade da opção reserva de sala fora da área de para empresas                      |      [Anne](https://github.com/nanecapde)      | [Ana Joyce](https://github.com/anajoyceamorim) |        |
 
-_Fonte: [Anne](https://github.com/nanecapde), 2025._
+_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 
 ## Referências Bibliográficas
 
