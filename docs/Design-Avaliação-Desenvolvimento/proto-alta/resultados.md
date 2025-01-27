@@ -72,7 +72,7 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 
 ## Seleção dos Participantes
 
-O teste contou com 2 participantes: um avaliador/coordenador/cinegrafista e um usuário. O número de usuários foi definido com base na recomendação de Krug (2010, p. 157)<a id="anchor1" href="#REF1"><sup>1</sup></a> para testes de usabilidade.
+O teste contou com 4 participantes: dois avaliador/coordenador/cinegrafista e dois usuário. O número de usuários foi definido com base na recomendação de Krug (2010, p. 157)<a id="anchor1" href="#REF1"><sup>2</sup></a> para testes de usabilidade.
 
 Os usuários foram selecionados considerando as características descritas no [perfil de usuário](https://interacao-humano-computador.github.io/2024.2-Cinemark/Analise-de-requisitos/perfil-de-usuario/). O perfil definido inclui pessoas de 20 anos de idade, com experiência e afinidade com tecnologia, além de realizar tarefas primárias relacionadas à compra e consulta.
 
@@ -91,13 +91,17 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 
 ## Problemas e Dificuldades Encontradas
 
-Os testes seguiram se problemas relevantes.
+Os testes seguiram sem problemas relevantes.
 
 ## Feedback dos Usuários
 
 ### Teste 1 - Mateus (Compra de Vouchers Corporativos)
 
 O usuário navegou pelo fluxo de usabilidade sem dificuldades, considerando a disposição dos componentes agradável. Contudo, sugeriu melhorias na organização dos itens na página de login e recomendou a troca da cor do item de marcação (check) na pop-up da página final.
+
+### Teste 2 - Pablo (Reserva de salas)
+
+O usuário não apresentou sofrer nenhuma dificuldade ao passar pelo fluxo de usabilidade. Entretato, algumas melhorias foram sugeridas, como a possibilidade de acesso a área de reserva de salas sem ter que procurar em para empresas.
 
 ## Gravação das entrevistas realizadas
 
@@ -110,12 +114,6 @@ Vídeo 1 - Teste 1: Compra de Voucher Corporativo
 _<font size="3">Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025.</p></font>_
 
 </center>
-
-### Teste 2 - Pablo (Reserva de salas)
-
-O usuário não apresentou sofrer nenhuma dificuldade ao passar pelo fluxo de usabilidade. Entretato, algumas melhorias foram sugeridas, como a possibilidade de acesso a área de reserva de salas sem ter que procurar em para empresas.
-
-## Gravação das entrevistas realizadas
 
 <center>
 
