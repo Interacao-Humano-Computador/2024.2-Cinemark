@@ -126,4 +126,4 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 
  Versão |            Descrição             |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
-|  1.0   | Documentação e adição da funcionalidade Compra de Voucher |    [Ana Joyce](https://github.com/anajoyceamorim)    | 26/01/2025 | [Nome](https://github.com/nome) |   xx/xx/2025    |
+|  1.0   | Documentação e adição da funcionalidade Compra de Voucher |    [Ana Joyce](https://github.com/anajoyceamorim)    | 26/01/2025 |  [Anne de Capdeville](https://github.com/nanecapde) |   26/01/2025    |
