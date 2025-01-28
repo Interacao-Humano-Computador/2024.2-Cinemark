@@ -113,22 +113,25 @@ O objetivo do teste piloto serve como uma etapa preliminar para garantir que o t
 
 Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade seja eficiente, identificando e corrigindo potenciais problemas antes da execução final.
 
-## Resultado do Teste Piloto 
+## Resultado do Teste Piloto
 
 ### Reserva de Salas
 
-Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+<center>
 
-<p style="text-align: center"><a href="https://youtu.be/lHj4AXe8Atw" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne de Capdeville](https://github.com/nanecapde).
 
-<font size="3"><p style="text-align: center">Fonte: [Anne de Capdeville](https://github.com/nanecapde).</p></font>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/lHj4AXe8Atw" title="Teste Piloto- Protótipo de Alta Fidelidade- Reserva de Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 ### Compra de Voucher Corporativos
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/S7CpOAx7_UA" title="Teste Piloto (Protótipo de Alta)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
-
 
 ## Referências Bibliográficas
 
@@ -144,7 +147,8 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 ## Histórico de Versões
 
-| Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
-| :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
-|  1.0   | Adição do planejamento |   [Ana Joyce](https://github.com/anajoyceamorim)   | 14/01/2025 | [José Oliveira](https://github.com/Jose1277) |   15/01/2025    |
-|  1.1   | Adição do teste piloto | [Anne de Capdeville](https://github.com/nanecapde) | 21/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)     |           26/01/2025      |
+| Versão |          Descrição          |                     Autor(es)                      |    Data    |                  Revisor(es)                   | Data de revisão |
+| :----: | :-------------------------: | :------------------------------------------------: | :--------: | :--------------------------------------------: | :-------------: |
+|  1.0   |   Adição do planejamento    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 14/01/2025 |  [José Oliveira](https://github.com/Jose1277)  |   15/01/2025    |
+|  1.1   |   Adição do teste piloto    | [Anne de Capdeville](https://github.com/nanecapde) | 21/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   26/01/2025    |
+|  1.2   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                                |   xx/01/2025    |

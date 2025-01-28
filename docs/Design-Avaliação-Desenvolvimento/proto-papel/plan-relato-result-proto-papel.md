@@ -86,5 +86,5 @@ Com base principalmente nos problemas encontrados, dados coletados, observaçõe
 
 | Versão |              Descrição               |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
 | :----: | :----------------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
-|  1.0   | Criação da estrutura do planejamento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 09/01/2024 |            [](https://github.com/)            |       - -       |
+|  1.0   | Criação da estrutura do planejamento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 09/01/2025 | [José Oliveira](https://github.com/Jose1277)  |   09/01/2025    |
 |  1.1   |        Adição de informações         | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
