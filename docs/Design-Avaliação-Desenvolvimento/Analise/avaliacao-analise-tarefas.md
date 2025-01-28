@@ -224,4 +224,4 @@ _<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
 |  1.2   | Adição video teste piloto |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
 |  1.3   |   Corrigindo os papéis    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
 |  1.4   |    Correção da página     | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
-|  1.5   |    Correção dos links e vídeos     | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |      |   xx/01/2025    |
+|  1.5   |    Correção dos links e vídeos     | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)  |   28/01/2025    |
