@@ -72,4 +72,4 @@ MACHADO, Maurício. Planejamento do relato de resultados. Repositório do Grupo 
 | :----: | :-----------------: | :------------------------------------------------: | :--------------------------------------------: | :------------------------------------------: | :-------------: |
 |  1.0   |  Criação da página  | [Anne de Capdeville](https://github.com/nanecapde) |                   08/12/2024                   | [José Oliveira](https://github.com/Jose1277) |   09/12/2024    |
 |  1.1   | Início do documento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 10/12/2024 |[Ana Joyce](https://github.com/anajoyceamorim) |                  10/12/2024                  |
-|  1.2   | Correções da página | [Anne de Capdeville](https://github.com/nanecapde) |                   09/01/2025                   |                                              |   09/01/2025    |
+|  1.2   | Correções da página | [Anne de Capdeville](https://github.com/nanecapde) |    09/01/2025   |   [Ana Joyce](https://github.com/anajoyceamorim)   |   09/01/2025    |
