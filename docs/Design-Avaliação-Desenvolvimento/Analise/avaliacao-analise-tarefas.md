@@ -190,11 +190,15 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 ## Resultado do Teste Piloto
 
+<center>
+
 Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/nanecapde) fez papel de entrevistadora e [José Oliveira](https://github.com/Jose1277) de usuário.
 
-<p style="text-align: center"><a href="https://youtu.be/shp9Nl1qMNw" target="blanket">Clique aqui</a></p>
+<iframe width="941" height="539" src="https://www.youtube.com/embed/shp9Nl1qMNw" title="teste piloto análise de tarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+_<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -219,4 +223,5 @@ Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/n
 |  1.1   |     Adição do DECIDE      |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   10/12/2024    |
 |  1.2   | Adição video teste piloto |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
 |  1.3   |   Corrigindo os papéis    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
-|  1.4   |    Correção da página     | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |  [Pedro Miguel](https://github.com/pedroMADBR)     |   14/01/2025    |
+|  1.4   |    Correção da página     | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
+|  1.5   |    Correção dos links e vídeos     | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |      |   xx/01/2025    |

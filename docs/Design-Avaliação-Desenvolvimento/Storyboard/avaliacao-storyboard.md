@@ -110,11 +110,15 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 ## Resultado do Teste Piloto
 
+<center>
+
 Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/nanecapde) fez papel de entrevistadora e [José Oliveira](https://github.com/Jose1277) de usuário.
 
-<p style="text-align: center"><a href="https://youtu.be/yPzqX4D2CCY" target="blanket">Clique aqui</a></p>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/yPzqX4D2CCY" title="teste piloto storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277), 2025.</p></font>_
+
+</center>
 
 ---
 
@@ -138,3 +142,4 @@ Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/n
 |  1.2   | Elaboração de parte da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
 |  1.3   |     Finalização da página     | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
 |  1.4   |      Correções da página      | [Anne de Capdeville](https://github.com/nanecapde) | 13/01/2025 |                                                    |   xx/01/2025    |
+|  1.5   |  Correção dos links e vídeos  | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                                    |   xx/01/2025    |

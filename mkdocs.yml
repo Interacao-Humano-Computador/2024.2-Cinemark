@@ -77,8 +77,6 @@ nav:
               - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/resultados.md
               - "Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/prototipo-alta.md
 
-              
-
 theme:
   name: material
   features:
@@ -109,5 +107,6 @@ markdown_extensions:
   - tables
   - attr_list
   - md_in_html
+  - pymdownx.blocks.caption
 
 extra_css: [stylesheets/extra.css]

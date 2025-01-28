@@ -153,19 +153,27 @@ Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade sej
 
 ## Resultado do Teste Piloto - Reserva de Salas
 
-Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+<center>
 
-<p style="text-align: center"><a href="https://youtu.be/1JQUwigF2FA" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne de Capdeville](https://github.com/nanecapde).
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/1JQUwigF2FA" title="Teste piloto Protótipo de Papel - Reserva de Salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 ## Resultado do Teste Piloto - Compra de Ingressos e Snacks
 
-Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.com/nanecapde).
+<center>
 
-<p style="text-align: center"><a href="https://youtu.be/YCz3asrbRp4" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito do teste piloto realizado por [Anne de Capdeville](https://github.com/nanecapde).
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/YCz3asrbRp4" title="Teste Piloto Protótipo de papel - Compra de Ingressos e Snacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 ## Referências Bibliográficas
 
@@ -184,4 +192,5 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne](https://github.
 |  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
 |  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
-|  1.1   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |                                                    |   16/01/2025    |
+|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |  [José Oliveira](https://github.com/Jose1277)                         |   16/01/2025    |
+|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                                    |   xx/01/2025    |

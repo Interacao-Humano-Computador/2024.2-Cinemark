@@ -336,11 +336,15 @@ Com base nos achados listados, propomos um reprojeto pontual, corrigindo problem
 
 ## Entrevista Storyboard
 
+<center>
+
 Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [José Oliveira](https://github.com/Jose1277).
 
-<p style="text-align: center"><a href="https://youtu.be/L30qw7qHVjI" target="blanket">Clique aqui</a></p>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/L30qw7qHVjI" title="entrevista storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+_<font size="3">Fonte:[José Oliveira](https://github.com/Jose1277), 2025.</p></font>_
+
+</center>
 
 ## Bibliografia
 
@@ -348,7 +352,8 @@ Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Jo
 
 ## histórico de Versão
 
-| Versão |      Descrição      |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
-| :----: | :-----------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
-|  1.0   |  Criação da página  |    [José Oliveira](https://github.com/José1277)    | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   06/01/2025    |
-|  1.1   | Correções da página | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+| Versão |          Descrição          |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
+| :----: | :-------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
+|  1.0   |      Criação da página      |    [José Oliveira](https://github.com/José1277)    | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   06/01/2025    |
+|  1.1   |     Correções da página     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+|  1.5   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                               |   xx/01/2025    |
