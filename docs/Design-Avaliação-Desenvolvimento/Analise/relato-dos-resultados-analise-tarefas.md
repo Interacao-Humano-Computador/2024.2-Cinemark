@@ -134,11 +134,14 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 ## Entrevista Análise de tarefas
 
+<center>
+
 Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Anne](https://github.com/nanecapde).
 
-<p style="text-align: center"><a href="https://youtu.be/7CIUqcq0rRQ" target="blanket">Clique aqui</a></p>
+<iframe width="941" height="539" src="https://www.youtube.com/embed/7CIUqcq0rRQ" title="entrevista anália de tarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+_<font size="3">[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+</center>
 
 ### **Conclusão**
 
@@ -154,7 +157,8 @@ MACHADO, Maurício. Planejamento do relato de resultados. Repositório do Grupo 
 
 ## Histórico de versões
 
-| Versão |     Descrição      |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
-| :----: | :----------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da página  | [Anne de Capdeville](https://github.com/nanecapde) | 05/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
-|  1.1   | Correção da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+| Versão |          Descrição          |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
+| :----: | :-------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
+|  1.0   |      Criação da página      | [Anne de Capdeville](https://github.com/nanecapde) | 05/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+|  1.1   |     Correção da página      | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+|  1.5   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                               |   xx/01/2025    |

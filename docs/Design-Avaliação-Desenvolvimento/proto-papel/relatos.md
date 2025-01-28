@@ -54,11 +54,15 @@ Na primeira entrevista, a usuária Solange sugeriu:
 
 ## Entrevista Protótipo de Papel - **Compra de Ingresso e Snack**
 
-Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Anne](https://github.com/nanecapde).
+<center>
 
-<p style="text-align: center"><a href="https://youtu.be/0uB2-bognZA" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito da entrevista do protótipo de papel - Compra de Ingressos, onde o entrevistador foi [Anne de Capdeville](https://github.com/nanecapde).
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277).</p></font>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/0uB2-bognZA" title="Entrevista Protótipo de Papel - Compra de ingresso e Snacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 #### Entrevista 2
 
@@ -74,14 +78,19 @@ O usuário, Nicholas sugeriu:
 
 ## Entrevista Protótipo de Papel - **Reserva de Salas**
 
-Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Anne](https://github.com/nanecapde).
+<center>
 
-<p style="text-align: center"><a href="https://youtu.be/Yr4moztx8_U" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito da entrevista do protótipo de papel - Reserva de Salas, onde o entrevistador foi [Anne de Capdeville](https://github.com/nanecapde).
 
-<font size="3"><p style="text-align: center">Fonte: [Anne](https://github.com/nanecapde).</p></font>
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/Yr4moztx8_U" title="Entrevista Protótipo de Papel - Reserva de salas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+
+</center>
 
 ## Histórico de versões
 
 | Versão |            Descrição             |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
 |  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |   14/01/2025    |
+|  1.1   |   Correção dos links e vídeos    | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |                                               |   xx/01/2025    |

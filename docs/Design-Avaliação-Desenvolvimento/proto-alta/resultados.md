@@ -115,13 +115,17 @@ _<font size="3">Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [
 
 </center>
 
+---
+
 <center>
 
 Vídeo 2 - Teste 2: Reserva de sala
 
-<p style="text-align: center"><a href="https://youtu.be/b2EhaCQLwz0" target="blanket">Clique aqui</a></p>
+Abaixo segue o vídeo feito da entrevista da Reserva de Sala realizado por [Anne de Capdeville](https://github.com/nanecapde).
 
-_<font size="3">Fonte: [Anne](https://github.com/nanecapde), 2025.</p></font>_
+<iframe width="1903" height="582" src="https://www.youtube.com/embed/b2EhaCQLwz0" title="Protótipo de Alta Fidelidade Reserva de Sala" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
 
 </center>
 
