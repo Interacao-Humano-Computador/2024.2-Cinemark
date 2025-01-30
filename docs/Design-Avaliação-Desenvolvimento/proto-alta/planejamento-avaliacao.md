@@ -151,4 +151,6 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 | :----: | :-------------------------: | :------------------------------------------------: | :--------: | :--------------------------------------------: | :-------------: |
 |  1.0   |   Adição do planejamento    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 14/01/2025 |  [José Oliveira](https://github.com/Jose1277)  |   15/01/2025    |
 |  1.1   |   Adição do teste piloto    | [Anne de Capdeville](https://github.com/nanecapde) | 21/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   26/01/2025    |
-|  1.2   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)    |   28/01/2025    |
+|  1.2   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   28/01/2025    |
+
+
