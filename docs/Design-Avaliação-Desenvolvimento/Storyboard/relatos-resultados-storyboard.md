@@ -352,8 +352,10 @@ _<font size="3">Fonte:[José Oliveira](https://github.com/Jose1277), 2025.</p></
 
 ## histórico de Versão
 
+
 | Versão |          Descrição          |                     Autor(es)                      |    Data    |                  Revisor(es)                   | Data de revisão |
 | :----: | :-------------------------: | :------------------------------------------------: | :--------: | :--------------------------------------------: | :-------------: |
 |  1.0   |      Criação da página      |    [José Oliveira](https://github.com/José1277)    | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR)  |   06/01/2025    |
 |  1.1   |     Correções da página     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR)  |   14/01/2025    |
 |  1.2   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   28/01/2025    |
+

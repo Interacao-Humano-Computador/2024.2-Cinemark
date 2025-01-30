@@ -192,4 +192,6 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 |  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
 |  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
-|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |                                                    |   16/01/2025    |
+|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |  [José Oliveira](https://github.com/Jose1277)                         |   16/01/2025    |
+|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |      [Ana Joyce](https://github.com/anajoyceamorim)       |   28/01/2025    |
+

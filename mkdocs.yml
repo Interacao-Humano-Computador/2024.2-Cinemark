@@ -76,6 +76,7 @@ nav:
               - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
               - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/resultados.md
               - "Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/prototipo-alta.md
+              
   - Entrega Final:
       - "Cinemark": Entrega-Final/cinemark.md
       - "Ciclo de vida": Entrega-Final/ciclo-de-vida.md
@@ -89,6 +90,7 @@ nav:
       - "Método de Verificação": Entrega-Final/metodo-verif.md
       - "Vídeos das Apresentações": Entrega-Final/video-apresenta.md
       - "Feedback": Entrega-Final/feedback.md
+
 
 theme:
   name: material
