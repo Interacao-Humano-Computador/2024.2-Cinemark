@@ -29,6 +29,11 @@ nav:
       - "Entrega 7":
           - "Lista de verificação": avaliacoes/entrega7/avaliacao.md
           - "Lista de verificação grupo 5": avaliacoes/entrega7/avaliacao+1.md
+      - "Entrega 8":
+          - "Lista de verificação dos artefatos do grupo":
+             - "Processo de Design": avaliacoes/entrega8/verificacao/processo-de-design.md
+          - "Lista de verificação dos artefatos do grupo + 1":
+             - "Processo de Design": avaliacoes/entrega8/verificacao+1/processo-de-design.md
 
   - Atas:
       - "Atas": Atas/ata1.md
