@@ -26,6 +26,9 @@ nav:
       - "Entrega 6":
           - "Lista de verificação": avaliacoes/entrega6/avaliacao.md
           - "Lista de verificação grupo 5": avaliacoes/entrega6/avaliacao+1.md
+      - "Entrega 7":
+          - "Lista de verificação": avaliacoes/entrega7/avaliacao.md
+          - "Lista de verificação grupo 5": avaliacoes/entrega7/avaliacao+1.md
 
   - Atas:
       - "Atas": Atas/ata1.md
