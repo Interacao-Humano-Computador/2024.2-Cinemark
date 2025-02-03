@@ -39,3 +39,5 @@ O site avaliado pela integrante Ana Joyce Guedes foi o <a href="https://www.brmo
 | :----: | :----------------------------------------: | :--------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
 |  1.0   |      Organizaçao para a apresentação       |  [José Oliveira](https://github.com/Jose1277)  | 12/11/2024 | [Pedro Miguel](https://github.com/pedromadbr) |   12/11/2024    |
 |  2.0   | Adição dos outros sites e mudança da intro | [Ana Joyce](https://github.com/anajoyceamorim) | 18/11/2024 | [José Oliveira](https://github.com/Jose1277)  |   18/11/2024    |
+|  2.0   | Correções | [Anne de Capdeville](https://github.com/nanecapde) | 01/02/2025 | [José Oliveira](https://github.com/Jose1277)  |  01/02/2025    |
+
