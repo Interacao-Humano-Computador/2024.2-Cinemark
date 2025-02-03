@@ -93,6 +93,8 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 | O resultado do teste piloto (<a id="anchor_1" href="#REF1">1</a>)                                               | Sim        | 22:55 15/01/2025            |
 | Itens que o avaliador deve realizar/anotar durante a avaliação (problemas encontrados, priorização, etc.) (<a id="anchor_1" href="#REF1">1</a>) | Sim          | 22:56 15/01/2025            |
 
+_Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
+
 </center>
 
 # Gráfico de Itens de Rotina da Verificação
