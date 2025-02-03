@@ -154,4 +154,4 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |   Subindo a tabela  | [Ana Joyce](https://github.com/anajoyceamorim)  | 31/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |  01/02/2024  |
-|  2.0   |   Documentação + Verificação  | [Ana Joyce](https://github.com/anajoyceamorim)  | 03/02/2025 | [Nome](https://github.com/nome) |  xx/02/2024  |
+|  2.0   |   Documentação + Verificação  | [Ana Joyce](https://github.com/anajoyceamorim)  | 03/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |  03/02/2024  |
