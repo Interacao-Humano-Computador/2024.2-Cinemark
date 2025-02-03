@@ -32,8 +32,29 @@ nav:
       - "Entrega 8":
           - "Lista de verificação dos artefatos do grupo":
              - "Processo de Design": avaliacoes/entrega8/verificacao/processo-de-design.md
+             - "Personas": avaliacoes/entrega8/verificacao/personas.md
+             - "Elenco de Personas": avaliacoes/entrega8/verificacao/elenco-de-personas.md
+             - "Cenários": avaliacoes/entrega8/verificacao/cenarios.md         
+             - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/hta.md
+             - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao/ctt.md
+             - "Framework DECIDE": 
+                - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/DECIDE/hta.md
+                - "Storyboard": avaliacoes/entrega8/verificacao/DECIDE/storyboard.md               
+                - "Protótipo de Papel": avaliacoes/entrega8/verificacao/DECIDE/proto-papel.md
+                - "Protótipo de Alta": avaliacoes/entrega8/verificacao/DECIDE/proto-alta.md             
+
           - "Lista de verificação dos artefatos do grupo + 1":
              - "Processo de Design": avaliacoes/entrega8/verificacao+1/processo-de-design.md
+             - "Personas": avaliacoes/entrega8/verificacao+1/personas.md
+             - "Elenco de Personas": avaliacoes/entrega8/verificacao+1/elenco-de-personas.md
+             - "Cenários": avaliacoes/entrega8/verificacao+1/cenarios.md
+             - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/hta.md
+             - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao+1/ctt.md
+             - "Framework DECIDE": 
+                - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/DECIDE/hta.md
+                - "Storyboard": avaliacoes/entrega8/verificacao+1/DECIDE/storyboard.md               
+                - "Protótipo de Papel": avaliacoes/entrega8/verificacao+1/DECIDE/proto-papel.md
+                - "Protótipo de Alta": avaliacoes/entrega8/verificacao+1/DECIDE/proto-alta.md
 
   - Atas:
       - "Atas": Atas/ata1.md
@@ -66,7 +87,7 @@ nav:
           - " Análise de tarefas":
               - " Planejamento da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/avaliacao-analise-tarefas.md
               - " Planejamento do relato dos resultados da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/resultado-analise-tarefas.md
-              - " Relato dos resultados da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/relato-dos-resultados-analise-tarefas
+              - " Relato dos resultados da avaliação da Análise de Tarefas": Design-Avaliação-Desenvolvimento/Analise/relato-dos-resultados-analise-tarefas.md
           - " Storyboard ":
               - " Planejamento da Avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/avaliacao-storyboard.md
               - " Planejamento do relato dos resultados da avaliação do Storyboard": Design-Avaliação-Desenvolvimento/Storyboard/resultado-storyboard.md
