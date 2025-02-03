@@ -161,4 +161,4 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |            subindo a tabela           | [Ana Joyce](https://github.com/anajoyceamorim)     | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR) |  14/01/2025  |
 |  1.1   |      Avaliação da entrega 6           | [Pedro Miguel](https://github.com/pedroMADBR)      | 15/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) | 16/01/2025  |
-|  2.0   |   Adição gráfico e atualização do documento  | [Ana Joyce](https://github.com/anajoyceamorim) | 03/02/2025 | [nome](https://github.com/nome) |  xx/02/2025  |
+|  2.0   |   Adição gráfico e atualização do documento  | [Ana Joyce](https://github.com/anajoyceamorim) | 03/02/2025 | [José Oliveira](https://github.com/Jose1277) |  03/02/2025  |
