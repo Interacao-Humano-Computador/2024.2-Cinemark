@@ -1,12 +1,12 @@
-## Apresentação 7: Resultado da Avaliação do Protótipo de Alta Fidelidade
+## Entrega 7: Resultado da Avaliação do Protótipo de Alta Fidelidade
 
 ## Introdução  
 
-A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) na Etapa 6.
+A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) na Etapa 7.
 
 ## Objetivos  
 
-Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 6 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
+Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 7 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
 
 ## Metodologia  
 
@@ -34,8 +34,8 @@ A verificação foi realizada no dia 03/02/2025. A tabela 1 a seguir, apresenta 
 
 **Tabela 1** - Cronograma das Atividades.
 
-| Data       | Descrição                                                                 | Responsável                                                                                       |
-| ---------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Data       | Descrição        | Responsável                           |
+| ---------- | ---------------------------------------- | ---------------------------------------------------------------------- |
 | 03/02/2025 | Verificação do Relato dos Resultados do Protótipo de Alta Fidelidade |  [Ana Joyce](https://github.com/anajoyceamorim) |
 
 _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
@@ -140,6 +140,11 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
   // Renderiza o gráfico
   Plotly.newPlot("grafico5", data, layout);
 </script>
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
+> <a id="REF2" href="#anchor_2">2.</a> UNIVERSIDADE DE BRASÍLIA. Plano de ensino da disciplina Iteração Humano e Computador. Brasília, DF: UnB, 2024.  
 
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
