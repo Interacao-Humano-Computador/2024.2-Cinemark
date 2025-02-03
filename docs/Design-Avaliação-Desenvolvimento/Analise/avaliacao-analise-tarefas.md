@@ -205,9 +205,6 @@ _<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
 > <a id="REF2" href="#anchor_2">2.</a> Courage, C. & Baxter, K. Understanding your users: a practical guide to## Referências Bibliográficas
 
-> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.  
-> <a id="REF2" href="#anchor_2">2.</a> Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
-
 ## Bibliografia
 
 > ALVES, Douglas. Personas . Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2023. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/analise-de-requisitos/personas/>>. Acesso em: 10 dezembro 2024.
@@ -216,7 +213,6 @@ _<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
 ---
 
 ## Histórico de Versões
-
 
 | Versão |          Descrição          |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
 | :----: | :-------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
