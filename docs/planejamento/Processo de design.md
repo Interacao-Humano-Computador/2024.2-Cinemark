@@ -56,6 +56,8 @@ A melhor escolha de processo de design para a análise do site considerando que 
 
 #### Engenharia de Usabilidade de Mayhew
 
+![Ciclo de Vida Mayhew](../img/ciclo-mayhew.png)
+
 1. Análise de Requisitos
    - Na fase inicial, são estabelecidas as metas de usabilidade com base em fatores como o perfil dos usuários, análise das tarefas, limitações e possibilidades da plataforma na qual o sistema será executado, e princípios gerais de design de Interação Humano-Computador (IHC). Para facilitar a verificação dessas metas ao longo do processo, é comum apresentá-las em um guia de estilo que inclui diretrizes relacionadas a elementos visuais da interface, como layout, cores, tipografia, imagens e ícones​
 
