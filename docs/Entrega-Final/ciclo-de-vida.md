@@ -2,7 +2,13 @@
 
 # Introdução
 
+O ciclo de vida em design de Interação Humano-Computador (IHC) representa um conjunto estruturado de atividades voltadas para a concepção, desenvolvimento e avaliação de sistemas interativos. Esses ciclos organizam e orientam o trabalho do designer, garantindo que as soluções desenvolvidas sejam eficazes, centradas no usuário e iterativas
+
+A escolha do ciclo de vida adequado para um projeto depende de fatores como o contexto de aplicação, os objetivos do sistema e a experiência da equipe envolvida no desenvolvimento. No caso deste projeto, foi adotado o **modelo de Engenharia de Usabilidade de Mayhew**, cuja estrutura e aplicação serão detalhadas a seguir.
+
 # Motivo da escolha
+
+
 
 ## Referências
 
