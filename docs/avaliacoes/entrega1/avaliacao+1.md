@@ -1,4 +1,5 @@
 ## Introdução
+
 Nesta página está contido a avaliação da primeira entrega do grupo 5
 
 <p>Tabela 1: Avaliação da entrega 1 do grupo 5</p>
@@ -14,15 +15,15 @@ Nesta página está contido a avaliação da primeira entrega do grupo 5
 |                                         | 7 - Possui opção de contraste de cores?                                                                                                                                                            | sim                           | 1.0, 13/11/2024, 22:14              |
 |                                         | 8 – Os artefatos: Planejamento do Projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma das atividades? | sim                           | 1.0, 13/11/2024, 22:17              |
 | Itens do Desenvolvimento do projeto.    | 1 - O histórico de versão padronizado?                                                                                                                                                             | sim                           | 1.0, 13/11/2024, 22:23              |
-|                                         | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                                                                          | sim                    | 1.0, 13/11/2024, 22:27              |
+|                                         | 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato?                                                                                                                                          | sim                           | 1.0, 13/11/2024, 22:27              |
 |                                         | 3 - Referências bibliográficas e/ou bibliografia em todos os artefatos?                                                                                                                            | sim                           | 1.0, 13/11/2024, 22:30              |
-|                                         | 4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                                                                                 | sim                    | 1.0, 13/11/2024, 22:34             |
+|                                         | 4 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto?                                                                                                                 | sim                           | 1.0, 13/11/2024, 22:34              |
 |                                         | 5 - Um texto fazendo uma introdução dos artefatos?                                                                                                                                                 | sim                           | 1.0, 13/11/2024, 22:37              |
 |                                         | 6 - o cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade.                                                  | sim                           | 1.0, 13/11/2024, 22:41              |
 |                                         | 7 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo,atividades definidas etc).                                                                              | sim                           | 1.0, 13/11/2024, 22:44              |
 |                                         | 8 – A gravação da reunião do grupo.                                                                                                                                                                | sim                           | 1.0, 13/11/2024, 22:44              |
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube?                                                                                                                                   | sim                           | 1.0, 13/11/2024, 22:45              |
-| Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de  Design?                                                                                                                                                 | sim                           | 1.0, 13/11/2024, 22:48              |
+| Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de Design?                                                                                                                                                  | sim                           | 1.0, 13/11/2024, 22:48              |
 
 Fonte: [José Oliveira](https://github.com/Jose1277)
 
@@ -32,6 +33,6 @@ Fonte: [José Oliveira](https://github.com/Jose1277)
 
 ## Histórico de versões
 
-| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [José Oliveira](https://github.com/Jose1277) |   13/11/2024   |
+| Versão |        Descrição        |                  Autor(es)                   |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :---------------------: | :------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   13/11/2024    |
