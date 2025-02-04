@@ -100,4 +100,4 @@ Se o foco fosse um redesenho completo do site, outros modelos, como o Ciclo de V
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página e conteúdo | [Ana Joyce](https://github.com/anajoyceamorim) | 19/11/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   19/11/2024   |
-|  2.0   | Correções do modelo | [Pedro Miguel](https://github.com/pedroMADBR) | 04/02/2025 | [nome](https://github.com/nome) |   xx/xx/2025   |
+|  2.0   | Correções do modelo | [Pedro Miguel](https://github.com/pedroMADBR) | 04/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025   |
