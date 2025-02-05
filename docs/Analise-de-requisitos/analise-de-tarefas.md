@@ -36,7 +36,7 @@ A compra de ingressos é uma das principais tarefas realizadas pelos usuários d
 |      4. Finalizar pagamento      |    4.1 > 4.2 > 4.3    |                                              Escolher método de pagamento, inserir dados de pagamento e confirmar compra                                               |      Falha no processamento ou tempo de resposta lento pode causar desistência da compra. Oferecer opções de pagamento rápido e garantir segurança na interface.       |
 | 5. Receber confirmação de compra |           -           |                                                               Exibir mensagem ou e-mail de confirmação.                                                                |                                                                                   -                                                                                    |
 
-Autor: [Anne de Capdeville](https://github.com/nanecapde).
+Autor: [Anne de Capdeville](https://github.com/nanecapde) e [José Felipe](https://github.com/Jose1277).
 
 Segue o Diagrama HTA:
 
@@ -114,9 +114,11 @@ A tarefa "Compra de ingressos e alimentos" envolve várias interações do usuá
 |      4. Finalizar pagamento      |          >>          |    Escolher método de pagamento >> inserir dados de pagamento >> confirmar compra     |      Falha no processamento ou tempo de resposta lento pode causar desistência da compra. Oferecer opções de pagamento rápido e garantir segurança na interface.       |
 | 5. Receber confirmação de compra |          >>          |                       Exibir mensagem ou e-mail de confirmação.                       |                                                                                   -                                                                                    |
 
-Segue o Diagrama HTA:
+Autor: [Anne de Capdeville](https://github.com/nanecapde) e [José Felipe](https://github.com/Jose1277).
 
-![Diagrma CTT - Reserva de Salas](../img/cttcompraingresso.png)
+Segue o Diagrama CTT:
+
+![Diagrma CTT - Compra ingressos](../img/cttcompraingresso.png)
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -132,7 +134,9 @@ A tarefa "Reserva de Salas" envolve várias interações do usuário com o siste
 |  4. Preencher dados pessoais   |          >>          |     Seguir a sequência: Inserir nome completo >> inserir e-mail >> inserir telefone >> inserir informações adicionais(opcional)      |                 Falta de preenchimento correto dos campos. Implementar validação de campos e mensagens de erro claras.                 |
 | 5. Confirmar e efetuar reserva | Paralelismo opcional | Seguir a sequência: escolher forma de pagamento(pagamento ou orçamento), inserir dados do pagamento(se aplicável), confirmar reserva |    Falta de confiança ao inserir informações financeiras. Garantir segurança por meio de selos de proteção de dados e criptografia.    |
 
-Segue o Diagrama HTA:
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama CTT:
 
 ![Diagrma CTT - Reserva de Salas](../img/cttreservadesalas.png)
 
