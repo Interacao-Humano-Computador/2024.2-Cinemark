@@ -1,8 +1,9 @@
-![image](https://github.com/user-attachments/assets/2f67e509-0261-4120-964a-b44efe30865f)## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
 
 ## Introdução  
 
 A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 5](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ) na Etapa 1.
+
+![image](https://github.com/user-attachments/assets/2f67e509-0261-4120-964a-b44efe30865f)## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
 
 ## Objetivos  
 
@@ -89,6 +90,7 @@ Para uma melhor organização do processo de verificação, as checklists foram 
 |                                         | 8 – A gravação da reunião do grupo. (<a href="#REF2">2</a>)  | não  | 1.0, 13/11/2024, 22:44     |
 |                                         | 9 - Vídeo de apresentação na categoria “não listado” no youtube? (<a href="#REF2">2</a>) | sim    | 1.0, 13/11/2024, 22:45 |
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de  Design? (<a href="#REF2">2</a>)  | sim | 1.0, 13/11/2024, 22:48              |
+
 
 Fonte: [José Oliveira](https://github.com/Jose1277)
 
