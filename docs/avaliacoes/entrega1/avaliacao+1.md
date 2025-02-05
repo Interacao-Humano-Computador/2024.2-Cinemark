@@ -1,4 +1,4 @@
-## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
+![image](https://github.com/user-attachments/assets/2f67e509-0261-4120-964a-b44efe30865f)## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
 
 ## Introdução  
 
@@ -131,4 +131,4 @@ Fonte: [José Oliveira](https://github.com/Jose1277)
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   13/11/2024   |
-|  2.0   | Documentação e atualização| [Ana Joyce](https://github.com/anajoyceamorim) | 05/02/2025 | [Nome](https://github.com/nome) |   xx/02/2025   |
+|  2.0   | Documentação e atualização| [Ana Joyce](https://github.com/anajoyceamorim) | 05/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde)  |   05/02/2025   |
