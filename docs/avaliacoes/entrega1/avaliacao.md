@@ -131,4 +131,4 @@ Fonte: [José Oliveira](https://github.com/Jose1277)
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   13/11/2024   |
-|  2.0   | Documentação e atualização| [Ana Joyce](https://github.com/anajoyceamorim) | 05/02/2025 | [Nome](https://github.com/nome) |   xx/02/2025   |
+|  2.0   | Documentação e atualização| [Ana Joyce](https://github.com/anajoyceamorim) | 05/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde)  |   05/02/2025   |
