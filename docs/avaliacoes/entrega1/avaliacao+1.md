@@ -2,11 +2,11 @@
 
 ## Introdução  
 
-A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) na Etapa 1.
+A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 5](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ) na Etapa 1.
 
 ## Objetivos  
 
-Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 6 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
+Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 1 pelo [Grupo 5](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ) estão em conformidade com os itens e padrões exigidos.  
 
 ## Metodologia  
 
@@ -25,14 +25,14 @@ Os responsáveis pelas verificações são os membros listados na tabela a segui
 
 ## Os artefatos alvos dessa verificação são:
 
-- O [**Planejamento do Projeto**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/cronograma/).
-- A apresentação da [**equipe**](https://interacao-humano-computador.github.io/2024.2-Cinemark/).
-- O [**Heatmap de disponibilidade dos integrantes**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/mapa-de-energia/).
-- A [**litas de sites avaliados**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/sites-avaliados/).
-- O [**site selecionado para o projeto da disciplina**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/site-escolhido/).
-- As [**ferramentas do projeto**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/ferramentas/).
-- O [**processo de Design**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/Processo%20de%20design/).
-- O [**cronograma detalhado das atividades do projeto**](https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/cronograma/).
+- O [**Planejamento do Projeto**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/entrega_1/).
+- A apresentação da [**equipe**](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ).
+- O [**Heatmap de disponibilidade dos integrantes**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/heatmap/).
+- A [**litas de sites avaliados**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/sites_avaliados/).
+- O [**site selecionado para o projeto da disciplina**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/site_escolhido/).
+- As [**ferramentas do projeto**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/ferramentas/).
+- O [**processo de Design**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/design/).
+- O [**cronograma detalhado das atividades do projeto**](https://interacao-humano-computador.github.io/2024.2-CDMOJ/entregas/entrega_1/cronograma/).
 
 
 ### Cronograma
