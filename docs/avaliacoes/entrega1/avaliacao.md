@@ -6,7 +6,7 @@ A verificação desempenha um papel fundamental no desenvolvimento de um projeto
 
 ## Objetivos  
 
-Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 6 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
+Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 1 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
 
 ## Metodologia  
 
