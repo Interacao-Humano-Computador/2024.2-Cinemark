@@ -21,6 +21,12 @@ Para analisar as tarefas realizadas pelos usuários do Cinemark, utilizamos duas
 
 ![Diagrma HTA - Compra Ingresso](../assets/ferramentas/hta.png)
 
+Resumo das Relações
+
+- Sequencial (>): Tarefa depende da anterior para ser executada.
+- Paralelo (+): Tarefas podem ser feitas ao mesmo tempo.
+- Seleção (/): O usuário escolhe entre uma opção ou outra.
+
 ### **Análise Hierárquica de Tarefas**
 
 **Análise HTA 1: Comprar ingressos**
@@ -54,8 +60,8 @@ O Cinemark disponibiliza a funcionalidade de reserva de salas para eventos parti
 |      1. Selecionar local       |       1.1 > 1.2       |                                        Seguir a sequência: escolher cidade > selecionar unidade                                        |                          Usuários podem não encontrar rapidamente o local desejado. Incluir filtros por região e lista de unidades próximas.                          |
 |   2. Escolher data e horário   |       2.1 > 2.2       |                                   Seguir a sequência: informar data > selecionar horário disponível                                    |                Horários indisponíveis podem causar frustração ao usuário. Apresentar apenas os horários livres e permitir consulta rápida das opções.                 |
 |  3. Selecionar tipo de evento  |          3.1          |                                Escolher tipo de evento(corporativo, exibição privada) e personalização                                 |                                                                                   -                                                                                   |
-|  4. Preencher dados pessoais   | 4.1 > 4.2 > 4.3 > 4.4 |        Seguir a sequência: Inserir nome completo > inserir e-mail > inserir telefone > inserir informações adicionais(opcional)        |                                                                                   -                                                                                   |
-|       5. Efetuar reserva       |    5.1 > 5.2 > 5.3    | Seguir a sequência: escolher forma de pagamento(pagamento ou orçamento) > inserir dados do pagamento(se aplicável) > confirmar reserva | Usuários podem não se sentir seguros ao inserir dados financeiros. Garantir que a interface transmita segurança, incluindo selos de proteção de dados e criptografia. |
+|  4. Preencher dados pessoais   | 4.1 > 4.2 > 4.3 + 4.4 |        Seguir a sequência: Inserir nome completo > inserir e-mail > inserir telefone > inserir informações adicionais(opcional)        |                                                                                   -                                                                                   |
+|       5. Efetuar reserva       |    5.1 / 5.2 > 5.3    | Seguir a sequência: escolher forma de pagamento(pagamento ou orçamento) > inserir dados do pagamento(se aplicável) > confirmar reserva | Usuários podem não se sentir seguros ao inserir dados financeiros. Garantir que a interface transmita segurança, incluindo selos de proteção de dados e criptografia. |
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -83,12 +89,18 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 O Voucher Corporativo é uma funcionalidade voltada para empresas que desejam adquirir ingressos em grande quantidade para colaboradores ou parceiros.
 
-|            Objetivos/Operações             | Relações  |                          Problemas e Recomendações                           |
-| :----------------------------------------: | :-------: | :--------------------------------------------------------------------------: |
-|     0. Adquirir vouchers corporativos      | 1 > 2 > 3 |     Problema: Falta de transparência no processo de entrega dos vouchers     |
-| 1. Selecionar quantidade e tipo de voucher |           |        Plano: Escolher entre vouchers de ingressos normais ou premium        |
-|        2. Informar dados da empresa        |           | Plano: Preencher informações da empresa, como CNPJ e endereço de faturamento |
-|           3. Confirmar pagamento           |           |          Plano: Escolher forma de pagamento e concluir a transação           |
+|            Objetivos/Operações             |    Relações     |                                                                       Plano                                                                       |                                                       Problemas e Recomendações                                                       |
+| :----------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|     0. Adquirir Vouchers Corporativos      |  0 > 1 > 2 > 3  | Seguir a sequência: selecionar quantidade e tipo de voucher > preencher informações essenciais > escolher forma de pagamento e concluir transação |                                                                   -                                                                   |
+| 1. Selecionar quantidade e tipo de voucher |    1.1 > 1.2    |                                 Seguir a sequência: escolher quantidade de vouchers > selecionar tipo de voucher                                  | Falta de informações claras sobre as diferenças entre os tipos de voucher. Apresentar descrições e comparações dos tipos de vouchers. |
+|        2. Informar dados da empresa        | 2.1 > 2.2 > 2.3 |                           Seguir a sequência: inserir CNPJ > Inserir nome da empresa > Inserir endereço de faturamento                            |    Usuários podem não entender quais informações são obrigatórias. Implementar validação e mensagens de orientação para os campos.    |
+|           3. Confirmar pagamento           | 3.1 > 3.2 > 3.3 |                        Seguir a sequência: escolher forma de pagamento > inserir dados de pagamento > confirmar transação                         |  Falta de transparência sobre o prazo de entrega dos vouchers. Exibir informações claras sobre a entrega antes da confirmação final.  |
+
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama HTA:
+
+![Diagrma HTA - Vouchers Corporativos](../img/htavoucher.png)
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -159,14 +171,20 @@ Fluxo da Tarefa:
 
 Os vouchers corporativos oferecem aos funcionários benefícios como ingressos ou descontos para sessões de cinema. O processo de resgatar um voucher corporativo pode ser feito através do site, sendo necessário um código de acesso fornecido pela empresa.
 
-Fluxo da Tarefa:
+|            Objetivos/Operações             | Relações |                                                                       Plano                                                                       |                                                       Problemas e Recomendações                                                       |
+| :----------------------------------------: | :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|     0. Adquirir Vouchers Corporativos      |    >>    | Seguir a sequência: selecionar quantidade e tipo de voucher > preencher informações essenciais > escolher forma de pagamento e concluir transação |                                                                   -                                                                   |
+| 1. Selecionar quantidade e tipo de voucher |    >>    |                                 Seguir a sequência: escolher quantidade de vouchers > selecionar tipo de voucher                                  | Falta de informações claras sobre as diferenças entre os tipos de voucher. Apresentar descrições e comparações dos tipos de vouchers. |
+|        2. Informar dados da empresa        |    >>    |                           Seguir a sequência: inserir CNPJ > Inserir nome da empresa > Inserir endereço de faturamento                            |    Usuários podem não entender quais informações são obrigatórias. Implementar validação e mensagens de orientação para os campos.    |
+|           3. Confirmar pagamento           |    >>    |                        Seguir a sequência: escolher forma de pagamento > inserir dados de pagamento > confirmar transação                         |  Falta de transparência sobre o prazo de entrega dos vouchers. Exibir informações claras sobre a entrega antes da confirmação final.  |
 
-- **O usuário acessa a página de resgate de vouchers corporativos.**
-- **O usuário insere o código do voucher.**
-- **O sistema valida o código.**
-- **O sistema exibe os ingressos disponíveis para resgatar.**
-- **O usuário escolhe os ingressos desejados e confirma o resgate.**
-- **O sistema processa o resgate e envia a confirmação por e-mail ou mensagem.**
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+Segue o Diagrama CTT:
+
+![Diagrma CTT - Reserva de Salas](../img/cttvoucher.png)
+
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 ## Bibliografia
 
