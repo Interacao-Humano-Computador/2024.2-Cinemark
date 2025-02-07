@@ -1,4 +1,3 @@
-
 # Introdução
 
 ## Objetivo do guia de estilo
@@ -10,25 +9,25 @@ Neste documento buscamos registrar as principais decisões de design tomadas par
 O Guia de Estilo contará com os seguintes elementos analisados:
 
 - Elementos de interface
-    - Cores
-    - Icones e Botões
-    - Logotipos
-    - Tipografia
-    - Janelas
-    - Tipos de Tela para Tarefas Comuns
+  - Cores
+  - Icones e Botões
+  - Logotipos
+  - Tipografia
+  - Janelas
+  - Tipos de Tela para Tarefas Comuns
 - Elementos de interação
-    - Estilos de interação
-    - Seleção de um estilo
-    - Aceleradores (Teclas de atalho)
+  - Estilos de interação
+  - Seleção de um estilo
+  - Aceleradores (Teclas de atalho)
 - Elementos de ação
-    - Preenchimento de campos
-    - Seleção
-    - Ativação
+  - Preenchimento de campos
+  - Seleção
+  - Ativação
 - Vocabulário e Terminologia
-    - Terminologia
-    - Consistência
-    - Sequências de Diálogos
-  
+  - Terminologia
+  - Consistência
+  - Sequências de Diálogos
+
 ## Público-alvo do guia de estilo
 
 O Públlico-alvo consiste na equipe de desenvolvedores do Cinemark como também seus designs e partes interessadas. Ademais pode ajudar outros alunos futuros da disciplina em entender os conceitos trabalhados na matéria Interação Humano-Computador e também para embasar decisões em seus projetos.
@@ -54,7 +53,7 @@ Apesar de bem adaptado, como é um site robusto com funcionalidades diversas, su
 
 Entretanto, para maximizar a responsividade e garantir acessibilidade em todos os dispositivos, o site poderia ser revisado regularmente com base nas últimas práticas de design adaptativo e nas tendências de acessibilidade web. Essa melhoria garantiria que a experiência do usuário continue relevante e eficiente frente às constantes inovações tecnológicas.
 
-# Elementos de interface
+# Elementos da interface
 
 Figura 1 - Elementos da Interface.
 
@@ -70,7 +69,7 @@ Fonte: [Pedro Miguel](https://github.com/pedroMADBR), 2024.
 
 # Elementos de Interação
 
-O site da Cinemark oferece uma experiência rica em elementos de interação e ação, tanto para a navegação quanto para a compra de ingressos e uso de serviços adicionais. 
+O site da Cinemark oferece uma experiência rica em elementos de interação e ação, tanto para a navegação quanto para a compra de ingressos e uso de serviços adicionais.
 
 ## Estilos de interação
 
@@ -116,13 +115,13 @@ As palavras-chave são consistentes em toda a navegação, garantindo que o usu�
 
 ## Referências
 
-CINEMARK BRASIL. Site oficial Cinemark Brasil. Disponível em: https://www.cinemark.com.br. Acesso em: 3 dez. 2024.
+<a href="https://cinemark.com.br/">Cinemark.com.br</a> Acesso em: 3 dez. 2024.
 SAC CINEMARK BRASIL. Central de Atendimento Cinemark. Disponível em: https://sac.cinemark.com.br/hc/pt-br. Acesso em: 3 dez. 2024.
 
 ## Histórico de versões
 
-| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação da página | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024   |
-|  2.0   | Adição da estrutura do Guia de Estilo | [Pedro Miguel](https://github.com/pedroMADBR) | 03/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) | 03/12/2024 |
-|  2.1   | Correção do sumário | [Pedro Miguel](https://github.com/pedroMADBR) | 03/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) | 04/01/2025 |
+| Versão |               Descrição               |                   Autor(es)                    |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :-----------------------------------: | :--------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   |           Criação da página           | [Ana Joyce](https://github.com/anajoyceamorim) | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024    |
+|  2.0   | Adição da estrutura do Guia de Estilo | [Pedro Miguel](https://github.com/pedroMADBR)  | 03/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   03/12/2024    |
+|  2.1   |          Correção do sumário          | [Pedro Miguel](https://github.com/pedroMADBR)  | 03/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   04/01/2025    |
