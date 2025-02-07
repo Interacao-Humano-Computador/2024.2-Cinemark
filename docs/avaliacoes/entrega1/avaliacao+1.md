@@ -1,9 +1,9 @@
-
 ## Introdução  
 
 A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 5](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ) na Etapa 1.
 
 ![image](https://github.com/user-attachments/assets/2f67e509-0261-4120-964a-b44efe30865f)## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
+
 
 ## Objetivos  
 
@@ -92,6 +92,8 @@ Para uma melhor organização do processo de verificação, as checklists foram 
 | Itens do conteúdo da disciplina         | A justificativa da escolha do Processo de  Design? (<a href="#REF2">2</a>)  | sim | 1.0, 13/11/2024, 22:48              |
 
 
+
+
 Fonte: [José Oliveira](https://github.com/Jose1277)
 
 </center>
@@ -130,7 +132,9 @@ Fonte: [José Oliveira](https://github.com/Jose1277)
 
 ## Histórico de versões
 
+
 | Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   | Realização da avaliação | [José Oliveira](https://github.com/Jose1277) | 13/11/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   13/11/2024   |
 |  2.0   | Documentação e atualização| [Ana Joyce](https://github.com/anajoyceamorim) | 05/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde)  |   05/02/2025   |
+
