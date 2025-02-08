@@ -29,10 +29,11 @@ Os processos de design de IHC utilizam uma variedade de abordagens e métodos, c
    Baseia-se em um processo mais estruturado e detalhado, focado em análise de tarefas, definição de métricas de usabilidade e avaliação contínua.
 
 5. **Design Contextual**
-   Focado em entender o contexto real de uso, incluindo:  
-   - **Investigação contextual**: Identificar usuários, objetivos e ambientes.  
-   - **Modelagem do trabalho**: Mapear fluxos, artefatos e aspectos culturais.  
-   - **Consolidação e reprojeto**: Refinar o design para atender melhor às necessidades identificadas.  
+   Focado em entender o contexto real de uso, incluindo:
+
+   - **Investigação contextual**: Identificar usuários, objetivos e ambientes.
+   - **Modelagem do trabalho**: Mapear fluxos, artefatos e aspectos culturais.
+   - **Consolidação e reprojeto**: Refinar o design para atender melhor às necessidades identificadas.
    - **Prototipação e testes**: Validar soluções diretamente com os usuários.
 
 6. **Design Baseado em Cenários**
@@ -48,6 +49,8 @@ Os processos de design de IHC utilizam uma variedade de abordagens e métodos, c
 
 Este resumo sintetiza os principais conceitos do capítulo 4 de Barbosa e Silva, incluindo os diferentes processos de design em IHC e suas aplicações práticas. Cada abordagem oferece ferramentas e perspectivas distintas para lidar com os desafios de design centrado no usuário.
 
+> Fonte: Capítulo 4. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ---
 
 ### **Escolha de processo de design para o Cinemark**
@@ -59,9 +62,11 @@ A melhor escolha de processo de design para a análise do site considerando que 
 ![Ciclo de Vida Mayhew](../img/ciclo-mayhew.png)
 
 1. Análise de Requisitos
+
    - Na fase inicial, são estabelecidas as metas de usabilidade com base em fatores como o perfil dos usuários, análise das tarefas, limitações e possibilidades da plataforma na qual o sistema será executado, e princípios gerais de design de Interação Humano-Computador (IHC). Para facilitar a verificação dessas metas ao longo do processo, é comum apresentá-las em um guia de estilo que inclui diretrizes relacionadas a elementos visuais da interface, como layout, cores, tipografia, imagens e ícones​
 
 2. Design, Avaliação e Desenvolvimento
+
    - Esta fase visa criar uma interface que atenda às metas de usabilidade estabelecidas anteriormente. O processo ocorre em três níveis de detalhamento:
    - Primeiro nível: Revisão das tarefas e criação de protótipos de baixa fidelidade para avaliação inicial.
    - Segundo nível: Estabelecimento de padrões de design e construção de protótipos de média fidelidade.
@@ -74,12 +79,15 @@ A melhor escolha de processo de design para a análise do site considerando que 
 #### Razões para escolher a Engenharia de Usabilidade de Mayhew
 
 1. **Abordagem estruturada e detalhada**
+
    - O modelo de Mayhew divide o processo em três fases bem definidas (Análise de Requisitos, Design/Avaliação/Desenvolvimento e Instalação), o que facilita a identificação e a solução de problemas no site da Cinemark.
 
 2. **Foco na usabilidade e experiência do usuário**
+
    - Como o site da Cinemark tem funções críticas, como compra de ingressos, escolha de assentos e consulta de horários, garantir uma interface intuitiva e eficiente é essencial. O modelo de Mayhew permite avaliar essas necessidades desde a análise de requisitos até a implementação de melhorias.
 
 3. **Ciclo iterativo de refinamento**
+
    - O processo envolve testes constantes e ajustes progressivos, garantindo que cada mudança no site seja baseada em dados e feedback reais dos usuários. Isso é crucial para evitar falhas que possam prejudicar a navegação e a experiência do cliente.
 
 4. **Aplicação prática no cenário da Cinemark**
@@ -97,7 +105,7 @@ Se o foco fosse um redesenho completo do site, outros modelos, como o Ciclo de V
 
 ## Histórico de versões
 
-| Versão |     Descrição      |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
-| :----: | :----------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
-|  1.0   | Criação da página e conteúdo | [Ana Joyce](https://github.com/anajoyceamorim) | 19/11/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   19/11/2024   |
-|  2.0   | Correções do modelo | [Pedro Miguel](https://github.com/pedroMADBR) | 04/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025   |
+| Versão |          Descrição           |                   Autor(es)                    |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :--------------------------: | :--------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   | Criação da página e conteúdo | [Ana Joyce](https://github.com/anajoyceamorim) | 19/11/2024 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   19/11/2024    |
+|  2.0   |     Correções do modelo      | [Pedro Miguel](https://github.com/pedroMADBR)  | 04/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025    |

@@ -127,7 +127,7 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 - Será obtido consentimento dos participantes antes da entrevista.
 
-[Teermo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md)
+[Termo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md)
 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 

@@ -2,6 +2,8 @@
 
 O storyboard é um esboço visual que representa a sequência de eventos de uma história. Ele é utilizado para planejar a narrativa de um vídeo, animação, filme, entre outros. O storyboard é composto por uma série de quadros que representam as cenas da história, e em cada quadro é possível adicionar descrições, diálogos, e indicações de movimento. Esta técnica proporciona aos desenvolvedores uma visão geral do projeto, facilitando a identificação de problemas e a realização de ajustes antes da produção final.
 
+---
+
 ## Metodologia
 
 Para o planejamento será utilizado o framework decide (Decompose, Empathize, Create, Identify, Validate, Execute).
@@ -17,6 +19,8 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
+---
+
 ## D - Determine
 
 Esta etapa determina os objetivos do storyboard, como elaborar a história, definir o público-alvo, e estabelecer o propósito do projeto. Após a elaboraçào deve-se validar se a versão final atende aos objetivos estabelecidos. E por fim, deve-se decidir se ele possui algo a mais que possa alterado, deletado ou adicionado.
@@ -29,6 +33,8 @@ etapas:<br>
 - Verificar se é necessário adicionar, deletar ou alterar algo.<br>
 
 > Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
 
 ## E - Explore
 
@@ -44,9 +50,13 @@ De acordo com os objetivos definidos no passo anterior, o avaliador deve explora
 
 > Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+---
+
 ## C - Choose
 
 Escolher os metodos de avaliação. A avaliação pode ser feito utilizando um método como o teste com usuário ou avaliação heurística. Para o storyboard, o teste com o usuário é mais adequada, pois permite observar a experiência real do usuário.
+
+---
 
 ## I - Identify
 
@@ -65,6 +75,8 @@ Questões práticas a serem consideradas:
 
 > Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+---
+
 ## D - Validate
 
 Realiza-se a validação das informações obtidas durante os testes com usuários para assegurar que os resultados respondem às questões levantadas na fase "Explore". Além disso, verifica-se se os métodos definidos na etapa "Choose" foram implementados de maneira adequada e eficaz.
@@ -78,6 +90,8 @@ Atividades principais:
 
 > Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+---
+
 ## E - Execute
 
 A última etapa do framework consiste na execução das melhorias no storyboard com base nos resultados dos testes com usuários. As alterações devem ser realizadas de forma cuidadosa, priorizando os aspectos que impactam diretamente na qualidade e funcionalidade da história visual.
@@ -90,6 +104,8 @@ Atividades principais:
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
 
 > Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
 
 ## Teste Piloto
 
@@ -117,6 +133,8 @@ O objetivo do teste piloto serve como uma etapa preliminar para garantir que o t
   Essa etapa inicial também fornece uma amostra dos dados que serão coletados, permitindo ajustes na metodologia para garantir resultados mais precisos e úteis.
 
 Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade seja eficiente, identificando e corrigindo potenciais problemas antes da execução final.
+
+---
 
 ## Resultado do Teste Piloto
 

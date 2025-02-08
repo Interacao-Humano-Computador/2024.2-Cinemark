@@ -4,6 +4,8 @@ Personas são representações fictícias de usuários reais, criadas com base e
 
 Neste trabalho, personas serão utilizadas para analisar e melhorar a experiência de uso de funcionalidades do site Cinemark, como compra de ingressos, aquisição de combos, reserva de salas, solicitação de vouchers corporativos, orçamento para escolas e adesão ao programa Cinemark Club. A aplicação das personas possibilitará compreender como essas funcionalidades interagem com os objetivos dos usuários e como podem ser otimizadas para atender suas expectativas. O referencial teórico foi embasado nos estudos de Barbosa e Silva (2011), que exploram a Interação Humano-Computador (IHC), e Courage e Baxter (2005), que oferecem diretrizes práticas para a compreensão dos usuários.
 
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ---
 
 ### **Metodologia**
@@ -17,6 +19,8 @@ As personas foram elaboradas a partir do perfil de usuários típicos do site Ci
 As personas foram estruturadas com base nos modelos propostos por Barbosa e Silva (2011) e Courage e Baxter (2005), que enfatizam a necessidade de detalhes claros e específicos para que essas representações sirvam como ferramentas eficazes de design e comunicação. A escolha de uma quantidade reduzida de personas foi estratégica para garantir que elas fossem fáceis de lembrar e úteis no processo de design, aumentando as chances de alinhar o sistema às expectativas do usuário final.
 
 Este método visa garantir uma compreensão abrangente dos perfis de usuários, permitindo uma análise criteriosa da interação humana com as funcionalidades do site e proporcionando insights valiosos para o design centrado no usuário.
+
+> Fonte: Capítulo 8. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ### **ELENCO**
 
@@ -287,5 +291,4 @@ Uma navegação intuitiva, com opções de personalização e entrega simples.
 |  1.1   | Add intro, mmetodologia e elenco |   [Ana Joyce](https://github.com/anajoyceamorim)   | 02/12/2024 |     [José Felipe](https://github.com/Jose1277)     |   02/12/2024    |
 |  1.2   |      Consertando as imagens      |   [Ana Joyce](https://github.com/anajoyceamorim)   | 03/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   03/12/2024    |
 |  1.3   |     Consertando as imagens 2     |   [Ana Joyce](https://github.com/anajoyceamorim)   | 03/12/2024 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   05/12/2024    |
-|  1.4   | Correção definitiva das imagens  | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)  |  28/01/2025    |
-
+|  1.4   | Correção definitiva das imagens  | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |

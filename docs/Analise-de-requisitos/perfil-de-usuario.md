@@ -13,7 +13,7 @@ Para traçar o perfil do usuário do site do Cinemark, foi adotada uma abordagem
 #### **1. Brainstorm com Participantes**
 
 A primeira etapa consistiu em um _brainstorm_ com um grupo de X participantes, selecionados com base em critérios definidos para representar potenciais usuários do site. Antes da atividade, todos assinaram um
-[Teermo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md), assegurando a conformidade ética da pesquisa, conforme indicado por Lazar, Feng e Hochheiser (2017).  
+[Termo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md), assegurando a conformidade ética da pesquisa, conforme indicado por Lazar, Feng e Hochheiser (2017).  
 Durante o _brainstorm_, foram exploradas percepções, expectativas e dificuldades relacionadas à navegação no site do Cinemark, utilizando ferramentas como mapas mentais para organização das ideias.
 
 ---

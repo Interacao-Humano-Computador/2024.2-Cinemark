@@ -4,11 +4,15 @@
 
 Este documento consolida os resultados obtidos durante a Avaliação 1 dos Storyboards do projeto Cinemark. A entrevista foi conduzidas de forma a verificar a verossimilhança das narrativas visuais com a realidade dos usuários, bem como para identificar problemas e sugerir melhorias. Todo o processo de avaliação seguiu o Planejamento do Relato dos Resultados da Avaliação do Storyboard, que definiu o método, o escopo, os critérios de seleção dos participantes e o cronograma de execução das entrevistas.
 
+---
+
 # Planejamento Geral da Avaliação
 
 ## Objetivo e Escopo da Avaliação
 
 O objetivo principal foi analisar se cada Storyboard reflete, de forma clara e fidedigna, as tarefas que o usuário realiza no site/aplicativo Cinemark. Buscamos identificar pontos de melhoria, garantindo uma comunicação mais eficiente das funcionalidades essenciais (como compra de ingresso, reserva de salas, cancelamento, busca de sessões, visualização de pedidos, entre outras).
+
+---
 
 ## Método de Avaliação
 
@@ -24,9 +28,13 @@ O objetivo principal foi analisar se cada Storyboard reflete, de forma clara e f
 
 Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 
+---
+
 ## Seleção dos Participantes
 
 Cada entrevistado foi escolhido por corresponder ao perfil de usuário definido para o projeto Cinemark: faixa etária entre 18 e 35 anos, experiência intermediária com tecnologia e interesse por eventos de cinema. As opiniões colhidas refletem, portanto, as necessidades e expectativas do público-alvo.
+
+---
 
 ## Relato dos Resultados por Tarefa
 
@@ -46,6 +54,8 @@ Avaliar se o Storyboard “Comprar Ingresso” reflete a realidade do usuário a
 ### Seleção dos Participantes
 
 O entrevistado já tem experiência prévia na compra de ingressos online, inclusive em sites de parceiros da Cinemark.
+
+---
 
 ## Registro da Avaliação
 
@@ -71,6 +81,8 @@ Autor: [José Oliveira](https://github.com/Jose1277).
 
 - Incluir no Storyboard um quadro onde o usuário possa filtrar a localidade antes de escolher a sessão, pois, segundo o entrevistado, isso facilita o processo.
 
+---
+
 ## Tarefa 2: Reserva de Salas
 
 ### Objetivo e Escopo da Avaliação
@@ -85,6 +97,8 @@ Avaliar se o Storyboard "Reserva de Salas" reflete a realidade do usuário ao se
 ### Seleção dos Participantes
 
 O entrevistado possui 20 anos, costuma comprar ingressos online.
+
+---
 
 ### Registro da Avaliação
 
@@ -109,6 +123,8 @@ Ausência de um recurso visual para demonstrar o layout e capacidade da sala ant
 ### Sugestões de Melhoria
 
 - Incluir um quadro no Storyboard que permita visualizar o layout e informações detalhadas da sala antes da confirmação da reserva.
+
+---
 
 ## Tarefa 3: Voucher Corporativo
 
@@ -149,6 +165,8 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
 - Adicionar uma funcionalidade que permita ao usuário corporativo gerar relatórios sobre a utilização dos vouchers.
 
+---
+
 ## Tarefa 4: Cinemark Club
 
 ### Objetivo e Escopo da Avaliação
@@ -163,6 +181,8 @@ Avaliar se o Storyboard "Cinemark Club" reflete a realidade do usuário ao geren
 ### Seleção dos Participantes
 
 Entrevistado com experiência no site do Cinemark.
+
+---
 
 ### Registro da Avaliação
 
@@ -201,6 +221,8 @@ Autor: [José Oliveira](https://github.com/Jose1277).
 
 No geral, os usuários mostraram-se satisfeitos com as narrativas, considerando-as fiéis à realidade de interação com o Cinemark.
 
+---
+
 ## Sumário dos Principais Resultados
 
 - Reserva de Salas: Falta de visualização do layout da sala.
@@ -230,6 +252,8 @@ Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 - Voucher Corporativo: Criar funcionalidade para geração de relatórios sobre uso de vouchers.
 - Cinemark Club: Melhorar detalhamento das regras de pontuação e expiração de pontos.
 
+---
+
 ## Entrevista Storyboard
 
 <center>
@@ -241,6 +265,8 @@ Abaixo segue o vídeo feito da entrevista do storyboard, o entrevistador foi [Jo
 _<font size="3">Fonte:[José Oliveira](https://github.com/Jose1277), 2025.</p></font>_
 
 </center>
+
+---
 
 ## Bibliografia
 

@@ -4,6 +4,8 @@
 
 Realizar o planejamento do relato dos resultados tem como objetivo principal determinar a estrutura e organização dos resultados da avaliação em forma de relato. O resultado final poderá ser encontrado em documento posterior chamado relato dos resultados.
 
+---
+
 ## Metodologia
 
 Para realizar o planejamento do relato dos resultados temos como referência o [Planejamento da Avaliação da Análise de Tarefas](./avaliacao-analise-tarefas.md) e nos elementos de avaliação citados por Barbosa [1], que são:
@@ -16,13 +18,19 @@ Para realizar o planejamento do relato dos resultados temos como referência o [
 6. Registro da avaliação;
 7. Planejamento de reprojeto.
 
+---
+
 ## Objetivo e âmbito da avaliação
 
 A finalidade da avaliação será verificar a concordância entre a HTA de "Pesquisar por mídia" e o fluxo de interações dos utilizadores do Domínio Público, ao mesmo tempo em que identificamos oportunidades de aprimoramento visando proporcionar um suporte mais eficiente e satisfatório aos usuários.
 
+---
+
 ### Método de avaliação
 
 A avaliação será conduzida por meio de entrevistas semiestruturadas e observação direta das interações dos participantes com o sistema. Além disso, será realizada a análise qualitativa, ou seja, a categorização e interpretação das respostas e comportamentos observados para identificar padrões e pontos críticos, das respostas e comportamentos observados.
+
+---
 
 ### Cronograma
 
@@ -34,6 +42,8 @@ A avaliação será conduzida por meio de entrevistas semiestruturadas e observa
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde)
 
+---
+
 ### Seleção dos participantes
 
 Para a seleção dos participantes devemos obedecer nosso cronograma e como justificativa dos usuários escolhidos para a realização das entrevistas. Para tal, são elencados os seguintes requisitos:
@@ -42,21 +52,31 @@ Para a seleção dos participantes devemos obedecer nosso cronograma e como just
 - Consentir de livre vontade para participação;
 - Proximidade entre o entrevistado e uma das personas.
 
+---
+
 ### Listagem de problemas
 
 Os problemas identificados durante as entrevistas e observações serão organizados em categorias, considerando a gravidade e a frequência com que impactam a experiência do usuário.
+
+---
 
 ### Sugestões de melhoria
 
 Para cada problema identificado, serão propostas soluções baseadas em princípios de design centrado no usuário e melhores práticas de interação humano-computador.
 
+---
+
 ### Registro da avaliação
 
 Todos os dados coletados serão registrados e analisados utilizando ferramentas de análise qualitativa, como mapas de afinidades e diagramas temáticos.
 
+---
+
 ### Planejamento de reprojeto
 
 Com base nos resultados da avaliação, será desenvolvido um plano de reprojeto detalhado, que incluirá as prioridades para melhorias e o cronograma de implementação.
+
+---
 
 ## Referências Bibliográficas
 

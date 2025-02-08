@@ -4,6 +4,8 @@
 
 Este documento tem como propósito registrar os resultados obtidos na avaliação do protótipo de alta fidelidade. Para isso, serão explorados os tópicos descritos no [Planejamento do Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2024.2-Cinemark/Design-Avalia%C3%A7%C3%A3o-Desenvolvimento/proto-alta/planejamento-avaliacao/).
 
+---
+
 ## Objetivo e Escopo da Avaliação
 
 As seguintes questões orientam a análise para verificar se os objetivos foram alcançados:
@@ -12,6 +14,8 @@ As seguintes questões orientam a análise para verificar se os objetivos foram 
 - Foi possível testar a interação e avaliar a facilidade de uso do protótipo para identificar problemas de usabilidade?
 - A aparência e o estilo visual do protótipo foram analisados para garantir que atendam às expectativas dos usuários, transmitam a identidade da marca e sejam visualmente agradáveis?
 - Todas as funcionalidades planejadas estão presentes e operando corretamente?
+
+---
 
 ## Metodologia
 
@@ -34,9 +38,13 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.co
 
 </center>
 
+---
+
 ### Local
 
 Os testes ocorreram de forma presencial na sala S9 do campus FCTE da Universidade de Brasília (UnB) e na casa do entrevistado 2. O ambiente foi controlado, sendo permitidos estarem em sala somente os integrantes do grupo responsável por alguma atividade técnica e o usuário que realizaria o teste/entrevista.
+
+---
 
 ### Ferramentas
 
@@ -46,12 +54,16 @@ As ferramentas utilizadas foram as seguintes:
 - Um smartphone utilizado para gravação em vídeo dos testes;
 - Um papel contem o script a ser seguido pelos usuarios;
 
+---
+
 ### Tarefas
 
 As tarefas realizadas pelos os usuarios foram as seguintes:
 
 - Realizar cadastro para compra de Voucher Corporativo;
 - Realizar reserva de sala;
+
+---
 
 ### Descrição dos Testes
 
@@ -69,6 +81,8 @@ Antes de se iniciar os testes o participante foi orientado a respeito da funcion
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim) e [Anne](https://github.com/nanecapde)
 
 </center>
+
+---
 
 ## Seleção dos Participantes
 
@@ -89,9 +103,13 @@ A Tabela 3 apresenta os participantes da avaliação e suas respectivas funçõe
 
 _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://github.com/nanecapde), 2025._
 
+---
+
 ## Problemas e Dificuldades Encontradas
 
 Os testes seguiram sem problemas relevantes.
+
+---
 
 ## Feedback dos Usuários
 
@@ -102,6 +120,8 @@ O usuário navegou pelo fluxo de usabilidade sem dificuldades, considerando a di
 ### Teste 2 - Pablo (Reserva de salas)
 
 O usuário não apresentou sofrer nenhuma dificuldade ao passar pelo fluxo de usabilidade. Entretato, algumas melhorias foram sugeridas, como a possibilidade de acesso a área de reserva de salas sem ter que procurar em para empresas.
+
+---
 
 ## Gravação das entrevistas realizadas
 
@@ -129,6 +149,8 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 
 </center>
 
+---
+
 ## Cronograma de Reprojeto
 
 **Tabela 4** - Cronograma de Reprojeto.
@@ -139,6 +161,8 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 | 30/01/2025       | Ajustar a disponibilidade da opção reserva de sala fora da área de para empresas                      |      [Anne](https://github.com/nanecapde)      | [Ana Joyce](https://github.com/anajoyceamorim) |        |
 
 _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025. e [Anne](https://github.com/nanecapde), 2025._
+
+---
 
 ## Referências Bibliográficas
 
