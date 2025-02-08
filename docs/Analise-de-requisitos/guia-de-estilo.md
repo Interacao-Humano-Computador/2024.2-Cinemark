@@ -28,6 +28,8 @@ O Guia de Estilo contará com os seguintes elementos analisados:
   - Consistência
   - Sequências de Diálogos
 
+> Fonte: Página 241-242. Capítulo 10 - Guias de Estilo. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Público-alvo do guia de estilo
 
 O Públlico-alvo consiste na equipe de desenvolvedores do Cinemark como também seus designs e partes interessadas. Ademais pode ajudar outros alunos futuros da disciplina em entender os conceitos trabalhados na matéria Interação Humano-Computador e também para embasar decisões em seus projetos.

@@ -28,6 +28,8 @@ etapas:<br>
 - Testar com a realidade e ver se há coesão.<br>
 - Verificar se é necessário adicionar, deletar ou alterar algo.<br>
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## E - Explore
 
 De acordo com os objetivos definidos no passo anterior, o avaliador deve explorar as perguntas específicas para transformar os objetivos em perguntas para direcionar a avaliação. As perguntas confeccionadas foram:<br>
@@ -39,6 +41,8 @@ De acordo com os objetivos definidos no passo anterior, o avaliador deve explora
 - A história é compreensível?<br>
 - A história condiz com a realidade?<br>
 - Há a necessidade de adicionar, deletar ou alterar algo?<br>
+
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## C - Choose
 
@@ -59,6 +63,8 @@ Questões práticas a serem consideradas:
 - Onde e quando a avaliação será realizada?
 - Como garantir que o processo seja consistente e confiável?
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## D - Validate
 
 Realiza-se a validação das informações obtidas durante os testes com usuários para assegurar que os resultados respondem às questões levantadas na fase "Explore". Além disso, verifica-se se os métodos definidos na etapa "Choose" foram implementados de maneira adequada e eficaz.
@@ -70,6 +76,8 @@ Atividades principais:
 - Avaliar se as informações obtidas são suficientes para promover ajustes e melhorias no storyboard.
 - Documentar os resultados de forma clara e objetiva, facilitando a implementação de mudanças no projeto.
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## E - Execute
 
 A última etapa do framework consiste na execução das melhorias no storyboard com base nos resultados dos testes com usuários. As alterações devem ser realizadas de forma cuidadosa, priorizando os aspectos que impactam diretamente na qualidade e funcionalidade da história visual.
@@ -80,6 +88,8 @@ Atividades principais:
 - Realizar uma nova revisão para garantir que os ajustes solucionaram os problemas detectados.
 - Documentar o processo de alterações para futuras referências e aprendizado.
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
+
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Teste Piloto
 

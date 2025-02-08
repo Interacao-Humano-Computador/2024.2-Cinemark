@@ -30,12 +30,12 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 Para essa avaliação temos como objetivo identificar erros ou possíveis modificações nos protótipos de baixa fidelidade a fim de determinar melhorias e promover a conformidade com os artefatos produzidos anteriormente.
 Os objetivos serão os seguintes:
 
-1. Comparar ideias e alternativas de design
-2. Identificar problemas na interação e interface
+1. Comparar ideias e alternativas de design.
+2. Identificar problemas na interação e interface.
 
 ---
 
-## Explorar perguntas a serem respondidas com a avaliação
+## Explorar perguntas a serem respondidas pelo entrevistador com a avaliação
 
 Com base nos objetivos levantadados anteriormente visa explorar as questões abaixo:
 
@@ -55,8 +55,7 @@ Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Jan
 
 ## Escolher os métodos de avaliação a serem utilizados
 
-Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com
-ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas
+Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas
 problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção.
 Há o método adaptado de observação para prototipação em papel e esse será utilizado para o grupo.
 

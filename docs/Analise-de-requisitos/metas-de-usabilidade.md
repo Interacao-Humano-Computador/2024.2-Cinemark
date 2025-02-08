@@ -2,6 +2,8 @@
 
 Utilizamos princípios de usabilidade eficazes e envolventes para que produtos de software interativos sejam fáceis de aprender e usar. Ela é definida como o grau em que um produto é utilizado por pessoas específicas para alcançar objetivos específicos com eficácia, eficiência e satisfação em um determinado contexto. Dividida em seis metas principais: Eficácia, Eficiência, Segurança, Utilidade, Aprendizado e Memorização, a usabilidade serve como critério para avaliar diferentes aspectos do sistema e da experiência do usuário. Estas metas ajudam os designers a aprimorar o produto, garantindo que atenda às necessidades dos usuários. A seguir, exploraremos cada uma dessas metas e como podem ser alcançadas no contexto do Simples Nacional.
 
+> Fonte: Página 102-105. Capítulo 6 - Processos de Design de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Razão das metas de usabilidade
 
 A usabilidade é essencial para otimizar as interações dos usuários, permitindo que realizem suas atividades cotidianas de forma eficiente, agradável, com facilidade e satisfação. No caso do site do Cinemark, cada meta de usabilidade contribui diretamente para melhorar a experiência do usuário, tornando a navegação mais fluida e intuitiva.
