@@ -1,6 +1,6 @@
 ## Motivação
 
-O site do Cinemark foi selecionado por ser uma plataforma amplamente utilizada por um público diversificado que busca informações e serviços relacionados ao entretenimento. Como um canal essencial para a consulta de horários de filmes, compra de ingressos e alimentos, acesso a promoções e reserva de salas por empresas e escolas, sua relevância no dia a dia dos usuários torna-o um excelente objeto de análise no contexto de Interação Humano-Computador (IHC).
+O site do <a href="https://cinemark.com.br/">Cinemark</a> foi selecionado por ser uma plataforma amplamente utilizada por um público diversificado que busca informações e serviços relacionados ao entretenimento. Como um canal essencial para a consulta de horários de filmes, compra de ingressos e alimentos, acesso a promoções e reserva de salas por empresas e escolas, sua relevância no dia a dia dos usuários torna-o um excelente objeto de análise no contexto de Interação Humano-Computador (IHC).
 
 A escolha também se justifica pelo desafio que um site de grande alcance enfrenta em atender as necessidades de diferentes perfis de usuários, incluindo pessoas com diferentes níveis de familiaridade com a tecnologia. Dessa forma, a análise permitirá compreender como a interface equilibra eficiência, acessibilidade e experiência do usuário.
 
@@ -17,6 +17,7 @@ A escolha também se justifica pelo desafio que um site de grande alcance enfren
 
 ## Histórico de versão
 
-| Versão | Data       | Descrição                                  | Autor(es)                                          | Revisor(es)                                |
-| ------ | ---------- | ------------------------------------------ | -------------------------------------------------- | ------------------------------------------ |
-| 1.0    | 17/11/2024 | Motivação e critérios para escolha do site | [Anne de Capdeville](https://github.com/nanecapde) | [José Felipe](https://github.com/Jose1277) |
+| Versão | Data            | Descrição                                          | Autor(es)                                          | Revisor(es)                                |
+| ------ | --------------- | -------------------------------------------------- | -------------------------------------------------- | ------------------------------------------ |
+| 1.0    | 17/11/2024      | Motivação e critérios para escolha do site         | [Anne de Capdeville](https://github.com/nanecapde) | [José Felipe](https://github.com/Jose1277) |
+| 2.0    | Correção finais | [Anne de Capdeville](https://github.com/nanecapde) |                                                    |

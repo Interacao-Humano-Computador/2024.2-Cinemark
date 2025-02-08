@@ -55,8 +55,7 @@ Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Jan
 
 ## Escolher os métodos de avaliação a serem utilizados
 
-Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador
-coletar dados sobre situações em que os participantes realizam suas atividades, com
+Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com
 ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas
 problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção.
 Há o método adaptado de observação para prototipação em papel e esse será utilizado para o grupo.
@@ -113,7 +112,9 @@ As perguntas serão trabalhadas a partir da seção [Explorar perguntas](#explor
 ## Decidir como lidar com as questões éticas
 
 - Será obtido consentimento dos participantes antes da entrevista.
-- Garantia de anonimato e confidencialidade das respostas coletadas.
+
+[Teermo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md)
+
 <!-- ADICIONAR TERMO DE CONSENTIMENTO -->
 
 ---
@@ -192,6 +193,5 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 |  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
 |  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
-|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |  [José Oliveira](https://github.com/Jose1277)                         |   16/01/2025    |
-|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |      [Ana Joyce](https://github.com/anajoyceamorim)       |   28/01/2025    |
-
+|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |    [José Oliveira](https://github.com/Jose1277)    |   16/01/2025    |
+|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
