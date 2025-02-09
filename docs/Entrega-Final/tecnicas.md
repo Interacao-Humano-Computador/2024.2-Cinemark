@@ -28,6 +28,10 @@ Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 
 </center>
 
+## Conclusão
+
+A execução do projeto seguiu esse ciclo de vida, garantindo a evolução iterativa e incremental da interface estudada. Dessa forma, todas as etapas foram planejadas, documentadas e verificadas, assegurando um produto final alinhado às necessidades dos usuários e aos princípios da Interação Humano-Computador (IHC). Seguindo essa tabela foi possível identificar que os integrantes [Ana Joyce](https://github.com/anajoyceamorim), [Anne Capdeville](https://github.com/nanecapde) e [José Oliveira](https://github.com/jose1277) utilizaram todas as técnicas.
+
 ## Histórico de versões
 
 | Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
