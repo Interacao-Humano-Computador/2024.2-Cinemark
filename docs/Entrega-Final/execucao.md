@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Registrar a execução do ciclo de vida do projeto é essencial para garantir transparência, facilitar a comunicação, gerenciar riscos, promover a melhoria contínua e avaliar o desempenho das atividades. Dessa forma, as partes interessadas podem acompanhar o progresso e verificar os artefatos produzidos em cada fase. Além disso, a documentação auxilia no aprendizado e na consolidação de boas práticas, proporcionando uma visão mais clara de cada etapa do processo. Para isso, foi criada a Tabela 1, que apresenta as fases do projeto conforme o Ciclo de Vida de Mayhew (1999) e os artefatos correspondentes.
+Esse documento apresenta a execução do ciclo de vida do projeto, assim garantindo transparência, facilidade de cominicação, melhoria contínua do trabalho, gerenciamento de riscos e possibilitando avaliar o desempenho das atividades. A documentação auxilia na consolidação de boas práticas, gerando visão mais clara de cada etapa. Assim sendo, foi criada a Tabela 1, que apresenta as fases do projeto conforme o Ciclo de Vida de Mayhew (1999) e os artefatos correspondentes.
 
 <center>
 
@@ -21,6 +21,10 @@ Registrar a execução do ciclo de vida do projeto é essencial para garantir tr
 **Fonte** - [Anne de Capdeville](https://github.com/nanecapde).
 
 </center>
+
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ## Histórico de versões
 

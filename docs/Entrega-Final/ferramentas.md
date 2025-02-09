@@ -29,8 +29,23 @@ A tabela 1 apresenta as ferramentas e as etapas.
 
 </center>
 
+## Bibliografia
+
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [MKdocs](https://www.mkdocs.org/)
+- [Figma](https://www.figma.com/)
+- [Vscode](https://code.visualstudio.com/)
+- [Google Sheets](https://www.google.com/intl/pt-BR/sheets/about/)
+- [OBS](https://obsproject.com/)
+- [Youtube](https://www.youtube.com/)
+- [Whatsapp](https://www.whatsapp.com/)
+- [Discord](https://discord.com/)
+
 ## Histórico de versões
 
-| Versão |     Descrição     |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
-| :----: | :---------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
-|  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
+| Versão |       Descrição        |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 |    [José Oliveira](https://github.com/jose1277)    |   30/01/2025    |
+|  2.0   | Documentação da página |    [José Oliveira](https://github.com/jose1277)    | 09/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   09/02/2025    |
