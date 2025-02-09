@@ -171,4 +171,4 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde) e [Jos�
 |  1.3   |     Finalização da página     | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
 |  1.4   |      Correções da página      | [Anne de Capdeville](https://github.com/nanecapde) | 13/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
 |  1.5   |  Correção dos links e vídeos  | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
-|  2.0   |        Correção finais        | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |                                                    |   xx/02/2025    |
+|  2.0   |        Correção finais        | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |               [José Oliveira](https://github.com/Jose1277)                                      |   09/02/2025    |
