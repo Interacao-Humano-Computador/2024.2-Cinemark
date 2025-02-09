@@ -4,6 +4,8 @@ O projeto deve estar fundamento em princípios, diretrizes e padrões que orient
 
 Os Princípios desempenham um papel auxiliar no design, mas não substituem as etapas essencias de análise, concepção e avaliação. Sua aplicação eficaz exige uma compreensão aprofundada do problema, dos usuários e de suas atividades. Norman (1988) destaca a importância de um modelo conceitual claro, que permita ao usuário compreender facilmente o sistema e suas interações. Também cita a correspondência com expectativas, simplicidade, consistência, promoção de eficiência e design para prevenir e lidar com erros.
 
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ## Metodologia
 
 A fim de embasar a definição dos princípios e diretrizes aplicáveis ao site Cinemark, utilizamos principalmente o capítulo 10 do livro Interação Humano-Computador e Experiência do Usuário (Barbosa, 2021). Tal seção aborda diretamente a explicação e aplicação das diretrizes essenciais permitindo avaliar a conformidade do site com as boas práticas de usabilidade, a identificação de erros e propostas de melhoria.
@@ -129,4 +131,4 @@ BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiên
 |  1.0   |        Criação da página         |   [Ana Joyce](https://github.com/anajoyceamorim)   | 02/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   02/12/2024    |
 |  1.1   | Adição da estrutura do documento |   [Pedro Miguel](https://github.com/pedroMADBR)    | 05/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
 |  1.2   |    Construção dos princípios     |   [Pedro Miguel](https://github.com/pedroMADBR)    | 10/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
-|  1.3   |  Correção do conteúdo da página  | [Anne de Capdeville](https://github.com/nanecapde) | 31/01/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)    |   02/02/2025    |
+|  1.3   |  Correção do conteúdo da página  | [Anne de Capdeville](https://github.com/nanecapde) | 31/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   02/02/2025    |

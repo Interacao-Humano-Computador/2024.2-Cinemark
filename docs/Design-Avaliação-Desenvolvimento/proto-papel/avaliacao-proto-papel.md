@@ -30,12 +30,12 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 Para essa avaliação temos como objetivo identificar erros ou possíveis modificações nos protótipos de baixa fidelidade a fim de determinar melhorias e promover a conformidade com os artefatos produzidos anteriormente.
 Os objetivos serão os seguintes:
 
-1. Comparar ideias e alternativas de design
-2. Identificar problemas na interação e interface
+1. Comparar ideias e alternativas de design.
+2. Identificar problemas na interação e interface.
 
 ---
 
-## Explorar perguntas a serem respondidas com a avaliação
+## Explorar perguntas a serem respondidas pelo entrevistador com a avaliação
 
 Com base nos objetivos levantadados anteriormente visa explorar as questões abaixo:
 
@@ -49,19 +49,18 @@ Com base nos objetivos levantadados anteriormente visa explorar as questões aba
 | Identificar problemas na interação e interface |                                                O usuário consegue operar o sistema?                                                 |
 | Identificar problemas na interação e interface |                                     Que parte da interface e da interação o deixa insatisfeito?                                     |
 
-Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ---
 
 ## Escolher os métodos de avaliação a serem utilizados
 
-Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador
-coletar dados sobre situações em que os participantes realizam suas atividades, com
-ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas
-problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção.
+Assim como Barbosa e Silva (2011) citam ao falar sobre o método de observação podemos dizer que permite ao avaliador coletar dados sobre situações em que os participantes realizam suas atividades, com ou sem apoio de tecnologia computacional. O registro e a análise desses dados permitem identificar problemas reais que os participantes enfrentaram, e não apenas problemas potenciais previstos pelo avaliador como em uma avaliação por inspeção.
 Há o método adaptado de observação para prototipação em papel e esse será utilizado para o grupo.
 
 Outro ponto relatado no Livro de IHC (Barbosa e Silva, 2021) é que terminada a sessão de interação, os avaliadores devem conduzir a entrevista pós-teste. Essa entrevista é uma oportunidade para coletar a opinião do participante sobre a experiência de uso que acabou de vivenciar e esclarecer eventuais dúvidas sobre seu comportamento e suas intenções, percepções e interpretações durante a execução das tarefas.
+
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ---
 
@@ -94,13 +93,13 @@ Planeja-se realizar as entrevistas em método observador de acordo com as seguin
 
 #### Tabela 3 - Cronograma esperado
 
-| Entrevistadores                                    | Entrevistado  | Data       | Duração | Tarefa                    | Local              |
-| -------------------------------------------------- | ------------- | ---------- | ------- | ------------------------- | ------------------ |
-| [Ana Joyce](https://github.com/anajoyceamorim)     | Maria Eduarda | 06/01/2025 | --      | --                        | Faculdade UnB Gama |
-| [Anne de Capdeville](https://github.com/nanecapde) | Solange       | 06/01/2025 | --      | Reserva de Salas          | Faculdade UnB Gama |
-| [José Oliveira](https://github.com/Jose1277)       | Sofia         | 07/01/2025 | --      | --                        | Faculdade UnB Gama |
-| [Pedro Miguel](https://github.com/pedroMADBR)      | Bruno         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
-| [Pedro Miguel](https://github.com/pedroMADBR)      | Pedro         | 08/01/2025 | --      | Cadastro do Cinemark Club | Faculdade UnB Gama |
+| Entrevistadores                                    | Entrevistado  | Data       | Duração | Tarefa                       | Local              |
+| -------------------------------------------------- | ------------- | ---------- | ------- | ---------------------------- | ------------------ |
+| [Ana Joyce](https://github.com/anajoyceamorim)     | Maria Eduarda | 06/01/2025 | --      | --                           | Faculdade UnB Gama |
+| [Anne de Capdeville](https://github.com/nanecapde) | Solange       | 06/01/2025 | --      | Reserva de Salas             | Faculdade UnB Gama |
+| [José Oliveira](https://github.com/Jose1277)       | Sofia         | 07/01/2025 | --      | Compra de Ingressos e Snacks | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Bruno         | 08/01/2025 | --      | Cadastro do Cinemark Club    | Faculdade UnB Gama |
+| [Pedro Miguel](https://github.com/pedroMADBR)      | Pedro         | 08/01/2025 | --      | Cadastro do Cinemark Club    | Faculdade UnB Gama |
 
 Fonte: [Pedro Miguel](https://github.com/pedroMADBR).
 
@@ -113,8 +112,8 @@ As perguntas serão trabalhadas a partir da seção [Explorar perguntas](#explor
 ## Decidir como lidar com as questões éticas
 
 - Será obtido consentimento dos participantes antes da entrevista.
-- Garantia de anonimato e confidencialidade das respostas coletadas.
-<!-- ADICIONAR TERMO DE CONSENTIMENTO -->
+
+[Termo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md)
 
 ---
 
@@ -171,7 +170,7 @@ Abaixo segue o vídeo feito do teste piloto realizado por [Anne de Capdeville](h
 
 <iframe width="1903" height="582" src="https://www.youtube.com/embed/YCz3asrbRp4" title="Teste Piloto Protótipo de papel - Compra de Ingressos e Snacks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.</p></font>_
+_<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277), 2025.</p></font>_
 
 </center>
 
@@ -192,6 +191,6 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 |  1.0   |               Criação do documento               |   [Pedro Miguel](https://github.com/pedroMADBR)    | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   06/01/2025    |
 |  1.1   |                    Correções                     | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.2   | Alteração dos objetivos e correção do cronograma |   [Pedro Miguel](https://github.com/pedroMADBR)    | 14/01/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   14/01/2025    |
-|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |  [José Oliveira](https://github.com/Jose1277)                         |   16/01/2025    |
-|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |      [Ana Joyce](https://github.com/anajoyceamorim)       |   28/01/2025    |
-
+|  1.3   |              Alterações das fontes               | [Anne de Capdeville](https://github.com/nanecapde) | 16/01/2025 |    [José Oliveira](https://github.com/Jose1277)    |   16/01/2025    |
+|  1.4   |           Correção dos links e vídeos            | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
+|  2.0   |                 Correções finais                 | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |     [José Oliveira](https://github.com/Jose1277)                                                |   09/02/2025    |

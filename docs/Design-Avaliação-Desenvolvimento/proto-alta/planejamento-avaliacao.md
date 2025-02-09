@@ -4,6 +4,8 @@
 
 A avaliação é uma etapa fundamental para garantir que o processo de desenvolvimento resulte em um sistema de alta qualidade. Com isso em mente, o artefato apresentado tem como objetivo planejar a avaliação do protótipo de alta fidelidade. Para isso, serão conduzidas entrevistas com usuários reais do produto, utilizando como referência o perfil de usuário, o que permitirá uma análise dinâmica de suas perspectivas.
 
+---
+
 ## Metodologia
 
 A metodologia segue o framework **DECIDE**, onde cada etapa é detalhada a seguir:
@@ -19,9 +21,13 @@ A metodologia segue o framework **DECIDE**, onde cada etapa é detalhada a segui
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
+---
+
 ### **D - Objetivos**
 
 Na fase de protótipo de alta fidelidade, o objetivo é avaliar a usabilidade e a experiência do usuário com o sistema de forma mais realista, identificando possíveis problemas de interação e adequação às necessidades dos usuários. Com base nos princípios de Barbosa e Silva (2011), essa etapa busca validar o design final através de testes que simulem o contexto de uso real, verificando se os elementos visuais, funcionais e de interação estão alinhados aos objetivos do sistema e às expectativas dos usuários, garantindo clareza, eficiência e satisfação.
+
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ---
 
@@ -37,11 +43,15 @@ Perguntas escolhidas:
 5. A experiência geral de uso atende às expectativas dos usuários?
 6. Os usuários cometem erros durante as interações? Se sim, quais?
 
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 ---
 
 ### **C - Escolher os Métodos de Avaliação**
 
 Para a elaboração do artefato a seguir, será utilizado o teste de usabilidade, um método amplamente aplicado na ergonomia e na interação humano-computador para avaliar e testar a usabilidade de sistemas e produtos, por meio da observação direta dos usuários durante a interação. Conforme descrito por Barbosa e Silva (2011), os testes de usabilidade devem estar alinhados às metas de usabilidade estabelecidas no projeto, visando verificar se o sistema as atinge. Essa escolha se justifica por ser um método que permite a coleta de diversas informações relevantes, além de sua flexibilidade, que possibilita a formulação de perguntas mais aprofundadas sobre os objetivos dos usuários. Além disso, é essencial que a entrevista seja rigorosamente gravada e documentada.
+
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
 ---
 
@@ -51,14 +61,20 @@ Para a elaboração do artefato a seguir, será utilizado o teste de usabilidade
 
 Os participantes foram escolhidos com base no artefato de Perfil de Usuário. De acordo com Jakob Nielsen, a maioria dos problemas de usabilidade de um sistema pode ser identificada com apenas cinco participantes. Nielsen argumenta que, após esse número, os ganhos adicionais em termos de novos problemas descobertos diminuem significativamente, pois muitos dos problemas encontrados começam a se repetir. Ele também destaca que realizar vários testes iterativos com pequenos grupos de usuários é mais eficaz do que investir em um único teste com um grande número de participantes. Desta forma foram selecionados 4 participantes.
 
+---
+
 #### **Preparação**
 
 - Um entrevistador explicará a dinâmica da avaliação, procurando diminuir a espectativa do usúario,deixando explícito que se trata de um protótipo e não o produto final.
 - O usuário será orientado a interagir com o protótipo.
 
+---
+
 #### **Custos**
 
 - A avaliação será feita de forma presencial, sem custos financeiros diretos para equipe ou usuários.
+
+---
 
 #### **Prazos**
 
@@ -73,10 +89,13 @@ Um cronograma será seguido para organizar entrevistas e análises:
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
+---
+
 ### **D - Decidir como Lidar com Questões Éticas**
 
 - Será obtido consentimento dos participantes através do [Termo de Consentimento](https://interacao-humano-computador.github.io/2024.2-Cinemark/Analise-de-requisitos/aspectos-eticos/).
-- Garantindo o devido tratamento e confidencialidade das iterações coletadas.
+
+---
 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 
@@ -85,6 +104,8 @@ Após a avaliação, os dados serão registrados e analisados, considerando o co
 O processo incluirá o registro de problemas e dificuldades observados durante a interação, abrangendo questões relacionadas à usabilidade, funcionalidades ausentes e desempenho do sistema. Serão documentadas descrições detalhadas dos problemas, sua classificação, sugestões de melhorias, o feedback dos usuários, e, ao final das entrevistas, serão feitas anotações gerais sobre as observações coletadas.
 
 Concluída essa etapa, os dados serão compartilhados com a equipe de desenvolvimento, visando fornecer informações relevantes que contribuam para o aprimoramento do projeto.
+
+---
 
 ## Teste Piloto
 
@@ -127,11 +148,15 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 
 </center>
 
+---
+
 ### Compra de Voucher Corporativos
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/S7CpOAx7_UA" title="Teste Piloto (Protótipo de Alta)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
+
+---
 
 ## Referências Bibliográficas
 
@@ -152,5 +177,4 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 |  1.0   |   Adição do planejamento    |   [Ana Joyce](https://github.com/anajoyceamorim)   | 14/01/2025 |  [José Oliveira](https://github.com/Jose1277)  |   15/01/2025    |
 |  1.1   |   Adição do teste piloto    | [Anne de Capdeville](https://github.com/nanecapde) | 21/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   26/01/2025    |
 |  1.2   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   28/01/2025    |
-
-
+|  2.0   |      Correções finais       | [Anne de Capdeville](https://github.com/nanecapde) | 08/02/2025 |      [José Oliveira](https://github.com/Jose1277)                                           |   09/02/2025    |

@@ -11,17 +11,27 @@ As perguntas que nortearam esta avaliação foram:
 - Quais problemas de usabilidade foram identificados?
 - Quais ideias principais de design foram destacadas?
 
+> Fonte: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
+
 ## Problemas Encontrados
 
 Por ser um protótipo de papel, alguns elementos não aparecem de forma clara e isso gera dificuldades para o usuário. Contudo, com a ajuda do entrevistador os entrevistados são guiados para diminuir possíveis dificuldades.
+
+---
 
 ## Método de Avaliação
 
 Os dados foram coletados por meio de entrevistas presenciais. Antes de iniciar, foi apresentado um termo de consentimento, informando que as sessões seriam gravadas para análise posterior. Durante as entrevistas, os usuários foram orientados a pensar em voz alta enquanto interagiam com o protótipo.
 
+---
+
 ## Seleção de Participantes
 
 Cinco participantes foram selecionados, representando o público-alvo do Cinemark. A seleção visou garantir que os participantes tivessem experiência relevante com as funcionalidades avaliadas.
+
+---
 
 ## Análise e Interpretação dos Dados
 
@@ -37,12 +47,16 @@ Cinco participantes foram selecionados, representando o público-alvo do Cinemar
 - **Quais ideias principais de design foram destacadas?**
   A necessidade de simplificação na navegação e melhoria na acessibilidade das informações mais importantes foi ressaltada.
 
+---
+
 ## Sumário dos Principais Resultados
 
 As seguintes melhorias foram propostas:
 
 - Implementar um atalho para "Histórico de Compras" na página inicial.
 - Reavaliar o layout para melhorar a clareza e a acessibilidade das funcionalidades principais.
+
+---
 
 #### Entrevista 1
 
@@ -64,13 +78,15 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 
 </center>
 
+---
+
 #### Entrevista 2
 
 ## Sugestões de Melhoria
 
 O usuário, Nicholas sugeriu:
 
-- Opção Reserva de salas mais clara e aparente na página inicial.;
+- Opção Reserva de salas mais clara e aparente na página inicial.
 
 ### Feedback dos Usuários
 
@@ -88,11 +104,11 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde), 2025.<
 
 </center>
 
-## Histórico de versões
+---
 
+## Histórico de versões
 
 | Versão |            Descrição             |                     Autor(es)                      |    Data    |                  Revisor(es)                   | Data de revisão |
 | :----: | :------------------------------: | :------------------------------------------------: | :--------: | :--------------------------------------------: | :-------------: |
 |  1.0   | Criação da página e documentação | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR)  |   14/01/2025    |
 |  1.1   |   Correção dos links e vídeos    | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 | [Ana Joyce](https://github.com/anajoyceamorim) |   28/01/2025    |
-

@@ -21,6 +21,8 @@ Para analisar as tarefas realizadas pelos usuários do Cinemark, utilizamos duas
 
 ![Diagrma HTA - Compra Ingresso](../assets/ferramentas/hta.png)
 
+> Fonte: Página 164-167. Capítulo 8 - Análise de Tarefas. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 Resumo das Relações
 
 - Sequencial (>): Tarefa depende da anterior para ser executada.
@@ -114,6 +116,8 @@ A Árvore de Tarefas Concorrentes (CTT) foi escolhida para analisar as interaç�
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
+> Fonte: Página 173-175. Capítulo 8 - Análise de Tarefas. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
 **Análise da Tarefa CTT 1: Compra de ingressos e alimentos**
 
 A tarefa "Compra de ingressos e alimentos" envolve várias interações do usuário com o sistema, onde o usuário escolhe o filme, sessão, o horário, assentos e serviços extras(compra de alimentos). Além disso, pode incluir uma etapa de pagamento.
@@ -196,4 +200,4 @@ Barbosa S. D. J., Silva B. S. da. Interação Humano-Computador. Elsevier, 2010.
 | :----: | :----------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   | Criação da página  |   [Ana Joyce](https://github.com/anajoyceamorim)   | 01/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   01/12/2024    |
 |  2.0   | Conteúdo da página | [Anne de Capdeville](https://github.com/nanecapde) | 02/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   03/12/2024    |
-|  3.0   | Correção da página | [Anne de Capdeville](https://github.com/nanecapde) | 04/02/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)    |   05/02/2025    |
+|  3.0   |  Correção finais   | [Anne de Capdeville](https://github.com/nanecapde) | 04/02/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   05/02/2025    |

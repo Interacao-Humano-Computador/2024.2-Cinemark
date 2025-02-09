@@ -2,6 +2,8 @@
 
 O storyboard é um esboço visual que representa a sequência de eventos de uma história. Ele é utilizado para planejar a narrativa de um vídeo, animação, filme, entre outros. O storyboard é composto por uma série de quadros que representam as cenas da história, e em cada quadro é possível adicionar descrições, diálogos, e indicações de movimento. Esta técnica proporciona aos desenvolvedores uma visão geral do projeto, facilitando a identificação de problemas e a realização de ajustes antes da produção final.
 
+---
+
 ## Metodologia
 
 Para o planejamento será utilizado o framework decide (Decompose, Empathize, Create, Identify, Validate, Execute).
@@ -17,6 +19,8 @@ Para o planejamento será utilizado o framework decide (Decompose, Empathize, Cr
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
+---
+
 ## D - Determine
 
 Esta etapa determina os objetivos do storyboard, como elaborar a história, definir o público-alvo, e estabelecer o propósito do projeto. Após a elaboraçào deve-se validar se a versão final atende aos objetivos estabelecidos. E por fim, deve-se decidir se ele possui algo a mais que possa alterado, deletado ou adicionado.
@@ -28,9 +32,13 @@ etapas:<br>
 - Testar com a realidade e ver se há coesão.<br>
 - Verificar se é necessário adicionar, deletar ou alterar algo.<br>
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
+
 ## E - Explore
 
-De acordo com os objetivos definidos no passo anterior, o avaliador deve explorar as perguntas específicas para transformar os objetivos em perguntas a serem respondidas durante a avaliação. As perguntas confeccionadas foram:<br>
+De acordo com os objetivos definidos no passo anterior, o avaliador deve explorar as perguntas específicas para transformar os objetivos em perguntas para direcionar a avaliação. As perguntas confeccionadas foram:<br>
 
 - Os objetivos do storyboard estão claros?<br>
 - Os personagens e suas necessidades estão bem definidos?<br>
@@ -40,46 +48,64 @@ De acordo com os objetivos definidos no passo anterior, o avaliador deve explora
 - A história condiz com a realidade?<br>
 - Há a necessidade de adicionar, deletar ou alterar algo?<br>
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
+
 ## C - Choose
 
-Escolher os metodos de avaliação. A avaliação pode ser feito utilizando um método como o teste com usuário ou avaliação heurística. Para o storyboard, a avaliação heurística é mais adequada, pois permite identificar problemas de usabilidade e de design.
+Escolher os metodos de avaliação. A avaliação pode ser feito utilizando um método como o teste com usuário ou avaliação heurística. Para o storyboard, o teste com o usuário é mais adequada, pois permite observar a experiência real do usuário.
+
+---
 
 ## I - Identify
 
-Nesta etapa, são identificadas as questões práticas relacionadas à avaliação heurística do storyboard. É necessário definir os recursos disponíveis, como tempo, participantes e materiais necessários. Também é importante planejar como a avaliação será conduzida e como os dados serão coletados e analisados.
+Nesta etapa, são identificadas as questões práticas relacionadas à realização do teste com usuários do storyboard. É necessário definir os recursos disponíveis, como tempo, participantes e materiais necessários. Também é importante planejar como o teste será conduzido e como os dados serão coletados e analisados.
 
 Questões práticas a serem consideradas:
 
-- Quantos avaliadores realizarão a avaliação heurística?
-- Quais são os critérios de seleção dos avaliadores (experiência em usabilidade, conhecimento do domínio, etc.)?
-- Quanto tempo será destinado para a avaliação?
-- Quais heurísticas serão utilizadas como referência?
-- Como os problemas identificados serão registrados e categorizados?
+- Quantos usuários participarão do teste?
+- Quais são os critérios de seleção dos usuários (perfil do público-alvo, experiência prévia, etc.)?
+- Quanto tempo será destinado para cada sessão de teste?
+- Quais tarefas os usuários deverão realizar durante o teste?
+- Como os dados serão coletados (observação direta, gravações, anotações, questionários pós-teste, etc.)?
 - Como os resultados serão analisados e priorizados?
 - Onde e quando a avaliação será realizada?
 - Como garantir que o processo seja consistente e confiável?
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
+
 ## D - Validate
 
-Realiza-se a validação das informações obtidas durante a avaliação para assegurar que os resultados respondem às questões levantadas na fase "Explore". Além disso, verifica-se se os métodos definidos na etapa "Choose" foram implementados de maneira adequada e eficaz.
+Realiza-se a validação das informações obtidas durante os testes com usuários para assegurar que os resultados respondem às questões levantadas na fase "Explore". Além disso, verifica-se se os métodos definidos na etapa "Choose" foram implementados de maneira adequada e eficaz.
 
 Atividades principais:
 
 - Conferir os dados coletados, analisando se estão em conformidade com os objetivos e perguntas elaboradas.
-- Confirmar a relevância e a consistência dos métodos utilizados durante a avaliação.
+- Confirmar a relevância e a consistência dos métodos utilizados durante os testes.
 - Avaliar se as informações obtidas são suficientes para promover ajustes e melhorias no storyboard.
 - Documentar os resultados de forma clara e objetiva, facilitando a implementação de mudanças no projeto.
 
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
+
 ## E - Execute
 
-A última etapa do framework consiste na execução das melhorias no storyboard com base nos resultados da avaliação. As alterações devem ser realizadas de forma cuidadosa, priorizando os aspectos que impactam diretamente na qualidade e funcionalidade da história visual.
+A última etapa do framework consiste na execução das melhorias no storyboard com base nos resultados dos testes com usuários. As alterações devem ser realizadas de forma cuidadosa, priorizando os aspectos que impactam diretamente na qualidade e funcionalidade da história visual.
 
 Atividades principais:
 
-- Implementar as mudanças necessárias no storyboard conforme os problemas identificados na análise.
+- Implementar as mudanças necessárias no storyboard conforme os problemas identificados nos testes.
 - Realizar uma nova revisão para garantir que os ajustes solucionaram os problemas detectados.
 - Documentar o processo de alterações para futuras referências e aprendizado.
 - Validar o produto final com stakeholders e usuários para verificar se os objetivos do projeto foram alcançados.
+
+> Fonte: Página 258. Capítulo 11 - Planejamento da avaliação de IHC. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+---
 
 ## Teste Piloto
 
@@ -107,6 +133,8 @@ O objetivo do teste piloto serve como uma etapa preliminar para garantir que o t
   Essa etapa inicial também fornece uma amostra dos dados que serão coletados, permitindo ajustes na metodologia para garantir resultados mais precisos e úteis.
 
 Em suma, o teste piloto é crucial para assegurar que o teste de usabilidade seja eficiente, identificando e corrigindo potenciais problemas antes da execução final.
+
+---
 
 ## Resultado do Teste Piloto
 
@@ -143,3 +171,4 @@ _<font size="3">Fonte:[Anne de Capdeville](https://github.com/nanecapde) e [Jos�
 |  1.3   |     Finalização da página     | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   10/12/2024    |
 |  1.4   |      Correções da página      | [Anne de Capdeville](https://github.com/nanecapde) | 13/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
 |  1.5   |  Correção dos links e vídeos  | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
+|  2.0   |        Correção finais        | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |               [José Oliveira](https://github.com/Jose1277)                                      |   09/02/2025    |

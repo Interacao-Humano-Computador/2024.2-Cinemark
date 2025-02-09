@@ -2,7 +2,7 @@
 
 ## Introdução
 
-A avaliação é fundamental para garantir que o sistema atenda aos padrões de qualidade esperados e promova uma experiência satisfatória para os usuários. Este planejamento tem como objetivo realizar uma avaliação da análise de tarefas do site **Cinemark.com**. Para isso, serão conduzidas entrevistas com usuários reais, baseando-se nos perfis previamente definidos. Essa abordagem permitirá identificar problemas e elucidar melhorias na análise de tarefas, garantindo sua adequação às necessidades reais dos usuários.
+A avaliação é fundamental para garantir que o sistema atenda aos padrões de qualidade esperados e promova uma experiência satisfatória para os usuários. Este planejamento tem como objetivo realizar uma avaliação da análise de tarefas do site <a href="https://cinemark.com.br/">**Cinemark.com**</a>. Para isso, serão conduzidas entrevistas com usuários reais, baseando-se nos perfis previamente definidos. Essa abordagem permitirá identificar problemas e elucidar melhorias na análise de tarefas, garantindo sua adequação às necessidades reais dos usuários.
 
 Os HTAs disponíveis para análise incluem:
 
@@ -34,21 +34,22 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 
 Os objetivos desta avaliação são:
 
-1. Verificar a conformidade dos artefatos produzidos na análise de tarefas do site **Cinemark.com** com padrões e boas práticas estabelecidas.
+1. Verificar a conformidade dos artefatos produzidos na análise de tarefas do site <a href="https://cinemark.com.br/">**Cinemark.com**</a> com padrões e boas práticas estabelecidas.
 2. Identificar problemas ou lacunas no fluxo de tarefas descrito.
 3. Coletar sugestões de melhorias diretamente dos usuários para aprimorar as tarefas analisadas.
 4. Coletar informações para desenvolver ou revisar o fluxo de **cancelamento de compra**.
 
 ---
 
-### **E - Explorar Perguntas Respondidas com a Avaliação**
+### **E - Explorar Perguntas A Serem Respondidas Pelos Avaliadores com a Avaliação**
 
-Com base nos objetivos definidos, as perguntas exploradas na avaliação incluem:
+Com base nos objetivos definidos, as perguntas exploradas pelos avaliadores após a avaliação incluem:
 
 - As tarefas analisadas representam corretamente as funcionalidades esperadas para o site?
 - Os diagramas estão devidamente documentados, com notações, legendas e tabelas?
 - O fluxo das tarefas descritas no artefato está alinhado com a experiência real dos usuários?
 - Existem melhorias ou alternativas de design identificadas pelos usuários durante a avaliação?
+- Existem barreiras que impactam negativamente a experiência do usuário?
 
 ---
 
@@ -57,9 +58,9 @@ Com base nos objetivos definidos, as perguntas exploradas na avaliação incluem
 A avaliação será conduzida por meio de:
 
 1. **Entrevistas com usuários reais:** Utilizando um questionário semi-estruturado como roteiro.
-2. **Observação remota:** O entrevistador solicitará que o usuário compartilhe sua tela ao executar tarefas específicas no site.
+2. **Observação remota:** O entrevistador solicitará que o usuário compartilhe seus pensamentos em voz alta ao executar tarefas específicas no site.
 
-**Ferramentas sugeridas:** Microsoft Teams, Discord ou Google Meet.
+**Ferramentas sugeridas:** Microsoft Teams, Discord, Google Meet e Gravação presencial.
 
 ---
 
@@ -73,11 +74,11 @@ A avaliação será conduzida por meio de:
 #### **Preparação**
 
 - Um entrevistador realizará as perguntas e coletará as respostas.
-- O usuário será orientado a realizar tarefas específicas no site, enquanto o entrevistador observa e toma notas.
+- O usuário será orientado a realizar tarefas específicas do site, enquanto o entrevistador observa e toma notas.
 
 #### **Custos**
 
-- A avaliação será feita remotamente, sem custos financeiros diretos para equipe ou usuários.
+- A avaliação será feita presencialmente, sem custos financeiros diretos para equipe ou usuários.
 
 #### **Prazos**
 
@@ -102,17 +103,21 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
 1. Como você buscaria por filmes em cartaz?
    - Observação: O fluxo apresentado no diagrama está coerente?
 2. Como você compraria um ingresso?
-   - Observação: A sequência descrita condiz com sua experiência?
+   - Observação: A sequência descrita condiz com a experiência do usuário?
 3. Como você utilizaria a funcionalidade de compra de vouchers corporativos?
-4. Como você reservou salas no site anteriormente?
+4. Já reservou salas? Se sim, como você reservou salas no site anteriormente? Se não, como faria para reservar salas?
 5. Como você realizaria o cadastro no Cinemark Club?
 6. Como você cancelaria uma compra?
    - Observação: Existem etapas ou funcionalidades ausentes? _(HTA ainda a ser desenvolvido.)_
 
-#### **Sugestões**
+Autor: [Anne de Capdeville](https://github.com/nanecapde).
+
+> FONTE: Página 282-283, Capítulo 12. Avaliação de IHC através de Inspeção. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+#### **Sugestões para o avaliador analisar**
 
 1. Os diagramas das tarefas analisadas são claros e condizentes com a realidade?
-2. Você teria alguma sugestão de melhoria para as tarefas ou o site?
+2. O usuário sugeriu alguma sugestão de melhoria para as tarefas ou o site?
 
 Autor: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -121,7 +126,8 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 ### **D - Decidir como Lidar com Questões Éticas**
 
 - Será obtido consentimento dos participantes antes da entrevista.
-- Garantia de anonimato e confidencialidade das respostas coletadas.
+
+[Termo de Consentimento Livre e Esclarecido (TCLE)](../../Analise-de-requisitos/aspectos-eticos.md)
 
 ### **E - Explorar Perguntas Respondidas com a Avaliação**
 
@@ -145,7 +151,7 @@ Com base nos objetivos definidos, a avaliação buscará responder perguntas rel
 - O fluxo descrito nas tarefas está alinhado com a experiência real dos usuários?  
    _Exemplo_: Na funcionalidade de "Cadastro no Cinemark Club", o usuário encontra dificuldades em entender benefícios ou completar o processo?
 
-- Existem barreiras ou dificuldades que os diagramas não capturam, mas que são percebidas pelos usuários durante o uso?  
+- Existem barreiras ou dificuldades que os diagramas não capturam, mas que ocorrem usuários durante o uso?  
    _Exemplo_: O tempo de resposta do site para carregar opções de "Compra de Vouchers Corporativos" interfere na experiência e não está representado?
 
 #### **4. Melhorias e Alternativas**
@@ -196,7 +202,7 @@ Abaixo segue o vídeo feito do teste piloto em que o [Anne](https://github.com/n
 
 <iframe width="941" height="539" src="https://www.youtube.com/embed/shp9Nl1qMNw" title="teste piloto análise de tarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
+_<font size="3">Autor: [Anne de Capdeville](https://github.com/nanecapde) e [José Oliveira](https://github.com/Jose1277), 2025.</p></font>_
 
 </center>
 
@@ -222,3 +228,4 @@ _<font size="3">[Anne](https://github.com/nanecapde), 2025.</p></font>_
 |  1.3   |    Corrigindo os papéis     |   [Ana Joyce](https://github.com/anajoyceamorim)   | 10/12/2024 | [Anne de Capdeville](https://github.com/nanecapde) |   10/12/2024    |
 |  1.4   |     Correção da página      | [Anne de Capdeville](https://github.com/nanecapde) | 09/01/2025 |   [Pedro Miguel](https://github.com/pedroMADBR)    |   14/01/2025    |
 |  1.5   | Correção dos links e vídeos | [Anne de Capdeville](https://github.com/nanecapde) | 28/01/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   28/01/2025    |
+|  2.0   |       Correção finais       | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |         [José Oliveira](https://github.com/Jose1277)                                            |   09/02/2025    |

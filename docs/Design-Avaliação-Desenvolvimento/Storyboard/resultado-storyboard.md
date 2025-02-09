@@ -30,9 +30,9 @@ O modelo escolhido foi baseado em observação e entrevistas com usuários. Assi
 
 **Tabela 1** - Cronograma planejado.
 
-|                 Entrevistadores(s)                 |               Entrevistado(s)                | Horário de Início | Horário de Fim |    Data    |   Local    |
-| :------------------------------------------------: | :------------------------------------------: | :---------------: | :------------: | :--------: | :--------: |
-| [Anne de Capdeville](https://github.com/nanecapde) | [José Oliveira](https://github.com/Jose1277) |       13:30       |     14:00      | 09/01/2025 | Presencial |
+|                 Entrevistadores(s)                 | Entrevistado(s) | Horário de Início | Horário de Fim |    Data    |   Local    |
+| :------------------------------------------------: | :-------------: | :---------------: | :------------: | :--------: | :--------: |
+| [Anne de Capdeville](https://github.com/nanecapde) | Entrevistado 1  |       13:30       |     14:00      | 09/01/2025 | Presencial |
 
 Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -71,8 +71,8 @@ Com base nas conclusões da avaliação, será desenvolvido um plano de reprojet
 
 |              Executor(a) do Reprojeto              | Horário de Início | Horário de Fim |    Data    |
 | :------------------------------------------------: | :---------------: | :------------: | :--------: |
-| [Anne de Capdeville](https://github.com/nanecapde) |       13:30       |     14:00      | 09/01/2025 |
-|    [José Oliveira](https://github.com/Jose1277)    |       14:30       |     15:00      | 09/01/2025 |
+| [Anne de Capdeville](https://github.com/nanecapde) |       15:00       |     16:00      | 09/01/2025 |
+|    [José Oliveira](https://github.com/Jose1277)    |       16:00       |     17:00      | 09/01/2025 |
 
 Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 
@@ -90,3 +90,4 @@ Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 |  1.1   | Elaboração da página  | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   10/12/2024    |
 |  1.2   | Finalização da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/12/2024 | [Ana Joyce](https://github.com/anajoyceamorim) |   10/12/2024    |
 |  1.3   |  Correções da página  | [Anne de Capdeville](https://github.com/nanecapde) | 14/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR)  |   14/01/2025    |
+|  2.0   |    Correção finais    | [Anne de Capdeville](https://github.com/nanecapde) | 07/02/2025 |                              [José Oliveira](https://github.com/Jose1277)                   |   09/02/2025    |
