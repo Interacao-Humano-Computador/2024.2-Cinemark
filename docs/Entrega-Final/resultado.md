@@ -23,4 +23,4 @@ Ao longo das etapas do projeto, esses resultados foram aplicados e reforçados n
 | Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
 | :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
 |  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
-|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |                                              |   xx/02/2025    |
+|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)  | 10/02/2025    |

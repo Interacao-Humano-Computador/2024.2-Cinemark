@@ -31,4 +31,4 @@ Esse documento apresenta a execução do ciclo de vida do projeto, assim garanti
 | Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
 | :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
 |  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
-|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |                                              |   09/02/2025    |
+|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |   [Ana Joyce](https://github.com/anajoyceamorim)   |   09/02/2025    |

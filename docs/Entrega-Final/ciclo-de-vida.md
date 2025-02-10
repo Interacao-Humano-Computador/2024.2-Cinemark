@@ -44,4 +44,4 @@ Dessa forma, a Engenharia de Usabilidade de Mayhew se mostra o método mais apro
 | :----: | :------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
 |  1.0   |     Criação da página      | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 |    [José Oliveira](https://github.com/jose1277)    |   30/01/2025    |
 |  1.1   | Inserção do ciclo de vida  |   [Pedro Miguel](https://github.com/pedroMADBR)    | 04/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025    |
-|  2.0   | Correções do ciclo de vida | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |                                                    |   xx/02/2025    |
+|  2.0   | Correções do ciclo de vida | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)  | 10/02/2025    |
