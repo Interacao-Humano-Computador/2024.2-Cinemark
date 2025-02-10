@@ -162,4 +162,4 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 |  1.0   |            Criação da página            | [José Oliveira](https://github.com/Jose1277)     | 03/12/2024 | [José Oliveira](https://github.com/Jose1277)        |   03/12/2024    |
 |  1.1   | Tabela itens de desenvolvimento do projeto | [José Oliveira](https://github.com/Jose1277)     | 04/12/2024 | [José Oliveira](https://github.com/Jose1277)        |   04/12/2024    |
 |  1.2   | Arrumando a tabela | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
-|  2.0   | Documentação | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025 | [Nome](https://github.com/anajoyceamorim)   |   xx/02/2025    |
+|  2.0   | Documentação | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025 | [Anne de Capdeville](https://github.com/nanecapde)  |   10/02/2025    |
