@@ -166,4 +166,4 @@ _Fonte: [Ana Joyce](https://github.com/anajoyceamorim), 2025._
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |            subindo a tabela           | [Ana Joyce](https://github.com/anajoyceamorim)     | 06/01/2025 | [Pedro Miguel](https://github.com/pedroMADBR)        |  06/01/2025    |
 |  1.1   |            preenchendo           | [Ana Joyce](https://github.com/anajoyceamorim)     | 06/01/2025 | [Anne de Capdeville](https://github.com/nanecapde)        |  06/01/2025    |
-|  2.0   |    Documentação     | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025| [Nome](https://github.com/nome)        |  xx/02/2025    |
+|  2.0   |    Documentação     | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025| [Anne de Capdeville](https://github.com/nanecapde)        |  10/02/2025    |
