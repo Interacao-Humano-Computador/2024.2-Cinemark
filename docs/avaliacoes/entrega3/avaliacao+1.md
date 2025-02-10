@@ -169,4 +169,4 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamrim)
 | Versão |                 Descrição                 |                     Autor(es)                     |    Data    |                     Revisor(es)                     | Data de revisão |
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |            Criação da página e análise           | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
-|  2.0   |   Documentação     | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025 | [Nome](https://github.com/nome)        |   xx/02/2024    |
+|  2.0   |   Documentação     | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025 | [Anne de Capdeville](https://github.com/nanecapde)        |   10/02/2024    |
