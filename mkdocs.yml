@@ -31,7 +31,6 @@ nav:
           - "Lista de verificação grupo 5": avaliacoes/entrega7/avaliacao+1.md
       - "Entrega 8":
           - "Lista de verificação dos artefatos do grupo":
-             - "Processo de Design": avaliacoes/entrega8/verificacao/processo-de-design.md
              - "Personas": avaliacoes/entrega8/verificacao/personas.md
              - "Elenco de Personas": avaliacoes/entrega8/verificacao/elenco-de-personas.md
              - "Cenários": avaliacoes/entrega8/verificacao/cenarios.md         
@@ -44,7 +43,6 @@ nav:
                 - "Protótipo de Alta": avaliacoes/entrega8/verificacao/DECIDE/proto-alta.md             
 
           - "Lista de verificação dos artefatos do grupo + 1":
-             - "Processo de Design": avaliacoes/entrega8/verificacao+1/processo-de-design.md
              - "Personas": avaliacoes/entrega8/verificacao+1/personas.md
              - "Elenco de Personas": avaliacoes/entrega8/verificacao+1/elenco-de-personas.md
              - "Cenários": avaliacoes/entrega8/verificacao+1/cenarios.md
