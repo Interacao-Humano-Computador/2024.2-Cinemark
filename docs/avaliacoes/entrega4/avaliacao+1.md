@@ -164,4 +164,4 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamrim)
 | :----: | :--------------------------------------: | :-----------------------------------------------: | :--------: | :-------------------------------------------------: | :-------------: |
 |  1.0   |            Criação da página            | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
 |  1.1   |            Revisão do grupo 5            | [Pedro Miguel](https://github.com/pedroMADBR)      | 11/12/2024 |    [Anne de Capdeville](https://github.com/nanecapde)     |   11/12/2024    |
-|  2.0  |    Documentação       | [Ana Joyce](https://github.com/anajoyceamorim)    | 10/02/2025 |    [Nome](https://github.com/nome)     |   xx/12/2025    |
+|  2.0  |    Documentação       | [Ana Joyce](https://github.com/anajoyceamorim)    | 10/02/2025 |    [Anne de Capdeville](https://github.com/nanecapde)     |   10/12/2025    |
