@@ -37,7 +37,7 @@ Os responsáveis pelas verificações são os membros listados na tabela a segui
 
 ### Cronograma
 
-A verificação foi realizada no dia 13/11/2022. A tabela 1 a seguir, apresenta o cronograma das atividades executadas.
+A verificação foi realizada no dia 13/11/2024. A tabela 1 a seguir, apresenta o cronograma das atividades executadas.
 
 <center>
 
