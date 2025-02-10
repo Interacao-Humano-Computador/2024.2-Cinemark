@@ -111,7 +111,7 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamrim)
   // Dados das respostas
   var data = [{
     values: [6, 1, 2],
-    labels: ["Sim", "Incompleto", "Não"],
+    labels: ["Sim", "Não", "Incompleto"],
     type: "pie",
     marker: {
       colors: ["#4CAF50", "#F44336", "#FF9800"]  // Verde para "Sim", Vermelho para "Não", Laranja para "Incompleto"
@@ -138,7 +138,7 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamrim)
   // Dados das respostas
   var data = [{
     values: [9, 2, 1],
-    labels: ["Sim", "Incompleto", "Não"],
+    labels: ["Sim", "Não", "Incompleto"],
     type: "pie",
     marker: {
       colors: ["#4CAF50", "#F44336", "#FF9800"]  // Verde para "Sim", Vermelho para "Não", Laranja para "Incompleto"
