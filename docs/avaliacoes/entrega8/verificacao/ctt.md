@@ -24,7 +24,7 @@ Os responsáveis pelas verificações são os membros listados na tabela a segui
 
 ## Os artefatos alvos dessa verificação são:
 
-- [**Cenários**]()
+- [**Árvores de Tarefas Concorrentes**]()
 
 ### Cronograma
 
