@@ -2,11 +2,11 @@
 
 ## Introdução  
 
-A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) na Etapa 1.
+A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) na Etapa 2.
 
 ## Objetivos  
 
-Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 1 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
+Este documento tem como finalidade verificar se os artefatos desenvolvidos na Etapa 2 pelo [Grupo 4](https://github.com/Interacao-Humano-Computador/2024.2-Cinemark) estão em conformidade com os itens e padrões exigidos.  
 
 ## Metodologia  
 
@@ -77,22 +77,22 @@ Fonte: [José Oliveira](https://github.com/Jose1277)
 
 <center>
 
-**Tabela 2** - Itens do Desenvolvimento do Projeto (Rotina)
+**Tabela 3** - Itens do Desenvolvimento do Projeto
 
 | Itens do Desenvolvimento do Projeto  | Status        | Versão e Data               |
 | ------------------------------------------------------------------ | ---------- | -------------------- |
-| 1 - O perfil do usuário?   | Sim     | 1.0 10/02/2025  11:20    |
-| 2 - O perfil do usuário possui os atributos de um perfil. | Sim           | 1.0 10/02/2025  11:20   |
-| 3 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 | Sim           |  1.0 10/02/2025  11:20   |
-| 4 - Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? | Sim    | 1.0 10/02/2025  11:20  |
-| 5 - Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade)  | Sim    | 1.1, 10/02/2024, 11:00      |
-| 6 - que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação?| Sim  | 1.0 10/02/2025  11:20      |
-| 7 - O termo de consentimento livre e esclarecido dos participantes?| Sim  |  1.0 10/02/2025  11:20   |
-| 8 - Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? | Sim | 1.0 10/02/2025  11:20  |
-| 9 - Os Cenários| Sim | 1.0 10/02/2025  11:20    |
-| 10 - a Análise de tarefas? | Sim | 1.0 10/02/2025  11:20    |
-| 11 - uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas? | Incompleto | 1.0 10/02/2025  11:20    |
-| 10 - Utilizaram alguma técnica para especificar as tarefas? | Sim | 1.0 10/02/2025  11:20    |
+| 1 - O perfil do usuário? (<a href="#REF1">1</a>)   | Sim     | 1.0 10/02/2025  11:20    |
+| 2 - O perfil do usuário possui os atributos de um perfil. (<a href="#REF1">1</a>) | Sim           | 1.0 10/02/2025  11:20   |
+| 3 - O perfil do usuário define os grupos de atributos apresentados no capítulo 8 (<a href="#REF1">1</a>) | Sim           |  1.0 10/02/2025  11:20   |
+| 4 - Considera aspectos Éticos de Pesquisas Envolvendo Pessoas? (<a href="#REF1">1</a>) | Sim    | 1.0 10/02/2025  11:20  |
+| 5 - Os 4 princípios (da autonomia, da beneficência, princípio da não maleficência e da justiça e equidade) (<a href="#REF1">1</a>)   | Sim    | 1.1, 10/02/2024, 11:00      |
+| 6 - que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? (<a href="#REF1">1</a>) | Sim  | 1.0 10/02/2025  11:20      |
+| 7 - O termo de consentimento livre e esclarecido dos participantes? (<a href="#REF1">1</a>) | Sim  |  1.0 10/02/2025  11:20   |
+| 8 - Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)? (<a href="#REF1">1</a>) | Sim | 1.0 10/02/2025  11:20  |
+| 9 - Os Cenários (<a href="#REF1">1</a>) | Sim | 1.0 10/02/2025  11:20    |
+| 10 - a Análise de tarefas? (<a href="#REF1">1</a>)  | Sim | 1.0 10/02/2025  11:20    |
+| 11 - uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas? (<a href="#REF1">1</a>)  | Incompleto | 1.0 10/02/2025  11:20    |
+| 10 - Utilizaram alguma técnica para especificar as tarefas? (<a href="#REF1">1</a>)  | Sim | 1.0 10/02/2025  11:20    |
 
 Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 
@@ -162,3 +162,4 @@ Fonte: [Ana Joyce](https://github.com/anajoyceamorim)
 |  1.0   |            Criação da página            | [José Oliveira](https://github.com/Jose1277)     | 03/12/2024 | [José Oliveira](https://github.com/Jose1277)        |   03/12/2024    |
 |  1.1   | Tabela itens de desenvolvimento do projeto | [José Oliveira](https://github.com/Jose1277)     | 03/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)       |   03/12/2024    |
 |  1.2   | Arrumando a tabela | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR)        |   10/12/2024    |
+|  2.0   | Documentação | [Ana Joyce](https://github.com/anajoyceamorim)     | 10/02/2025 | [Nome](https://github.com/anajoyceamorim)   |   xx/02/2025    |

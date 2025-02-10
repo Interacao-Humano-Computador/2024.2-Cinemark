@@ -1,9 +1,8 @@
+## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
+
 ## Introdução  
 
 A verificação desempenha um papel fundamental no desenvolvimento de um projeto, pois é nessa etapa que os artefatos criados são analisados para assegurar que atendam aos requisitos especificados. Diante disso, este documento detalha o planejamento da verificação dos artefatos desenvolvidos pelo [Grupo 5](https://github.com/Interacao-Humano-Computador/2024.2-CDMOJ) na Etapa 1.
-
-![image](https://github.com/user-attachments/assets/2f67e509-0261-4120-964a-b44efe30865f)## Etapa 1: : Planejamento do Projeto, equipe, Heatmap de disponibilidade dos integrantes, litas de sites avaliados, site selecionado para o projeto da disciplina, Ferramentas do projeto, Processo de Design, cronograma detalhado das atividades do projeto.
-
 
 ## Objetivos  
 
