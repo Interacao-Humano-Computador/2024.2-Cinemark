@@ -175,9 +175,18 @@ Autor: [Anne de Capdeville](https://github.com/nanecapde).
 | Correções da entrega         | 30/01 - 31/01   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) |
 | Entrega final                | 10/02 - 10/02   | [Ana Joyce](https://github.com/anajoyceamorim), [Anne de Capdeville](https://github.com/nanecapde), [José Felipe](https://github.com/Jose1277) e [Pedro Miguel](https://github.com/pedroMADBR) |
 
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> <a id="REF1" href="#anchor_1">2.</a> <a href="../planejamento/cronograma.md">Página do cronograma</a>
+
 ## Histórico de versões
 
-| Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
-| :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
-|  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
-|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |  [José Oliveira](https://github.com/Jose1277)                                             |   09/02/2025    |
+
+| Versão |       Descrição        |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 |    [José Oliveira](https://github.com/jose1277)    |   30/01/2025    |
+|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |    [José Oliveira](https://github.com/jose1277)    |   09/02/2025    |
+|  2.1   | Documentação da página |    [José Oliveira](https://github.com/jose1277)    | 09/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   09/02/2025    |
+

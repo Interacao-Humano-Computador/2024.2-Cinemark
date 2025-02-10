@@ -4,6 +4,8 @@ O site do <a href="https://cinemark.com.br/">Cinemark</a> foi selecionado por se
 
 A escolha também se justifica pelo desafio que um site de grande alcance enfrenta em atender as necessidades de diferentes perfis de usuários, incluindo pessoas com diferentes níveis de familiaridade com a tecnologia. Dessa forma, a análise permitirá compreender como a interface equilibra eficiência, acessibilidade e experiência do usuário.
 
+[Link avaliação Cinemark](https://docs.google.com/document/d/1nIOR5U-18Htpbg_gIvjqgVqiEj8-XB-DoZ8gjcDXV-w/edit?tab=t.0)
+
 ## Critérios para escolha
 
 <ul>

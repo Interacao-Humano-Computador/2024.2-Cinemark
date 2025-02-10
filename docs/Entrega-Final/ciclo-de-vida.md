@@ -1,5 +1,7 @@
 <!-- O ciclo de vida utilizado no projeto (justificativa: o motivo da escolha)-->
 
+# Ciclo de Vida
+
 # Introdução
 
 O ciclo de vida em design de Interação Humano-Computador (IHC) representa um conjunto estruturado de atividades voltadas para a concepção, desenvolvimento e avaliação de sistemas interativos. Esses ciclos organizam e orientam o trabalho do designer, garantindo que as soluções desenvolvidas sejam eficazes, centradas no usuário e iterativas
@@ -38,7 +40,8 @@ Dessa forma, a Engenharia de Usabilidade de Mayhew se mostra o método mais apro
 
 ## Histórico de versões
 
-| Versão |     Descrição     |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
-| :----: | :---------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
-|  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 |  [José Oliveira](https://github.com/jose1277)           |   30/01/2025    |
-|  1.1   | Inserção do ciclo de vida | [Pedro Miguel](https://github.com/pedroMADBR) | 04/02/2025 |  [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025    |
+| Versão |         Descrição          |                     Autor(es)                      |    Data    |                    Revisor(es)                     | Data de revisão |
+| :----: | :------------------------: | :------------------------------------------------: | :--------: | :------------------------------------------------: | :-------------: |
+|  1.0   |     Criação da página      | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 |    [José Oliveira](https://github.com/jose1277)    |   30/01/2025    |
+|  1.1   | Inserção do ciclo de vida  |   [Pedro Miguel](https://github.com/pedroMADBR)    | 04/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   04/02/2025    |
+|  2.0   | Correções do ciclo de vida | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |  [Ana Joyce](https://github.com/anajoyceamorim)  | 10/02/2025    |
