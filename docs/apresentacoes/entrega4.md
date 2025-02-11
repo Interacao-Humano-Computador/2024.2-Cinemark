@@ -28,3 +28,4 @@ Fonte: [Anne de Capdeville](https://github.com/nanecapde) e [José Felipe](https
 | Versão |    Descrição    |                     Autor(es)                      |    Data    | Revisor(es) | Data de revisão |
 | :----: | :-------------: | :------------------------------------------------: | :--------: | :---------: | :-------------: |
 |  1.0   | Adição do Vídeo | [Anne de Capdeville](https://github.com/nanecapde) | 10/02/2024 |    [José Oliveira](github.com/jose1277)         |   10/02/2024    |
+
