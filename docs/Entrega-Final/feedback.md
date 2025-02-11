@@ -35,3 +35,4 @@ A matéria no geral foi trabalhosa e complexa, exigiu bastante tempo, mas após 
 |  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
 |  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 09/02/2025 |    [Ana Joyce](https://github.com/anajoyceamorim)   |  10/02/2025    |
 |  2.1   | Feedback da  Ana Joyce | [Ana Joyce](https://github.com/anajoyceamorim)     | 09/02/2025 |     [Anne de Capdeville](https://github.com/nanecapde)   |  10/02/2025    |
+|  2.1   | Feedback da José | [José Oliveira](https://github.com/jose1277)     | 10/02/2025 |     [Anne de Capdeville](https://github.com/nanecapde)   |  10/02/2025    |
