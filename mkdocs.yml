@@ -31,35 +31,39 @@ nav:
           - "Lista de verificação grupo 5": avaliacoes/entrega7/avaliacao+1.md
       - "Entrega 8":
           - "Lista de verificação dos artefatos do grupo":
-             - "Personas": avaliacoes/entrega8/verificacao/personas.md
-             - "Elenco de Personas": avaliacoes/entrega8/verificacao/elenco-de-personas.md
-             - "Cenários": avaliacoes/entrega8/verificacao/cenarios.md         
-             - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/hta.md
-             - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao/ctt.md
-             - "Framework DECIDE": 
-                - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/DECIDE/hta.md
-                - "Storyboard": avaliacoes/entrega8/verificacao/DECIDE/storyboard.md               
-                - "Protótipo de Papel": avaliacoes/entrega8/verificacao/DECIDE/proto-papel.md
-                - "Protótipo de Alta": avaliacoes/entrega8/verificacao/DECIDE/proto-alta.md             
+              - "Personas": avaliacoes/entrega8/verificacao/personas.md
+              - "Elenco de Personas": avaliacoes/entrega8/verificacao/elenco-de-personas.md
+              - "Cenários": avaliacoes/entrega8/verificacao/cenarios.md
+              - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/hta.md
+              - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao/ctt.md
+              - "Framework DECIDE":
+                  - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao/DECIDE/hta.md
+                  - "Storyboard": avaliacoes/entrega8/verificacao/DECIDE/storyboard.md
+                  - "Protótipo de Papel": avaliacoes/entrega8/verificacao/DECIDE/proto-papel.md
+                  - "Protótipo de Alta": avaliacoes/entrega8/verificacao/DECIDE/proto-alta.md
 
           - "Lista de verificação dos artefatos do grupo + 1":
-             - "Personas": avaliacoes/entrega8/verificacao+1/personas.md
-             - "Elenco de Personas": avaliacoes/entrega8/verificacao+1/elenco-de-personas.md
-             - "Cenários": avaliacoes/entrega8/verificacao+1/cenarios.md
-             - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/hta.md
-             - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao+1/ctt.md
-             - "Framework DECIDE": 
-                - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/DECIDE/hta.md
-                - "Storyboard": avaliacoes/entrega8/verificacao+1/DECIDE/storyboard.md               
-                - "Protótipo de Papel": avaliacoes/entrega8/verificacao+1/DECIDE/proto-papel.md
-                - "Protótipo de Alta": avaliacoes/entrega8/verificacao+1/DECIDE/proto-alta.md
+              - "Personas": avaliacoes/entrega8/verificacao+1/personas.md
+              - "Elenco de Personas": avaliacoes/entrega8/verificacao+1/elenco-de-personas.md
+              - "Cenários": avaliacoes/entrega8/verificacao+1/cenarios.md
+              - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/hta.md
+              - "Árvores de Tarefas Concorrentes": avaliacoes/entrega8/verificacao+1/ctt.md
+              - "Framework DECIDE":
+                  - "Análise de Hierárquia de Tarefas": avaliacoes/entrega8/verificacao+1/DECIDE/hta.md
+                  - "Storyboard": avaliacoes/entrega8/verificacao+1/DECIDE/storyboard.md
+                  - "Protótipo de Papel": avaliacoes/entrega8/verificacao+1/DECIDE/proto-papel.md
+                  - "Protótipo de Alta": avaliacoes/entrega8/verificacao+1/DECIDE/proto-alta.md
 
   - Atas:
       - "Atas": Atas/ata1.md
 
   - Apresentações:
+      - "Entrega 1": apresentacoes/entrega1.md
       - "Entrega 2 e 3": apresentacoes/entrega2.md
       - "Entrega 4": apresentacoes/entrega4.md
+      - "Entrega 5": apresentacoes/entrega5.md
+      - "Entrega 6": apresentacoes/entrega6.md
+      - "Entrega 7": apresentacoes/entrega7.md
 
   - Planejamento:
       - "Cronograma": planejamento/cronograma.md
@@ -103,7 +107,7 @@ nav:
               - "Planejamento do Relato dos Resultado do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/planejamento-resultados.md
               - "Resultado do Relato dos Resultados do Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/resultados.md
               - "Protótipo de Alta Fidelidade": Design-Avaliação-Desenvolvimento/proto-alta/prototipo-alta.md
-              
+
   - Entrega Final:
       - "Cinemark": Entrega-Final/cinemark.md
       - "Ciclo de vida": Entrega-Final/ciclo-de-vida.md
@@ -117,7 +121,6 @@ nav:
       - "Método de Verificação": Entrega-Final/metodo-verif.md
       - "Vídeos das Apresentações": Entrega-Final/video-apresenta.md
       - "Feedback": Entrega-Final/feedback.md
-
 
 theme:
   name: material
