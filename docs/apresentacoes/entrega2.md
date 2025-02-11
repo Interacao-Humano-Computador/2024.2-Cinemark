@@ -81,4 +81,5 @@ Fonte: [Anne de Capdeville](https://github.com/nanecapde).
 | Versão |     Descrição     |                     Autor(es)                      |    Data    |                  Revisor(es)                  | Data de revisão |
 | :----: | :---------------: | :------------------------------------------------: | :--------: | :-------------------------------------------: | :-------------: |
 |  1.1   | adição dos vídeos |   [Ana Joyce](https://github.com/anajoyceamorim)   | 03/12/2024 | [Pedro Miguel](https://github.com/pedroMADBR) |   03/12/2024    |
-|  2.0   |  Adição do Vídeo  | [Anne de Capdeville](https://github.com/nanecapde) | 10/02/2024 |                                               |   10/02/2024    |
+|  2.0   |  Adição do Vídeo  | [Anne de Capdeville](https://github.com/nanecapde) | 10/02/2024 |            [José Oliveira](https://github.com/jose1277)                                   |   10/02/2024    |
+
