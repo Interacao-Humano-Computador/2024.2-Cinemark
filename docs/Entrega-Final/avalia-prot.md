@@ -33,4 +33,4 @@ Desse modo, o projeto Cinemark se beneficia de um processo iterativo, onde o apr
 | Versão |     Descrição     |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
 | :----: | :---------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
 |  1.0   | Criação da página | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
-|  1.1   | edição da página | [José Oliveira](https://github.com/jose1277) | 10/02/2025 | [nome](https://github.com/nome) |   xx/02/2025    |
+|  1.1   | edição da página | [José Oliveira](https://github.com/jose1277) | 10/02/2025 | [Anne de Capdeville](https://github.com/nanecapde) |   10/02/2025    |
