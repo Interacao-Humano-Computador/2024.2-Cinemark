@@ -152,9 +152,20 @@ Participantes: [Anne de Capdeville](https://github.com/nanecapde) e [José Felip
 
 Fonte: [Anne de Capdeville](https://github.com/nanecapde) e [José Felipe](https://github.com/Jose1277).
 
+## Verificações
+
+Participantes: [Ana Joyce](https://github.com/anajoyceamorim)
+
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=g4fO6iMvuE0" target="blanket">Clique aqui</a></p>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/g4fO6iMvuE0" title="Verificação" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Fonte: [Ana Joyce](https://github.com/anajoyceamorim).
+
 ## Histórico de versões
 
 | Versão |       Descrição        |                     Autor(es)                      |    Data    |                 Revisor(es)                  | Data de revisão |
 | :----: | :--------------------: | :------------------------------------------------: | :--------: | :------------------------------------------: | :-------------: |
 |  1.0   |   Criação da página    | [Anne de Capdeville](https://github.com/nanecapde) | 30/01/2025 | [José Oliveira](https://github.com/jose1277) |   30/01/2025    |
-|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/02/2025 |     [José Oliveira](https://github.com/jose1277                                        |   10/02/2025    |
+|  2.0   | Documentação da página | [Anne de Capdeville](https://github.com/nanecapde) | 10/02/2025 |     [José Oliveira](https://github.com/jose1277) |   10/02/2025    |
+|  2.1  | Add artefato vídeo | [Ana Joyce](https://github.com/anajoyceamorim) | 10/02/2025 |    [Anne de Capdeville](https://github.com/nanecapde) |   10/02/2025    |
